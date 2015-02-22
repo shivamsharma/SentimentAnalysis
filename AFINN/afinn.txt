@@ -1,0 +1,10855 @@
+"WORD" "POLARITY"
+"abandon" -2
+"abandoned" -2
+"abandons" -2
+"abducted" -2
+"abduction" -2
+"abductions" -2
+"abhor" -3
+"abhorred" -3
+"abhorrent" -3
+"abhors" -3
+"abilities" 2
+"ability" 2
+"aboard" 1
+"absentee" -1
+"absentees" -1
+"absolve" 2
+"absolved" 2
+"absolves" 2
+"absolving" 2
+"absorbed" 1
+"abuse" -3
+"abused" -3
+"abuses" -3
+"abusive" -3
+"accept" 1
+"accepted" 1
+"accepting" 1
+"accepts" 1
+"accident" -2
+"accidental" -2
+"accidentally" -2
+"accidents" -2
+"accomplish" 2
+"accomplished" 2
+"accomplishes" 2
+"accusation" -2
+"accusations" -2
+"accuse" -2
+"accused" -2
+"accuses" -2
+"accusing" -2
+"ache" -2
+"achievable" 1
+"aching" -2
+"acquit" 2
+"acquits" 2
+"acquitted" 2
+"acquitting" 2
+"acrimonious" -3
+"active" 1
+"adequate" 1
+"admire" 3
+"admired" 3
+"admires" 3
+"admiring" 3
+"admit" -1
+"admits" -1
+"admitted" -1
+"admonish" -2
+"admonished" -2
+"adopt" 1
+"adopts" 1
+"adorable" 3
+"adore" 3
+"adored" 3
+"adores" 3
+"advanced" 1
+"advantage" 2
+"advantages" 2
+"adventure" 2
+"adventures" 2
+"adventurous" 2
+"affected" -1
+"affection" 3
+"affectionate" 3
+"afflicted" -1
+"affronted" -1
+"afraid" -2
+"aggravate" -2
+"aggravated" -2
+"aggravates" -2
+"aggravating" -2
+"aggression" -2
+"aggressions" -2
+"aggressive" -2
+"aghast" -2
+"agog" 2
+"agonise" -3
+"agonised" -3
+"agonises" -3
+"agonising" -3
+"agonize" -3
+"agonized" -3
+"agonizes" -3
+"agonizing" -3
+"agree" 1
+"agreeable" 2
+"agreed" 1
+"agreement" 1
+"agrees" 1
+"alarm" -2
+"alarmed" -2
+"alarmist" -2
+"alarmists" -2
+"alas" -1
+"alert" -1
+"alienation" -2
+"alive" 1
+"allergic" -2
+"allow" 1
+"alone" -2
+"amaze" 2
+"amazed" 2
+"amazes" 2
+"amazing" 4
+"ambitious" 2
+"ambivalent" -1
+"amuse" 3
+"amused" 3
+"amusement" 3
+"amusements" 3
+"anger" -3
+"angers" -3
+"angry" -3
+"anguish" -3
+"anguished" -3
+"animosity" -2
+"annoy" -2
+"annoyance" -2
+"annoyed" -2
+"annoying" -2
+"annoys" -2
+"antagonistic" -2
+"anti" -1
+"anticipation" 1
+"anxiety" -2
+"anxious" -2
+"apathetic" -3
+"apathy" -3
+"apeshit" -3
+"apocalyptic" -2
+"apologise" -1
+"apologised" -1
+"apologises" -1
+"apologising" -1
+"apologize" -1
+"apologized" -1
+"apologizes" -1
+"apologizing" -1
+"apology" -1
+"appalled" -2
+"appalling" -2
+"appease" 2
+"appeased" 2
+"appeases" 2
+"appeasing" 2
+"applaud" 2
+"applauded" 2
+"applauding" 2
+"applauds" 2
+"applause" 2
+"appreciate" 2
+"appreciated" 2
+"appreciates" 2
+"appreciating" 2
+"appreciation" 2
+"apprehensive" -2
+"approval" 2
+"approved" 2
+"approves" 2
+"ardent" 1
+"arrest" -2
+"arrested" -3
+"arrests" -2
+"arrogant" -2
+"ashame" -2
+"ashamed" -2
+"ass" -4
+"assassination" -3
+"assassinations" -3
+"asset" 2
+"assets" 2
+"assfucking" -4
+"asshole" -4
+"astonished" 2
+"astound" 3
+"astounded" 3
+"astounding" 3
+"astoundingly" 3
+"astounds" 3
+"attack" -1
+"attacked" -1
+"attacking" -1
+"attacks" -1
+"attract" 1
+"attracted" 1
+"attracting" 2
+"attraction" 2
+"attractions" 2
+"attracts" 1
+"audacious" 3
+"authority" 1
+"avert" -1
+"averted" -1
+"averts" -1
+"avid" 2
+"avoid" -1
+"avoided" -1
+"avoids" -1
+"await" -1
+"awaited" -1
+"awaits" -1
+"award" 3
+"awarded" 3
+"awards" 3
+"awesome" 4
+"awful" -3
+"awkward" -2
+"axe" -1
+"axed" -1
+"backed" 1
+"backing" 2
+"backs" 1
+"bad" -3
+"badass" -3
+"badly" -3
+"bailout" -2
+"bamboozle" -2
+"bamboozled" -2
+"bamboozles" -2
+"ban" -2
+"banish" -1
+"bankrupt" -3
+"bankster" -3
+"banned" -2
+"bargain" 2
+"barrier" -2
+"bastard" -5
+"bastards" -5
+"battle" -1
+"battles" -1
+"beaten" -2
+"beatific" 3
+"beating" -1
+"beauties" 3
+"beautiful" 3
+"beautifully" 3
+"beautify" 3
+"belittle" -2
+"belittled" -2
+"beloved" 3
+"benefit" 2
+"benefits" 2
+"benefitted" 2
+"benefitting" 2
+"bereave" -2
+"bereaved" -2
+"bereaves" -2
+"bereaving" -2
+"best" 3
+"betray" -3
+"betrayal" -3
+"betrayed" -3
+"betraying" -3
+"betrays" -3
+"better" 2
+"bias" -1
+"biased" -2
+"big" 1
+"bitch" -5
+"bitches" -5
+"bitter" -2
+"bitterly" -2
+"bizarre" -2
+"blah" -2
+"blame" -2
+"blamed" -2
+"blames" -2
+"blaming" -2
+"bless" 2
+"blesses" 2
+"blessing" 3
+"blind" -1
+"bliss" 3
+"blissful" 3
+"blithe" 2
+"block" -1
+"blockbuster" 3
+"blocked" -1
+"blocking" -1
+"blocks" -1
+"bloody" -3
+"blurry" -2
+"boastful" -2
+"bold" 2
+"boldly" 2
+"bomb" -1
+"boost" 1
+"boosted" 1
+"boosting" 1
+"boosts" 1
+"bore" -2
+"bored" -2
+"boring" -3
+"bother" -2
+"bothered" -2
+"bothers" -2
+"bothersome" -2
+"boycott" -2
+"boycotted" -2
+"boycotting" -2
+"boycotts" -2
+"brainwashing" -3
+"brave" 2
+"breakthrough" 3
+"breathtaking" 5
+"bribe" -3
+"bright" 1
+"brightest" 2
+"brightness" 1
+"brilliant" 4
+"brisk" 2
+"broke" -1
+"broken" -1
+"brooding" -2
+"bullied" -2
+"bullshit" -4
+"bully" -2
+"bullying" -2
+"bummer" -2
+"buoyant" 2
+"burden" -2
+"burdened" -2
+"burdening" -2
+"burdens" -2
+"calm" 2
+"calmed" 2
+"calming" 2
+"calms" 2
+"can't stand" -3
+"cancel" -1
+"cancelled" -1
+"cancelling" -1
+"cancels" -1
+"cancer" -1
+"capable" 1
+"captivated" 3
+"care" 2
+"carefree" 1
+"careful" 2
+"carefully" 2
+"careless" -2
+"cares" 2
+"cashing in" -2
+"casualty" -2
+"catastrophe" -3
+"catastrophic" -4
+"cautious" -1
+"celebrate" 3
+"celebrated" 3
+"celebrates" 3
+"celebrating" 3
+"censor" -2
+"censored" -2
+"censors" -2
+"certain" 1
+"chagrin" -2
+"chagrined" -2
+"challenge" -1
+"chance" 2
+"chances" 2
+"chaos" -2
+"chaotic" -2
+"charged" -3
+"charges" -2
+"charm" 3
+"charming" 3
+"charmless" -3
+"chastise" -3
+"chastised" -3
+"chastises" -3
+"chastising" -3
+"cheat" -3
+"cheated" -3
+"cheater" -3
+"cheaters" -3
+"cheats" -3
+"cheer" 2
+"cheered" 2
+"cheerful" 2
+"cheering" 2
+"cheerless" -2
+"cheers" 2
+"cheery" 3
+"cherish" 2
+"cherished" 2
+"cherishes" 2
+"cherishing" 2
+"chic" 2
+"childish" -2
+"chilling" -1
+"choke" -2
+"choked" -2
+"chokes" -2
+"choking" -2
+"clarifies" 2
+"clarity" 2
+"clash" -2
+"classy" 3
+"clean" 2
+"cleaner" 2
+"clear" 1
+"cleared" 1
+"clearly" 1
+"clears" 1
+"clever" 2
+"clouded" -1
+"clueless" -2
+"cock" -5
+"cocksucker" -5
+"cocksuckers" -5
+"cocky" -2
+"coerced" -2
+"collapse" -2
+"collapsed" -2
+"collapses" -2
+"collapsing" -2
+"collide" -1
+"collides" -1
+"colliding" -1
+"collision" -2
+"collisions" -2
+"colluding" -3
+"combat" -1
+"combats" -1
+"comedy" 1
+"comfort" 2
+"comfortable" 2
+"comforting" 2
+"comforts" 2
+"commend" 2
+"commended" 2
+"commit" 1
+"commitment" 2
+"commits" 1
+"committed" 1
+"committing" 1
+"compassionate" 2
+"compelled" 1
+"competent" 2
+"competitive" 2
+"complacent" -2
+"complain" -2
+"complained" -2
+"complains" -2
+"comprehensive" 2
+"conciliate" 2
+"conciliated" 2
+"conciliates" 2
+"conciliating" 2
+"condemn" -2
+"condemnation" -2
+"condemned" -2
+"condemns" -2
+"confidence" 2
+"confident" 2
+"conflict" -2
+"conflicting" -2
+"conflictive" -2
+"conflicts" -2
+"confuse" -2
+"confused" -2
+"confusing" -2
+"congrats" 2
+"congratulate" 2
+"congratulation" 2
+"congratulations" 2
+"consent" 2
+"consents" 2
+"consolable" 2
+"conspiracy" -3
+"constrained" -2
+"contagion" -2
+"contagions" -2
+"contagious" -1
+"contempt" -2
+"contemptuous" -2
+"contemptuously" -2
+"contend" -1
+"contender" -1
+"contending" -1
+"contentious" -2
+"contestable" -2
+"controversial" -2
+"controversially" -2
+"convince" 1
+"convinced" 1
+"convinces" 1
+"convivial" 2
+"cool" 1
+"cool stuff" 3
+"cornered" -2
+"corpse" -1
+"costly" -2
+"courage" 2
+"courageous" 2
+"courteous" 2
+"courtesy" 2
+"cover-up" -3
+"coward" -2
+"cowardly" -2
+"coziness" 2
+"cramp" -1
+"crap" -3
+"crash" -2
+"crazier" -2
+"craziest" -2
+"crazy" -2
+"creative" 2
+"crestfallen" -2
+"cried" -2
+"cries" -2
+"crime" -3
+"criminal" -3
+"criminals" -3
+"crisis" -3
+"critic" -2
+"criticism" -2
+"criticize" -2
+"criticized" -2
+"criticizes" -2
+"criticizing" -2
+"critics" -2
+"cruel" -3
+"cruelty" -3
+"crush" -1
+"crushed" -2
+"crushes" -1
+"crushing" -1
+"cry" -1
+"crying" -2
+"cunt" -5
+"curious" 1
+"curse" -1
+"cut" -1
+"cute" 2
+"cuts" -1
+"cutting" -1
+"cynic" -2
+"cynical" -2
+"cynicism" -2
+"damage" -3
+"damages" -3
+"damn" -4
+"damned" -4
+"damnit" -4
+"danger" -2
+"daredevil" 2
+"daring" 2
+"darkest" -2
+"darkness" -1
+"dauntless" 2
+"dead" -3
+"deadlock" -2
+"deafening" -1
+"dear" 2
+"dearly" 3
+"death" -2
+"debonair" 2
+"debt" -2
+"deceit" -3
+"deceitful" -3
+"deceive" -3
+"deceived" -3
+"deceives" -3
+"deceiving" -3
+"deception" -3
+"decisive" 1
+"dedicated" 2
+"defeated" -2
+"defect" -3
+"defects" -3
+"defender" 2
+"defenders" 2
+"defenseless" -2
+"defer" -1
+"deferring" -1
+"defiant" -1
+"deficit" -2
+"degrade" -2
+"degraded" -2
+"degrades" -2
+"dehumanize" -2
+"dehumanized" -2
+"dehumanizes" -2
+"dehumanizing" -2
+"deject" -2
+"dejected" -2
+"dejecting" -2
+"dejects" -2
+"delay" -1
+"delayed" -1
+"delight" 3
+"delighted" 3
+"delighting" 3
+"delights" 3
+"demand" -1
+"demanded" -1
+"demanding" -1
+"demands" -1
+"demonstration" -1
+"demoralized" -2
+"denied" -2
+"denier" -2
+"deniers" -2
+"denies" -2
+"denounce" -2
+"denounces" -2
+"deny" -2
+"denying" -2
+"depressed" -2
+"depressing" -2
+"derail" -2
+"derailed" -2
+"derails" -2
+"deride" -2
+"derided" -2
+"derides" -2
+"deriding" -2
+"derision" -2
+"desirable" 2
+"desire" 1
+"desired" 2
+"desirous" 2
+"despair" -3
+"despairing" -3
+"despairs" -3
+"desperate" -3
+"desperately" -3
+"despondent" -3
+"destroy" -3
+"destroyed" -3
+"destroying" -3
+"destroys" -3
+"destruction" -3
+"destructive" -3
+"detached" -1
+"detain" -2
+"detained" -2
+"detention" -2
+"determined" 2
+"devastate" -2
+"devastated" -2
+"devastating" -2
+"devoted" 3
+"diamond" 1
+"dick" -4
+"dickhead" -4
+"die" -3
+"died" -3
+"difficult" -1
+"diffident" -2
+"dilemma" -1
+"dipshit" -3
+"dire" -3
+"direful" -3
+"dirt" -2
+"dirtier" -2
+"dirtiest" -2
+"dirty" -2
+"disabling" -1
+"disadvantage" -2
+"disadvantaged" -2
+"disappear" -1
+"disappeared" -1
+"disappears" -1
+"disappoint" -2
+"disappointed" -2
+"disappointing" -2
+"disappointment" -2
+"disappointments" -2
+"disappoints" -2
+"disaster" -2
+"disasters" -2
+"disastrous" -3
+"disbelieve" -2
+"discard" -1
+"discarded" -1
+"discarding" -1
+"discards" -1
+"disconsolate" -2
+"disconsolation" -2
+"discontented" -2
+"discord" -2
+"discounted" -1
+"discouraged" -2
+"discredited" -2
+"disdain" -2
+"disgrace" -2
+"disgraced" -2
+"disguise" -1
+"disguised" -1
+"disguises" -1
+"disguising" -1
+"disgust" -3
+"disgusted" -3
+"disgusting" -3
+"disheartened" -2
+"dishonest" -2
+"disillusioned" -2
+"disinclined" -2
+"disjointed" -2
+"dislike" -2
+"dismal" -2
+"dismayed" -2
+"disorder" -2
+"disorganized" -2
+"disoriented" -2
+"disparage" -2
+"disparaged" -2
+"disparages" -2
+"disparaging" -2
+"displeased" -2
+"dispute" -2
+"disputed" -2
+"disputes" -2
+"disputing" -2
+"disqualified" -2
+"disquiet" -2
+"disregard" -2
+"disregarded" -2
+"disregarding" -2
+"disregards" -2
+"disrespect" -2
+"disrespected" -2
+"disruption" -2
+"disruptions" -2
+"disruptive" -2
+"dissatisfied" -2
+"distort" -2
+"distorted" -2
+"distorting" -2
+"distorts" -2
+"distract" -2
+"distracted" -2
+"distraction" -2
+"distracts" -2
+"distress" -2
+"distressed" -2
+"distresses" -2
+"distressing" -2
+"distrust" -3
+"distrustful" -3
+"disturb" -2
+"disturbed" -2
+"disturbing" -2
+"disturbs" -2
+"dithering" -2
+"dizzy" -1
+"dodging" -2
+"dodgy" -2
+"does not work" -3
+"dolorous" -2
+"dont like" -2
+"doom" -2
+"doomed" -2
+"doubt" -1
+"doubted" -1
+"doubtful" -1
+"doubting" -1
+"doubts" -1
+"douche" -3
+"douchebag" -3
+"downcast" -2
+"downhearted" -2
+"downside" -2
+"drag" -1
+"dragged" -1
+"drags" -1
+"drained" -2
+"dread" -2
+"dreaded" -2
+"dreadful" -3
+"dreading" -2
+"dream" 1
+"dreams" 1
+"dreary" -2
+"droopy" -2
+"drop" -1
+"drown" -2
+"drowned" -2
+"drowns" -2
+"drunk" -2
+"dubious" -2
+"dud" -2
+"dull" -2
+"dumb" -3
+"dumbass" -3
+"dump" -1
+"dumped" -2
+"dumps" -1
+"dupe" -2
+"duped" -2
+"dysfunction" -2
+"eager" 2
+"earnest" 2
+"ease" 2
+"easy" 1
+"ecstatic" 4
+"eerie" -2
+"eery" -2
+"effective" 2
+"effectively" 2
+"elated" 3
+"elation" 3
+"elegant" 2
+"elegantly" 2
+"embarrass" -2
+"embarrassed" -2
+"embarrasses" -2
+"embarrassing" -2
+"embarrassment" -2
+"embittered" -2
+"embrace" 1
+"emergency" -2
+"empathetic" 2
+"emptiness" -1
+"empty" -1
+"enchanted" 2
+"encourage" 2
+"encouraged" 2
+"encouragement" 2
+"encourages" 2
+"endorse" 2
+"endorsed" 2
+"endorsement" 2
+"endorses" 2
+"enemies" -2
+"enemy" -2
+"energetic" 2
+"engage" 1
+"engages" 1
+"engrossed" 1
+"enjoy" 2
+"enjoying" 2
+"enjoys" 2
+"enlighten" 2
+"enlightened" 2
+"enlightening" 2
+"enlightens" 2
+"ennui" -2
+"enrage" -2
+"enraged" -2
+"enrages" -2
+"enraging" -2
+"enrapture" 3
+"enslave" -2
+"enslaved" -2
+"enslaves" -2
+"ensure" 1
+"ensuring" 1
+"enterprising" 1
+"entertaining" 2
+"enthral" 3
+"enthusiastic" 3
+"entitled" 1
+"entrusted" 2
+"envies" -1
+"envious" -2
+"envy" -1
+"envying" -1
+"erroneous" -2
+"error" -2
+"errors" -2
+"escape" -1
+"escapes" -1
+"escaping" -1
+"esteemed" 2
+"ethical" 2
+"euphoria" 3
+"euphoric" 4
+"eviction" -1
+"evil" -3
+"exaggerate" -2
+"exaggerated" -2
+"exaggerates" -2
+"exaggerating" -2
+"exasperated" 2
+"excellence" 3
+"excellent" 3
+"excite" 3
+"excited" 3
+"excitement" 3
+"exciting" 3
+"exclude" -1
+"excluded" -2
+"exclusion" -1
+"exclusive" 2
+"excuse" -1
+"exempt" -1
+"exhausted" -2
+"exhilarated" 3
+"exhilarates" 3
+"exhilarating" 3
+"exonerate" 2
+"exonerated" 2
+"exonerates" 2
+"exonerating" 2
+"expand" 1
+"expands" 1
+"expel" -2
+"expelled" -2
+"expelling" -2
+"expels" -2
+"exploit" -2
+"exploited" -2
+"exploiting" -2
+"exploits" -2
+"exploration" 1
+"explorations" 1
+"expose" -1
+"exposed" -1
+"exposes" -1
+"exposing" -1
+"extend" 1
+"extends" 1
+"exuberant" 4
+"exultant" 3
+"exultantly" 3
+"fabulous" 4
+"fad" -2
+"fag" -3
+"faggot" -3
+"faggots" -3
+"fail" -2
+"failed" -2
+"failing" -2
+"fails" -2
+"failure" -2
+"failures" -2
+"fainthearted" -2
+"fair" 2
+"faith" 1
+"faithful" 3
+"fake" -3
+"fakes" -3
+"faking" -3
+"fallen" -2
+"falling" -1
+"falsified" -3
+"falsify" -3
+"fame" 1
+"fan" 3
+"fantastic" 4
+"farce" -1
+"fascinate" 3
+"fascinated" 3
+"fascinates" 3
+"fascinating" 3
+"fascist" -2
+"fascists" -2
+"fatalities" -3
+"fatality" -3
+"fatigue" -2
+"fatigued" -2
+"fatigues" -2
+"fatiguing" -2
+"favor" 2
+"favored" 2
+"favorite" 2
+"favorited" 2
+"favorites" 2
+"favors" 2
+"fear" -2
+"fearful" -2
+"fearing" -2
+"fearless" 2
+"fearsome" -2
+"fed up" -3
+"feeble" -2
+"feeling" 1
+"felonies" -3
+"felony" -3
+"fervent" 2
+"fervid" 2
+"festive" 2
+"fiasco" -3
+"fidgety" -2
+"fight" -1
+"fine" 2
+"fire" -2
+"fired" -2
+"firing" -2
+"fit" 1
+"fitness" 1
+"flagship" 2
+"flees" -1
+"flop" -2
+"flops" -2
+"flu" -2
+"flustered" -2
+"focused" 2
+"fond" 2
+"fondness" 2
+"fool" -2
+"foolish" -2
+"fools" -2
+"forced" -1
+"foreclosure" -2
+"foreclosures" -2
+"forget" -1
+"forgetful" -2
+"forgive" 1
+"forgiving" 1
+"forgotten" -1
+"fortunate" 2
+"frantic" -1
+"fraud" -4
+"frauds" -4
+"fraudster" -4
+"fraudsters" -4
+"fraudulence" -4
+"fraudulent" -4
+"free" 1
+"freedom" 2
+"frenzy" -3
+"fresh" 1
+"friendly" 2
+"fright" -2
+"frightened" -2
+"frightening" -3
+"frikin" -2
+"frisky" 2
+"frowning" -1
+"frustrate" -2
+"frustrated" -2
+"frustrates" -2
+"frustrating" -2
+"frustration" -2
+"ftw" 3
+"fuck" -4
+"fucked" -4
+"fucker" -4
+"fuckers" -4
+"fuckface" -4
+"fuckhead" -4
+"fucking" -4
+"fucktard" -4
+"fud" -3
+"fuked" -4
+"fuking" -4
+"fulfill" 2
+"fulfilled" 2
+"fulfills" 2
+"fuming" -2
+"fun" 4
+"funeral" -1
+"funerals" -1
+"funky" 2
+"funnier" 4
+"funny" 4
+"furious" -3
+"futile" 2
+"gag" -2
+"gagged" -2
+"gain" 2
+"gained" 2
+"gaining" 2
+"gains" 2
+"gallant" 3
+"gallantly" 3
+"gallantry" 3
+"generous" 2
+"genial" 3
+"ghost" -1
+"giddy" -2
+"gift" 2
+"glad" 3
+"glamorous" 3
+"glamourous" 3
+"glee" 3
+"gleeful" 3
+"gloom" -1
+"gloomy" -2
+"glorious" 2
+"glory" 2
+"glum" -2
+"god" 1
+"goddamn" -3
+"godsend" 4
+"good" 3
+"goodness" 3
+"grace" 1
+"gracious" 3
+"grand" 3
+"grant" 1
+"granted" 1
+"granting" 1
+"grants" 1
+"grateful" 3
+"gratification" 2
+"grave" -2
+"gray" -1
+"great" 3
+"greater" 3
+"greatest" 3
+"greed" -3
+"greedy" -2
+"green wash" -3
+"green washing" -3
+"greenwash" -3
+"greenwasher" -3
+"greenwashers" -3
+"greenwashing" -3
+"greet" 1
+"greeted" 1
+"greeting" 1
+"greetings" 2
+"greets" 1
+"grey" -1
+"grief" -2
+"grieved" -2
+"gross" -2
+"growing" 1
+"growth" 2
+"guarantee" 1
+"guilt" -3
+"guilty" -3
+"gullibility" -2
+"gullible" -2
+"gun" -1
+"ha" 2
+"hacked" -1
+"haha" 3
+"hahaha" 3
+"hahahah" 3
+"hail" 2
+"hailed" 2
+"hapless" -2
+"haplessness" -2
+"happiness" 3
+"happy" 3
+"hard" -1
+"hardier" 2
+"hardship" -2
+"hardy" 2
+"harm" -2
+"harmed" -2
+"harmful" -2
+"harming" -2
+"harms" -2
+"harried" -2
+"harsh" -2
+"harsher" -2
+"harshest" -2
+"hate" -3
+"hated" -3
+"haters" -3
+"hates" -3
+"hating" -3
+"haunt" -1
+"haunted" -2
+"haunting" 1
+"haunts" -1
+"havoc" -2
+"healthy" 2
+"heartbreaking" -3
+"heartbroken" -3
+"heartfelt" 3
+"heaven" 2
+"heavenly" 4
+"heavyhearted" -2
+"hell" -4
+"help" 2
+"helpful" 2
+"helping" 2
+"helpless" -2
+"helps" 2
+"hero" 2
+"heroes" 2
+"heroic" 3
+"hesitant" -2
+"hesitate" -2
+"hid" -1
+"hide" -1
+"hides" -1
+"hiding" -1
+"highlight" 2
+"hilarious" 2
+"hindrance" -2
+"hoax" -2
+"homesick" -2
+"honest" 2
+"honor" 2
+"honored" 2
+"honoring" 2
+"honour" 2
+"honoured" 2
+"honouring" 2
+"hooligan" -2
+"hooliganism" -2
+"hooligans" -2
+"hope" 2
+"hopeful" 2
+"hopefully" 2
+"hopeless" -2
+"hopelessness" -2
+"hopes" 2
+"hoping" 2
+"horrendous" -3
+"horrible" -3
+"horrific" -3
+"horrified" -3
+"hostile" -2
+"huckster" -2
+"hug" 2
+"huge" 1
+"hugs" 2
+"humerous" 3
+"humiliated" -3
+"humiliation" -3
+"humor" 2
+"humorous" 2
+"humour" 2
+"humourous" 2
+"hunger" -2
+"hurrah" 5
+"hurt" -2
+"hurting" -2
+"hurts" -2
+"hypocritical" -2
+"hysteria" -3
+"hysterical" -3
+"hysterics" -3
+"idiot" -3
+"idiotic" -3
+"ignorance" -2
+"ignorant" -2
+"ignore" -1
+"ignored" -2
+"ignores" -1
+"ill" -2
+"illegal" -3
+"illiteracy" -2
+"illness" -2
+"illnesses" -2
+"imbecile" -3
+"immobilized" -1
+"immortal" 2
+"immune" 1
+"impatient" -2
+"imperfect" -2
+"importance" 2
+"important" 2
+"impose" -1
+"imposed" -1
+"imposes" -1
+"imposing" -1
+"impotent" -2
+"impress" 3
+"impressed" 3
+"impresses" 3
+"impressive" 3
+"imprisoned" -2
+"improve" 2
+"improved" 2
+"improvement" 2
+"improves" 2
+"improving" 2
+"inability" -2
+"inaction" -2
+"inadequate" -2
+"incapable" -2
+"incapacitated" -2
+"incensed" -2
+"incompetence" -2
+"incompetent" -2
+"inconsiderate" -2
+"inconvenience" -2
+"inconvenient" -2
+"increase" 1
+"increased" 1
+"indecisive" -2
+"indestructible" 2
+"indifference" -2
+"indifferent" -2
+"indignant" -2
+"indignation" -2
+"indoctrinate" -2
+"indoctrinated" -2
+"indoctrinates" -2
+"indoctrinating" -2
+"ineffective" -2
+"ineffectively" -2
+"infatuated" 2
+"infatuation" 2
+"infected" -2
+"inferior" -2
+"inflamed" -2
+"influential" 2
+"infringement" -2
+"infuriate" -2
+"infuriated" -2
+"infuriates" -2
+"infuriating" -2
+"inhibit" -1
+"injured" -2
+"injury" -2
+"injustice" -2
+"innovate" 1
+"innovates" 1
+"innovation" 1
+"innovative" 2
+"inquisition" -2
+"inquisitive" 2
+"insane" -2
+"insanity" -2
+"insecure" -2
+"insensitive" -2
+"insensitivity" -2
+"insignificant" -2
+"insipid" -2
+"inspiration" 2
+"inspirational" 2
+"inspire" 2
+"inspired" 2
+"inspires" 2
+"inspiring" 3
+"insult" -2
+"insulted" -2
+"insulting" -2
+"insults" -2
+"intact" 2
+"integrity" 2
+"intelligent" 2
+"intense" 1
+"interest" 1
+"interested" 2
+"interesting" 2
+"interests" 1
+"interrogated" -2
+"interrupt" -2
+"interrupted" -2
+"interrupting" -2
+"interruption" -2
+"interrupts" -2
+"intimidate" -2
+"intimidated" -2
+"intimidates" -2
+"intimidating" -2
+"intimidation" -2
+"intricate" 2
+"intrigues" 1
+"invincible" 2
+"invite" 1
+"inviting" 1
+"invulnerable" 2
+"irate" -3
+"ironic" -1
+"irony" -1
+"irrational" -1
+"irresistible" 2
+"irresolute" -2
+"irresponsible" 2
+"irreversible" -1
+"irritate" -3
+"irritated" -3
+"irritating" -3
+"isolated" -1
+"itchy" -2
+"jackass" -4
+"jackasses" -4
+"jailed" -2
+"jaunty" 2
+"jealous" -2
+"jeopardy" -2
+"jerk" -3
+"jesus" 1
+"jewel" 1
+"jewels" 1
+"jocular" 2
+"join" 1
+"joke" 2
+"jokes" 2
+"jolly" 2
+"jovial" 2
+"joy" 3
+"joyful" 3
+"joyfully" 3
+"joyless" -2
+"joyous" 3
+"jubilant" 3
+"jumpy" -1
+"justice" 2
+"justifiably" 2
+"justified" 2
+"keen" 1
+"kill" -3
+"killed" -3
+"killing" -3
+"kills" -3
+"kind" 2
+"kinder" 2
+"kiss" 2
+"kudos" 3
+"lack" -2
+"lackadaisical" -2
+"lag" -1
+"lagged" -2
+"lagging" -2
+"lags" -2
+"lame" -2
+"landmark" 2
+"laugh" 1
+"laughed" 1
+"laughing" 1
+"laughs" 1
+"laughting" 1
+"launched" 1
+"lawl" 3
+"lawsuit" -2
+"lawsuits" -2
+"lazy" -1
+"leak" -1
+"leaked" -1
+"leave" -1
+"legal" 1
+"legally" 1
+"lenient" 1
+"lethargic" -2
+"lethargy" -2
+"liar" -3
+"liars" -3
+"libelous" -2
+"lied" -2
+"lifesaver" 4
+"lighthearted" 1
+"like" 2
+"liked" 2
+"likes" 2
+"limitation" -1
+"limited" -1
+"limits" -1
+"litigation" -1
+"litigious" -2
+"lively" 2
+"livid" -2
+"lmao" 4
+"lmfao" 4
+"loathe" -3
+"loathed" -3
+"loathes" -3
+"loathing" -3
+"lobby" -2
+"lobbying" -2
+"lol" 3
+"lonely" -2
+"lonesome" -2
+"longing" -1
+"loom" -1
+"loomed" -1
+"looming" -1
+"looms" -1
+"loose" -3
+"looses" -3
+"loser" -3
+"losing" -3
+"loss" -3
+"lost" -3
+"lovable" 3
+"love" 3
+"loved" 3
+"lovelies" 3
+"lovely" 3
+"loving" 2
+"lowest" -1
+"loyal" 3
+"loyalty" 3
+"luck" 3
+"luckily" 3
+"lucky" 3
+"lugubrious" -2
+"lunatic" -3
+"lunatics" -3
+"lurk" -1
+"lurking" -1
+"lurks" -1
+"mad" -3
+"maddening" -3
+"made-up" -1
+"madly" -3
+"madness" -3
+"mandatory" -1
+"manipulated" -1
+"manipulating" -1
+"manipulation" -1
+"marvel" 3
+"marvelous" 3
+"marvels" 3
+"masterpiece" 4
+"masterpieces" 4
+"matter" 1
+"matters" 1
+"mature" 2
+"meaningful" 2
+"meaningless" -2
+"medal" 3
+"mediocrity" -3
+"meditative" 1
+"melancholy" -2
+"menace" -2
+"menaced" -2
+"mercy" 2
+"merry" 3
+"mess" -2
+"messed" -2
+"messing up" -2
+"methodical" 2
+"mindless" -2
+"miracle" 4
+"mirth" 3
+"mirthful" 3
+"mirthfully" 3
+"misbehave" -2
+"misbehaved" -2
+"misbehaves" -2
+"misbehaving" -2
+"mischief" -1
+"mischiefs" -1
+"miserable" -3
+"misery" -2
+"misgiving" -2
+"misinformation" -2
+"misinformed" -2
+"misinterpreted" -2
+"misleading" -3
+"misread" -1
+"misreporting" -2
+"misrepresentation" -2
+"miss" -2
+"missed" -2
+"missing" -2
+"mistake" -2
+"mistaken" -2
+"mistakes" -2
+"mistaking" -2
+"misunderstand" -2
+"misunderstanding" -2
+"misunderstands" -2
+"misunderstood" -2
+"moan" -2
+"moaned" -2
+"moaning" -2
+"moans" -2
+"mock" -2
+"mocked" -2
+"mocking" -2
+"mocks" -2
+"mongering" -2
+"monopolize" -2
+"monopolized" -2
+"monopolizes" -2
+"monopolizing" -2
+"moody" -1
+"mope" -1
+"moping" -1
+"moron" -3
+"motherfucker" -5
+"motherfucking" -5
+"motivate" 1
+"motivated" 2
+"motivating" 2
+"motivation" 1
+"mourn" -2
+"mourned" -2
+"mournful" -2
+"mourning" -2
+"mourns" -2
+"mumpish" -2
+"murder" -2
+"murderer" -2
+"murdering" -3
+"murderous" -3
+"murders" -2
+"myth" -1
+"n00b" -2
+"naive" -2
+"nasty" -3
+"natural" 1
+"naïve" -2
+"needy" -2
+"negative" -2
+"negativity" -2
+"neglect" -2
+"neglected" -2
+"neglecting" -2
+"neglects" -2
+"nerves" -1
+"nervous" -2
+"nervously" -2
+"nice" 3
+"nifty" 2
+"niggas" -5
+"nigger" -5
+"no" -1
+"no fun" -3
+"noble" 2
+"noisy" -1
+"nonsense" -2
+"noob" -2
+"nosey" -2
+"not good" -2
+"not working" -3
+"notorious" -2
+"novel" 2
+"numb" -1
+"nuts" -3
+"obliterate" -2
+"obliterated" -2
+"obnoxious" -3
+"obscene" -2
+"obsessed" 2
+"obsolete" -2
+"obstacle" -2
+"obstacles" -2
+"obstinate" -2
+"odd" -2
+"offend" -2
+"offended" -2
+"offender" -2
+"offending" -2
+"offends" -2
+"offline" -1
+"oks" 2
+"ominous" 3
+"once-in-a-lifetime" 3
+"opportunities" 2
+"opportunity" 2
+"oppressed" -2
+"oppressive" -2
+"optimism" 2
+"optimistic" 2
+"optionless" -2
+"outcry" -2
+"outmaneuvered" -2
+"outrage" -3
+"outraged" -3
+"outreach" 2
+"outstanding" 5
+"overjoyed" 4
+"overload" -1
+"overlooked" -1
+"overreact" -2
+"overreacted" -2
+"overreaction" -2
+"overreacts" -2
+"oversell" -2
+"overselling" -2
+"oversells" -2
+"oversimplification" -2
+"oversimplified" -2
+"oversimplifies" -2
+"oversimplify" -2
+"overstatement" -2
+"overstatements" -2
+"overweight" -1
+"oxymoron" -1
+"pain" -2
+"pained" -2
+"panic" -3
+"panicked" -3
+"panics" -3
+"paradise" 3
+"paradox" -1
+"pardon" 2
+"pardoned" 2
+"pardoning" 2
+"pardons" 2
+"parley" -1
+"passionate" 2
+"passive" -1
+"passively" -1
+"pathetic" -2
+"pay" -1
+"peace" 2
+"peaceful" 2
+"peacefully" 2
+"penalty" -2
+"pensive" -1
+"perfect" 3
+"perfected" 2
+"perfectly" 3
+"perfects" 2
+"peril" -2
+"perjury" -3
+"perpetrator" -2
+"perpetrators" -2
+"perplexed" -2
+"persecute" -2
+"persecuted" -2
+"persecutes" -2
+"persecuting" -2
+"perturbed" -2
+"pesky" -2
+"pessimism" -2
+"pessimistic" -2
+"petrified" -2
+"phobic" -2
+"picturesque" 2
+"pileup" -1
+"pique" -2
+"piqued" -2
+"piss" -4
+"pissed" -4
+"pissing" -3
+"piteous" -2
+"pitied" -1
+"pity" -2
+"playful" 2
+"pleasant" 3
+"please" 1
+"pleased" 3
+"pleasure" 3
+"poised" -2
+"poison" -2
+"poisoned" -2
+"poisons" -2
+"pollute" -2
+"polluted" -2
+"polluter" -2
+"polluters" -2
+"pollutes" -2
+"poor" -2
+"poorer" -2
+"poorest" -2
+"popular" 3
+"positive" 2
+"positively" 2
+"possessive" -2
+"postpone" -1
+"postponed" -1
+"postpones" -1
+"postponing" -1
+"poverty" -1
+"powerful" 2
+"powerless" -2
+"praise" 3
+"praised" 3
+"praises" 3
+"praising" 3
+"pray" 1
+"praying" 1
+"prays" 1
+"prblm" -2
+"prblms" -2
+"prepared" 1
+"pressure" -1
+"pressured" -2
+"pretend" -1
+"pretending" -1
+"pretends" -1
+"pretty" 1
+"prevent" -1
+"prevented" -1
+"preventing" -1
+"prevents" -1
+"prick" -5
+"prison" -2
+"prisoner" -2
+"prisoners" -2
+"privileged" 2
+"proactive" 2
+"problem" -2
+"problems" -2
+"profiteer" -2
+"progress" 2
+"prominent" 2
+"promise" 1
+"promised" 1
+"promises" 1
+"promote" 1
+"promoted" 1
+"promotes" 1
+"promoting" 1
+"propaganda" -2
+"prosecute" -1
+"prosecuted" -2
+"prosecutes" -1
+"prosecution" -1
+"prospect" 1
+"prospects" 1
+"prosperous" 3
+"protect" 1
+"protected" 1
+"protects" 1
+"protest" -2
+"protesters" -2
+"protesting" -2
+"protests" -2
+"proud" 2
+"proudly" 2
+"provoke" -1
+"provoked" -1
+"provokes" -1
+"provoking" -1
+"pseudoscience" -3
+"punish" -2
+"punished" -2
+"punishes" -2
+"punitive" -2
+"pushy" -1
+"puzzled" -2
+"quaking" -2
+"questionable" -2
+"questioned" -1
+"questioning" -1
+"racism" -3
+"racist" -3
+"racists" -3
+"rage" -2
+"rageful" -2
+"rainy" -1
+"rant" -3
+"ranter" -3
+"ranters" -3
+"rants" -3
+"rape" -4
+"rapist" -4
+"rapture" 2
+"raptured" 2
+"raptures" 2
+"rapturous" 4
+"rash" -2
+"ratified" 2
+"reach" 1
+"reached" 1
+"reaches" 1
+"reaching" 1
+"reassure" 1
+"reassured" 1
+"reassures" 1
+"reassuring" 2
+"rebellion" -2
+"recession" -2
+"reckless" -2
+"recommend" 2
+"recommended" 2
+"recommends" 2
+"redeemed" 2
+"refuse" -2
+"refused" -2
+"refusing" -2
+"regret" -2
+"regretful" -2
+"regrets" -2
+"regretted" -2
+"regretting" -2
+"reject" -1
+"rejected" -1
+"rejecting" -1
+"rejects" -1
+"rejoice" 4
+"rejoiced" 4
+"rejoices" 4
+"rejoicing" 4
+"relaxed" 2
+"relentless" -1
+"reliant" 2
+"relieve" 1
+"relieved" 2
+"relieves" 1
+"relieving" 2
+"relishing" 2
+"remarkable" 2
+"remorse" -2
+"repulse" -1
+"repulsed" -2
+"rescue" 2
+"rescued" 2
+"rescues" 2
+"resentful" -2
+"resign" -1
+"resigned" -1
+"resigning" -1
+"resigns" -1
+"resolute" 2
+"resolve" 2
+"resolved" 2
+"resolves" 2
+"resolving" 2
+"respected" 2
+"responsible" 2
+"responsive" 2
+"restful" 2
+"restless" -2
+"restore" 1
+"restored" 1
+"restores" 1
+"restoring" 1
+"restrict" -2
+"restricted" -2
+"restricting" -2
+"restriction" -2
+"restricts" -2
+"retained" -1
+"retard" -2
+"retarded" -2
+"retreat" -1
+"revenge" -2
+"revengeful" -2
+"revered" 2
+"revive" 2
+"revives" 2
+"reward" 2
+"rewarded" 2
+"rewarding" 2
+"rewards" 2
+"rich" 2
+"ridiculous" -3
+"rig" -1
+"rigged" -1
+"right direction" 3
+"rigorous" 3
+"rigorously" 3
+"riot" -2
+"riots" -2
+"risk" -2
+"risks" -2
+"rob" -2
+"robber" -2
+"robed" -2
+"robing" -2
+"robs" -2
+"robust" 2
+"rofl" 4
+"roflcopter" 4
+"roflmao" 4
+"romance" 2
+"rotfl" 4
+"rotflmfao" 4
+"rotflol" 4
+"ruin" -2
+"ruined" -2
+"ruining" -2
+"ruins" -2
+"sabotage" -2
+"sad" -2
+"sadden" -2
+"saddened" -2
+"sadly" -2
+"safe" 1
+"safely" 1
+"safety" 1
+"salient" 1
+"sappy" -1
+"sarcastic" -2
+"satisfied" 2
+"save" 2
+"saved" 2
+"scam" -2
+"scams" -2
+"scandal" -3
+"scandalous" -3
+"scandals" -3
+"scapegoat" -2
+"scapegoats" -2
+"scare" -2
+"scared" -2
+"scary" -2
+"sceptical" -2
+"scold" -2
+"scoop" 3
+"scorn" -2
+"scornful" -2
+"scream" -2
+"screamed" -2
+"screaming" -2
+"screams" -2
+"screwed" -2
+"screwed up" -3
+"scumbag" -4
+"secure" 2
+"secured" 2
+"secures" 2
+"sedition" -2
+"seditious" -2
+"seduced" -1
+"self-confident" 2
+"self-deluded" -2
+"selfish" -3
+"selfishness" -3
+"sentence" -2
+"sentenced" -2
+"sentences" -2
+"sentencing" -2
+"serene" 2
+"severe" -2
+"sexy" 3
+"shaky" -2
+"shame" -2
+"shamed" -2
+"shameful" -2
+"share" 1
+"shared" 1
+"shares" 1
+"shattered" -2
+"shit" -4
+"shithead" -4
+"shitty" -3
+"shock" -2
+"shocked" -2
+"shocking" -2
+"shocks" -2
+"shoot" -1
+"short-sighted" -2
+"short-sightedness" -2
+"shortage" -2
+"shortages" -2
+"shrew" -4
+"shy" -1
+"sick" -2
+"sigh" -2
+"significance" 1
+"significant" 1
+"silencing" -1
+"silly" -1
+"sincere" 2
+"sincerely" 2
+"sincerest" 2
+"sincerity" 2
+"sinful" -3
+"singleminded" -2
+"skeptic" -2
+"skeptical" -2
+"skepticism" -2
+"skeptics" -2
+"slam" -2
+"slash" -2
+"slashed" -2
+"slashes" -2
+"slashing" -2
+"slavery" -3
+"sleeplessness" -2
+"slick" 2
+"slicker" 2
+"slickest" 2
+"sluggish" -2
+"slut" -5
+"smart" 1
+"smarter" 2
+"smartest" 2
+"smear" -2
+"smile" 2
+"smiled" 2
+"smiles" 2
+"smiling" 2
+"smog" -2
+"sneaky" -1
+"snub" -2
+"snubbed" -2
+"snubbing" -2
+"snubs" -2
+"sobering" 1
+"solemn" -1
+"solid" 2
+"solidarity" 2
+"solution" 1
+"solutions" 1
+"solve" 1
+"solved" 1
+"solves" 1
+"solving" 1
+"somber" -2
+"some kind" 0
+"son-of-a-bitch" -5
+"soothe" 3
+"soothed" 3
+"soothing" 3
+"sophisticated" 2
+"sore" -1
+"sorrow" -2
+"sorrowful" -2
+"sorry" -1
+"spam" -2
+"spammer" -3
+"spammers" -3
+"spamming" -2
+"spark" 1
+"sparkle" 3
+"sparkles" 3
+"sparkling" 3
+"speculative" -2
+"spirit" 1
+"spirited" 2
+"spiritless" -2
+"spiteful" -2
+"splendid" 3
+"sprightly" 2
+"squelched" -1
+"stab" -2
+"stabbed" -2
+"stable" 2
+"stabs" -2
+"stall" -2
+"stalled" -2
+"stalling" -2
+"stamina" 2
+"stampede" -2
+"startled" -2
+"starve" -2
+"starved" -2
+"starves" -2
+"starving" -2
+"steadfast" 2
+"steal" -2
+"steals" -2
+"stereotype" -2
+"stereotyped" -2
+"stifled" -1
+"stimulate" 1
+"stimulated" 1
+"stimulates" 1
+"stimulating" 2
+"stingy" -2
+"stolen" -2
+"stop" -1
+"stopped" -1
+"stopping" -1
+"stops" -1
+"stout" 2
+"straight" 1
+"strange" -1
+"strangely" -1
+"strangled" -2
+"strength" 2
+"strengthen" 2
+"strengthened" 2
+"strengthening" 2
+"strengthens" 2
+"stressed" -2
+"stressor" -2
+"stressors" -2
+"stricken" -2
+"strike" -1
+"strikers" -2
+"strikes" -1
+"strong" 2
+"stronger" 2
+"strongest" 2
+"struck" -1
+"struggle" -2
+"struggled" -2
+"struggles" -2
+"struggling" -2
+"stubborn" -2
+"stuck" -2
+"stunned" -2
+"stunning" 4
+"stupid" -2
+"stupidly" -2
+"suave" 2
+"substantial" 1
+"substantially" 1
+"subversive" -2
+"success" 2
+"successful" 3
+"suck" -3
+"sucks" -3
+"suffer" -2
+"suffering" -2
+"suffers" -2
+"suicidal" -2
+"suicide" -2
+"suing" -2
+"sulking" -2
+"sulky" -2
+"sullen" -2
+"sunshine" 2
+"super" 3
+"superb" 5
+"superior" 2
+"support" 2
+"supported" 2
+"supporter" 1
+"supporters" 1
+"supporting" 1
+"supportive" 2
+"supports" 2
+"survived" 2
+"surviving" 2
+"survivor" 2
+"suspect" -1
+"suspected" -1
+"suspecting" -1
+"suspects" -1
+"suspend" -1
+"suspended" -1
+"suspicious" -2
+"swear" -2
+"swearing" -2
+"swears" -2
+"sweet" 2
+"swift" 2
+"swiftly" 2
+"swindle" -3
+"swindles" -3
+"swindling" -3
+"sympathetic" 2
+"sympathy" 2
+"tard" -2
+"tears" -2
+"tender" 2
+"tense" -2
+"tension" -1
+"terrible" -3
+"terribly" -3
+"terrific" 4
+"terrified" -3
+"terror" -3
+"terrorize" -3
+"terrorized" -3
+"terrorizes" -3
+"thank" 2
+"thankful" 2
+"thanks" 2
+"thorny" -2
+"thoughtful" 2
+"thoughtless" -2
+"threat" -2
+"threaten" -2
+"threatened" -2
+"threatening" -2
+"threatens" -2
+"threats" -2
+"thrilled" 5
+"thwart" -2
+"thwarted" -2
+"thwarting" -2
+"thwarts" -2
+"timid" -2
+"timorous" -2
+"tired" -2
+"tits" -2
+"tolerant" 2
+"toothless" -2
+"top" 2
+"tops" 2
+"torn" -2
+"torture" -4
+"tortured" -4
+"tortures" -4
+"torturing" -4
+"totalitarian" -2
+"totalitarianism" -2
+"tout" -2
+"touted" -2
+"touting" -2
+"touts" -2
+"tragedy" -2
+"tragic" -2
+"tranquil" 2
+"trap" -1
+"trapped" -2
+"trauma" -3
+"traumatic" -3
+"travesty" -2
+"treason" -3
+"treasonous" -3
+"treasure" 2
+"treasures" 2
+"trembling" -2
+"tremulous" -2
+"tricked" -2
+"trickery" -2
+"triumph" 4
+"triumphant" 4
+"trouble" -2
+"troubled" -2
+"troubles" -2
+"true" 2
+"trust" 1
+"trusted" 2
+"tumor" -2
+"twat" -5
+"ugly" -3
+"unacceptable" -2
+"unappreciated" -2
+"unapproved" -2
+"unaware" -2
+"unbelievable" -1
+"unbelieving" -1
+"unbiased" 2
+"uncertain" -1
+"unclear" -1
+"uncomfortable" -2
+"unconcerned" -2
+"unconfirmed" -1
+"unconvinced" -1
+"uncredited" -1
+"undecided" -1
+"underestimate" -1
+"underestimated" -1
+"underestimates" -1
+"underestimating" -1
+"undermine" -2
+"undermined" -2
+"undermines" -2
+"undermining" -2
+"undeserving" -2
+"undesirable" -2
+"uneasy" -2
+"unemployment" -2
+"unequal" -1
+"unequaled" 2
+"unethical" -2
+"unfair" -2
+"unfocused" -2
+"unfulfilled" -2
+"unhappy" -2
+"unhealthy" -2
+"unified" 1
+"unimpressed" -2
+"unintelligent" -2
+"united" 1
+"unjust" -2
+"unlovable" -2
+"unloved" -2
+"unmatched" 1
+"unmotivated" -2
+"unprofessional" -2
+"unresearched" -2
+"unsatisfied" -2
+"unsecured" -2
+"unsettled" -1
+"unsophisticated" -2
+"unstable" -2
+"unstoppable" 2
+"unsupported" -2
+"unsure" -1
+"untarnished" 2
+"unwanted" -2
+"unworthy" -2
+"upset" -2
+"upsets" -2
+"upsetting" -2
+"uptight" -2
+"urgent" -1
+"useful" 2
+"usefulness" 2
+"useless" -2
+"uselessness" -2
+"vague" -2
+"validate" 1
+"validated" 1
+"validates" 1
+"validating" 1
+"verdict" -1
+"verdicts" -1
+"vested" 1
+"vexation" -2
+"vexing" -2
+"vibrant" 3
+"vicious" -2
+"victim" -3
+"victimize" -3
+"victimized" -3
+"victimizes" -3
+"victimizing" -3
+"victims" -3
+"vigilant" 3
+"vile" -3
+"vindicate" 2
+"vindicated" 2
+"vindicates" 2
+"vindicating" 2
+"violate" -2
+"violated" -2
+"violates" -2
+"violating" -2
+"violence" -3
+"violent" -3
+"virtuous" 2
+"virulent" -2
+"vision" 1
+"visionary" 3
+"visioning" 1
+"visions" 1
+"vitality" 3
+"vitamin" 1
+"vitriolic" -3
+"vivacious" 3
+"vociferous" -1
+"vulnerability" -2
+"vulnerable" -2
+"walkout" -2
+"walkouts" -2
+"wanker" -3
+"want" 1
+"war" -2
+"warfare" -2
+"warm" 1
+"warmth" 2
+"warn" -2
+"warned" -2
+"warning" -3
+"warnings" -3
+"warns" -2
+"waste" -1
+"wasted" -2
+"wasting" -2
+"wavering" -1
+"weak" -2
+"weakness" -2
+"wealth" 3
+"wealthy" 2
+"weary" -2
+"weep" -2
+"weeping" -2
+"weird" -2
+"welcome" 2
+"welcomed" 2
+"welcomes" 2
+"whimsical" 1
+"whitewash" -3
+"whore" -4
+"wicked" -2
+"widowed" -1
+"willingness" 2
+"win" 4
+"winner" 4
+"winning" 4
+"wins" 4
+"winwin" 3
+"wish" 1
+"wishes" 1
+"wishing" 1
+"withdrawal" -3
+"woebegone" -2
+"woeful" -3
+"won" 3
+"wonderful" 4
+"woo" 3
+"woohoo" 3
+"wooo" 4
+"woow" 4
+"worn" -1
+"worried" -3
+"worry" -3
+"worrying" -3
+"worse" -3
+"worsen" -3
+"worsened" -3
+"worsening" -3
+"worsens" -3
+"worshiped" 3
+"worst" -3
+"worth" 2
+"worthless" -2
+"worthy" 2
+"wow" 4
+"wowow" 4
+"wowww" 4
+"wrathful" -3
+"wreck" -2
+"wrong" -2
+"wronged" -2
+"wtf" -4
+"yeah" 1
+"yearning" 1
+"yeees" 2
+"yes" 1
+"youthful" 2
+"yucky" -2
+"yummy" 3
+"zealot" -2
+"zealots" -2
+"zealous" 2
+"desert" -2
+"desolate" -2
+"empty" -2
+"forsake" -2
+"give up" -2
+"vacate" -2
+"unconstraint" -2
+"wantonness" -2
+"wildness" -2
+"derelict" -2
+"deserted" -2
+"abominate" -3
+"execrate" -3
+"detestable" -3
+"obscene" -3
+"repugnant" -3
+"repulsive" -3
+"power" 2
+"alongside" 1
+"on base" 1
+"on board" 1
+"free" 2
+"justify" 2
+"shrive" 2
+"clear" 2
+"cleared" 2
+"exculpated" 2
+"captive" 1
+"enwrapped" 1
+"intent" 1
+"wrapped" 1
+"blackguard" -3
+"clapperclaw" -3
+"ill-treat" -3
+"ill-use" -3
+"maltreat" -3
+"mistreat" -3
+"misuse" -3
+"pervert" -3
+"shout" -3
+"step" -3
+"contumely" -3
+"ill-treatment" -3
+"ill-usage" -3
+"insult" -3
+"maltreatment" -3
+"revilement" -3
+"vilification" -3
+"ill-treated" -3
+"maltreated" -3
+"mistreated" -3
+"opprobrious" -3
+"scurrilous" -3
+"admit" 1
+"assume" 1
+"bear" 1
+"consent" 1
+"go for" 1
+"have" 1
+"live with" 1
+"swallow" 1
+"take" 1
+"take on" 1
+"take over" 1
+"recognised" 1
+"recognized" 1
+"chance event" -2
+"fortuity" -2
+"stroke" -2
+"inadvertent" -2
+"by chance" -2
+"circumstantially" -2
+"incidentally" -2
+"unexpectedly" -2
+"unintentionally" -2
+"achieve" 2
+"action" 2
+"attain" 2
+"carry out" 2
+"carry through" 2
+"execute" 2
+"fulfil" 2
+"reach" 2
+"complete" 2
+"completed" 2
+"effected" 2
+"established" 2
+"realised" 2
+"realized" 2
+"accusal" -2
+"charge" -2
+"criminate" -2
+"impeach" -2
+"incriminate" -2
+"accusative" -2
+"accusatory" -2
+"accusive" -2
+"languish" -2
+"pine" -2
+"smart" -2
+"yearn" -2
+"yen" -2
+"accomplishable" 1
+"doable" 1
+"manageable" 1
+"realizable" 1
+"achy" -2
+"assoil" 2
+"bear" 2
+"behave" 2
+"carry" 2
+"comport" 2
+"conduct" 2
+"deport" 2
+"discharge" 2
+"exculpate" 2
+"not guilty" 2
+"bitter" -3
+"alive(p)" 1
+"combat-ready" 1
+"dynamic" 1
+"fighting(a)" 1
+"participating" 1
+"active agent" 1
+"active voice" 1
+"decent" 1
+"enough" 1
+"equal" 1
+"fair to middling" 1
+"passable" 1
+"tolerable" 1
+"look up to" 3
+"accept" -1
+"accommodate" -1
+"acknowledge" -1
+"allow" -1
+"allow in" -1
+"hold" -1
+"include" -1
+"intromit" -1
+"let in" -1
+"take" -1
+"take on" -1
+"caution" -2
+"discourage" -2
+"monish" -2
+"reprove" -2
+"acquire" 1
+"borrow" 1
+"dramatise" 1
+"dramatize" 1
+"espouse" 1
+"follow" 1
+"sweep up" 1
+"take in" 1
+"take up" 1
+"endearing" 3
+"idolised" 3
+"idolized" 3
+"worshipped(a)" 3
+"advance(a)" 1
+"advanced(a)" 1
+"forward-looking" 1
+"in advance(p)" 1
+"innovative" 1
+"modern" 1
+"ripe" 1
+"sophisticated" 1
+"vantage" 2
+"gamble" 2
+"hazard" 2
+"jeopardize" 2
+"risk" 2
+"run a risk" 2
+"stake" 2
+"take a chance" 2
+"take chances" 2
+"venture" 2
+"dangerous undertaking" 2
+"escapade" 2
+"risky venture" 2
+"adventuresome" 2
+"moved(p)" -1
+"stirred" -1
+"touched" -1
+"unnatural" -1
+"affectionateness" 3
+"fondness" 3
+"heart" 3
+"philia" 3
+"tenderness" 3
+"warmheartedness" 3
+"warmness" 3
+"fond" 3
+"lovesome" 3
+"tender" 3
+"warm" 3
+"impaired" -1
+"stricken" -1
+"afraid(p)" -2
+"exacerbate" -2
+"exasperate" -2
+"worsen" -2
+"provoked" -2
+"exacerbating" -2
+"exasperating" -2
+"aggressiveness" -2
+"hostility" -2
+"belligerent" -2
+"fast-growing(a)" -2
+"strong-growing" -2
+"aghast(p)" -2
+"excruciating" -3
+"harrowing" -3
+"torturesome" -3
+"torturing" -3
+"torturous" -3
+"accord" 1
+"check" 1
+"concord" 1
+"concur" 1
+"consort" 1
+"correspond" 1
+"fit in" 1
+"gibe" 1
+"harmonise" 1
+"harmonize" 1
+"hold" 1
+"jibe" 1
+"match" 1
+"tally" 1
+"accordant" 2
+"concordant" 2
+"conformable" 2
+"consonant" 2
+"in agreement(p)" 1
+"arrangement" 1
+"correspondence" 1
+"understanding" 1
+"alert" -2
+"appal" -2
+"appall" -2
+"dismay" -2
+"horrify" -2
+"alarm clock" -2
+"alarm system" -2
+"alarum" -2
+"consternation" -2
+"warning device" -2
+"warning signal" -2
+"regrettably" -1
+"unfortunately" -1
+"unluckily" -1
+"alive(p)" -1
+"awake(p)" -1
+"brisk" -1
+"lively" -1
+"merry" -1
+"rattling" -1
+"snappy" -1
+"spanking" -1
+"watchful" -1
+"zippy" -1
+"alarm" -1
+"alarum" -1
+"alerting" -1
+"qui vive" -1
+"warning signal" -1
+"disaffection" -2
+"estrangement" -2
+"alert" 1
+"animated" 1
+"awake(p)" 1
+"live" 1
+"hypersensitised" -2
+"hypersensitive" -2
+"hypersensitized" -2
+"sensitised" -2
+"sensitized" -2
+"supersensitised" -2
+"supersensitive" -2
+"supersensitized" -2
+"allow for" 1
+"appropriate" 1
+"countenance" 1
+"earmark" 1
+"give up" 1
+"leave" 1
+"let" 1
+"permit" 1
+"provide" 1
+"reserve" 1
+"set aside" 1
+"take into account" 1
+"tolerate" 1
+"alone(p)" -2
+"lone(a)" -2
+"lonely(a)" -2
+"only" -2
+"solitary" -2
+"unequaled" -2
+"unequalled" -2
+"unique" -2
+"unparalleled" -2
+"entirely" -2
+"exclusively" -2
+"solely" -2
+"solo" -2
+"unaccompanied" -2
+"astonish" 2
+"astound" 2
+"baffle" 2
+"beat" 2
+"bewilder" 2
+"dumbfound" 2
+"flummox" 2
+"get" 2
+"gravel" 2
+"mystify" 2
+"nonplus" 2
+"perplex" 2
+"pose" 2
+"puzzle" 2
+"stick" 2
+"stupefy" 2
+"vex" 2
+"astonied" 2
+"astounded" 2
+"stunned" 2
+"astonishing" 4
+"awe-inspiring" 4
+"awful" 4
+"awing" 4
+"challenging" 2
+"disport" 3
+"divert" 3
+"diverted" 3
+"entertained" 3
+"entertainment" 3
+"see red" -3
+"angriness" -3
+"choler" -3
+"ira" -3
+"ire" -3
+"wrath" -3
+"raging" -3
+"tempestuous" -3
+"wild" -3
+"hurt" -3
+"pain" -3
+"torment" -3
+"torture" -3
+"tormented" -3
+"tortured" -3
+"animus" -2
+"bad blood" -2
+"chafe" -2
+"devil" -2
+"get at" -2
+"get to" -2
+"gravel" -2
+"irritate" -2
+"nark" -2
+"nettle" -2
+"rag" -2
+"rile" -2
+"vex" -2
+"aggravator" -2
+"botheration" -2
+"infliction" -2
+"irritation" -2
+"pain in the ass" -2
+"pain in the neck" -2
+"harassed" -2
+"irritated" -2
+"miffed" -2
+"nettled" -2
+"peeved" -2
+"pestered" -2
+"pissed" -2
+"pissed off" -2
+"riled" -2
+"roiled" -2
+"steamed" -2
+"stung" -2
+"vexed" -2
+"galling" -2
+"irritating" -2
+"nettlesome" -2
+"pestering" -2
+"pestiferous" -2
+"plaguey" -2
+"plaguy" -2
+"teasing" -2
+"vexatious" -2
+"antipathetic" -2
+"antipathetical" -2
+"counter" -2
+"incompatible" -2
+"expectancy" 1
+"expectation" 1
+"prediction" 1
+"prevision" 1
+"anxiousness" -2
+"anxious(p)" -2
+"dying(p)" -2
+"queasy" -2
+"unquiet" -2
+"indifferent" -3
+"indifference" -3
+"numbness" -3
+"spiritlessness" -3
+"apocalyptical" -2
+"revelatory" -2
+"justify" -1
+"rationalise" -1
+"rationalize" -1
+"apologia" -1
+"dismaying" -2
+"assuage" 2
+"gentle" 2
+"gruntle" 2
+"lenify" 2
+"mollify" 2
+"pacify" 2
+"placate" 2
+"propitiate" 2
+"quell" 2
+"stay" 2
+"appeasing(a)" 2
+"placating" 2
+"placative" 2
+"placatory" 2
+"acclaim" 2
+"clap" 2
+"spat" 2
+"clapping" 2
+"hand clapping" 2
+"apprise" 2
+"apprize" 2
+"prize" 2
+"revalue" 2
+"take account" 2
+"value" 2
+"apprehended" 2
+"comprehended" 2
+"admiration" 2
+"discernment" 2
+"grasp" 2
+"hold" 2
+"perceptiveness" 2
+"taste" 2
+"discerning" -2
+"worried" -2
+"approving" 2
+"blessing" 2
+"commendation" 2
+"favorable reception" 2
+"favourable reception" 2
+"sanctioned" 2
+"fervent" 1
+"fervid" 1
+"fiery" 1
+"impassioned" 1
+"perfervid" 1
+"torrid" 1
+"apprehend" -2
+"catch" -2
+"check" -2
+"collar" -2
+"contain" -2
+"cop" -2
+"get" -2
+"halt" -2
+"hold" -2
+"hold back" -2
+"nab" -2
+"nail" -2
+"pick up" -2
+"stop" -2
+"turn back" -2
+"apprehension" -2
+"hitch" -2
+"pinch" -2
+"stay" -2
+"stoppage" -2
+"taking into custody" -2
+"chesty" -2
+"self-important" -2
+"ashamed(p)" -2
+"arse" -4
+"backside" -4
+"behind" -4
+"bottom" -4
+"bum" -4
+"buns" -4
+"butt" -4
+"buttocks" -4
+"can" -4
+"derriere" -4
+"fanny" -4
+"fundament" -4
+"hind end" -4
+"hindquarters" -4
+"keister" -4
+"nates" -4
+"nookie" -4
+"nooky" -4
+"piece of ass" -4
+"piece of tail" -4
+"posterior" -4
+"prat" -4
+"rear" -4
+"rear end" -4
+"roll in the hay" -4
+"rump" -4
+"screw" -4
+"screwing" -4
+"seat" -4
+"shag" -4
+"shtup" -4
+"stern" -4
+"tail" -4
+"tail end" -4
+"tooshie" -4
+"tush" -4
+"blackwash" -3
+"character assassination" -3
+"plus" 2
+"arsehole" -4
+"bastard" -4
+"bunghole" -4
+"cocksucker" -4
+"motherfucker" -4
+"mother fucker" -4
+"prick" -4
+"SOB" -4
+"son of a bitch" -4
+"whoreson" -4
+"amaze" 3
+"astonish" 3
+"amazed" 3
+"astonied" 3
+"astonished" 3
+"stunned" 3
+"astonishing" 3
+"dumbfounding" 3
+"dumfounding" 3
+"staggering" 3
+"stupefying" 3
+"aggress" -1
+"assail" -1
+"assault" -1
+"lash out" -1
+"round" -1
+"set on" -1
+"snipe" -1
+"approach" -1
+"attempt" -1
+"blast" -1
+"fire" -1
+"flack" -1
+"flak" -1
+"onrush" -1
+"onset" -1
+"onslaught" -1
+"plan of attack" -1
+"tone-beginning" -1
+"assaultive" -1
+"attacking(a)" -1
+"appeal" 1
+"draw" 1
+"draw in" 1
+"pull" 1
+"pull in" 1
+"attracter" 2
+"attractive feature" 2
+"attractive force" 2
+"attractiveness" 2
+"attractor" 2
+"draw" 2
+"drawing card" 2
+"magnet" 2
+"bald-faced" 3
+"barefaced" 3
+"bodacious" 3
+"brassy" 3
+"brave" 3
+"brazen" 3
+"brazen-faced" 3
+"daring" 3
+"dauntless" 3
+"fearless" 3
+"hardy" 3
+"insolent" 3
+"intrepid" 3
+"unfearing" 3
+"venturesome" 3
+"venturous" 3
+"agency" 1
+"assurance" 1
+"authorisation" 1
+"authorization" 1
+"bureau" 1
+"confidence" 1
+"dominance" 1
+"federal agency" 1
+"government agency" 1
+"office" 1
+"potency" 1
+"sanction" 1
+"say-so" 1
+"self-assurance" 1
+"self-confidence" 1
+"sureness" 1
+"debar" -1
+"deflect" -1
+"fend off" -1
+"forefend" -1
+"forfend" -1
+"head off" -1
+"obviate" -1
+"stave off" -1
+"turn away" -1
+"ward off" -1
+"devouring(a)" 2
+"esurient" 2
+"greedy" 2
+"annul" -1
+"invalidate" -1
+"keep off" -1
+"nullify" -1
+"quash" -1
+"void" -1
+"expect" -1
+"look" -1
+"wait" -1
+"anticipated" -1
+"awaited(p)" -1
+"hoped-for" -1
+"grant" 3
+"present" 3
+"accolade" 3
+"awarding" 3
+"honor" 3
+"honour" 3
+"laurels" 3
+"prize" 3
+"abominable" -3
+"amazing" -3
+"atrocious" -3
+"awed" -3
+"awe-inspiring" -3
+"awesome" -3
+"awing" -3
+"dread(a)" -3
+"dreaded" -3
+"fearful" -3
+"fearsome" -3
+"frightful" -3
+"painful" -3
+"tremendous" -3
+"unspeakable" -3
+"awfully" -3
+"frightfully" -3
+"bunglesome" -2
+"clumsy" -2
+"cumbersome" -2
+"ill at ease(p)" -2
+"ill-chosen" -2
+"inapt" -2
+"inept" -2
+"sticky" -2
+"unenviable" -2
+"ungainly" -2
+"ax" -1
+"backup" 2
+"championship" 2
+"financial backing" 2
+"financial support" 2
+"funding" 2
+"mount" 2
+"patronage" 2
+"big" -3
+"defective" -3
+"forged" -3
+"high-risk" -3
+"regretful" -3
+"risky" -3
+"sorry" -3
+"speculative" -3
+"spoiled" -3
+"spoilt" -3
+"tough" -3
+"uncollectible" -3
+"unfit" -3
+"unsound" -3
+"badness" -3
+"disadvantageously" -3
+"gravely" -3
+"ill" -3
+"mischievously" -3
+"naughtily" -3
+"poorly" -3
+"seriously" -3
+"severely" -3
+"hoodwink" -2
+"lead by the nose" -2
+"play false" -2
+"pull the wool over someone's eyes" -2
+"snow" -2
+"banish" -2
+"blackball" -2
+"cast out" -2
+"ostracise" -2
+"ostracize" -2
+"shun" -2
+"Bachelor of Arts in Nursing" -2
+"BAN" -2
+"banning" -2
+"forbiddance" -2
+"forbidding" -2
+"prohibition" -2
+"proscription" -2
+"ban" -1
+"bar" -1
+"blackball" -1
+"cast out" -1
+"ostracise" -1
+"ostracize" -1
+"relegate" -1
+"shun" -1
+"belly-up(p)" -3
+"break" -3
+"ruin" -3
+"smash" -3
+"insolvent" -3
+"prohibited" -2
+"dicker" 2
+"buy" 2
+"deal" 2
+"steal" 2
+"roadblock" -2
+"bogus" -5
+"fake" -5
+"phoney" -5
+"phony" -5
+"asshole" -5
+"by-blow" -5
+"dickhead" -5
+"illegitimate" -5
+"illegitimate child" -5
+"love child" -5
+"mongrel" -5
+"mother fucker" -5
+"shit" -5
+"SOB" -5
+"son of a bitch" -5
+"whoreson" -5
+"conflict" -1
+"engagement" -1
+"struggle" -1
+"beaten(a)" -2
+"angelic" 3
+"angelical" 3
+"sainted" 3
+"saintlike" 3
+"saintly" 3
+"drubbing" -1
+"lacing" -1
+"licking" -1
+"thrashing" -1
+"trouncing" -1
+"whacking" -1
+"whipping" -1
+"attractively" 3
+"adorn" 3
+"deck" 3
+"decorate" 3
+"embellish" 3
+"fancify" 3
+"grace" 3
+"ornament" 3
+"prettify" 3
+"denigrate" -2
+"derogate" -2
+"diminish" -2
+"minimize" -2
+"pick at" -2
+"diminished" -2
+"small" -2
+"darling" 3
+"dear" 3
+"dearest" 3
+"honey" 3
+"do good" 2
+"profit" 2
+"welfare" 2
+"bereft" -2
+"grief-stricken" -2
+"grieving" -2
+"mourning(a)" -2
+"sorrowing(a)" -2
+"bereaved person" -2
+"best(p)" 3
+"better(p)" 3
+"better" 3
+"outdo" 3
+"outflank" 3
+"trump" 3
+"Best" 3
+"Charles Herbert Best" 3
+"C. H. Best" 3
+"topper" 3
+"bewray" -3
+"cheat on" -3
+"cuckold" -3
+"denounce" -3
+"fail" -3
+"give away" -3
+"grass" -3
+"lead astray" -3
+"rat" -3
+"sell" -3
+"shit" -3
+"shop" -3
+"snitch" -3
+"stag" -3
+"tell on" -3
+"wander" -3
+"perfidy" -3
+"treachery" -3
+"best(p)" 2
+"better(p)" 2
+"best" 2
+"ameliorate" 2
+"amend" 2
+"break" 2
+"meliorate" 2
+"bettor" 2
+"punter" 2
+"wagerer" 2
+"predetermine" -1
+"diagonal" -1
+"preconception" -1
+"prejudice" -1
+"colored" -2
+"coloured" -2
+"one-sided" -2
+"slanted" -2
+"adult" 1
+"bad" 1
+"big(a)" 1
+"bighearted" 1
+"big(p)" 1
+"boastful" 1
+"bounteous" 1
+"bountiful" 1
+"braggart(a)" 1
+"bragging(a)" 1
+"braggy" 1
+"cock-a-hoop" 1
+"crowing" 1
+"enceinte" 1
+"expectant" 1
+"freehanded" 1
+"full-grown" 1
+"fully grown" 1
+"giving" 1
+"gravid" 1
+"great(p)" 1
+"grown" 1
+"grownup" 1
+"handsome" 1
+"heavy(a)" 1
+"heavy(p)" 1
+"large" 1
+"large(p)" 1
+"liberal" 1
+"magnanimous" 1
+"openhanded" 1
+"prominent" 1
+"self-aggrandising" 1
+"self-aggrandizing" 1
+"swelled" 1
+"vainglorious" 1
+"with child(p)" 1
+"boastfully" 1
+"vauntingly" 1
+"backbite" -5
+"beef" -5
+"bellyache" -5
+"crab" -5
+"gripe" -5
+"grouse" -5
+"holler" -5
+"squawk" -5
+"kick" -5
+"acerb" -2
+"acerbic" -2
+"acid" -2
+"acrid" -2
+"acrimonious" -2
+"biting" -2
+"blistering" -2
+"caustic" -2
+"sulfurous" -2
+"sulphurous" -2
+"vitriolic" -2
+"bitingly" -2
+"piercingly" -2
+"bitterness" -2
+"eccentric" -2
+"flakey" -2
+"flaky" -2
+"freakish" -2
+"freaky" -2
+"gonzo" -2
+"off-the-wall" -2
+"outlandish" -2
+"outre" -2
+"bombast" -2
+"claptrap" -2
+"fustian" -2
+"rant" -2
+"blasted" -2
+"blessed" -2
+"damn" -2
+"damned" -2
+"darned" -2
+"deuced" -2
+"goddam" -2
+"goddamn" -2
+"goddamned" -2
+"infernal" -2
+"fault" -2
+"find fault" -2
+"pick" -2
+"incrimination" -2
+"inculpation" -2
+"rap" -2
+"consecrate" 2
+"hallow" 2
+"sanctify" 2
+"sign" 2
+"approval" 3
+"approving" 3
+"benediction" 3
+"boon" 3
+"thanksgiving" 3
+"unreasoning" -1
+"unsighted" -1
+"dim" -1
+"screen" -1
+"subterfuge" -1
+"blissfulness" 3
+"cloud nine" 3
+"seventh heaven" 3
+"walking on air" 3
+"blithesome" 2
+"lighthearted" 2
+"light-hearted" 2
+"lightsome" 2
+"barricade" -1
+"blank out" -1
+"blockade" -1
+"block off" -1
+"block up" -1
+"choke up" -1
+"close up" -1
+"draw a blank" -1
+"embarrass" -1
+"freeze" -1
+"halt" -1
+"hinder" -1
+"immobilise" -1
+"immobilize" -1
+"impede" -1
+"jam" -1
+"kibosh" -1
+"lug" -1
+"obstruct" -1
+"obturate" -1
+"occlude" -1
+"parry" -1
+"stuff" -1
+"stymie" -1
+"stymy" -1
+"auction block" -1
+"blockage" -1
+"city block" -1
+"closure" -1
+"cube" -1
+"cylinder block" -1
+"engine block" -1
+"mental block" -1
+"occlusion" -1
+"pulley" -1
+"pulley block" -1
+"pulley-block" -1
+"stoppage" -1
+"megahit" 3
+"smash hit" 3
+"out of use(p)" -1
+"plugged" -1
+"bally(a)" -3
+"blinking(a)" -3
+"bloody(a)" -3
+"blooming(a)" -3
+"crashing(a)" -3
+"flaming(a)" -3
+"fucking(a)" -3
+"all-fired" -3
+"damn" -3
+"bleary" -2
+"blurred" -2
+"foggy" -2
+"fuzzy" -2
+"hazy" -2
+"muzzy" -2
+"big" -2
+"braggart(a)" -2
+"bragging(a)" -2
+"braggy" -2
+"cock-a-hoop" -2
+"crowing" -2
+"self-aggrandising" -2
+"self-aggrandizing" -2
+"bluff" 2
+"sheer" 2
+"boldface" 2
+"bold face" 2
+"bombard" -1
+"fail" -1
+"flunk" -1
+"flush it" -1
+"bomb calorimeter" -1
+"dud" -1
+"turkey" -1
+"advance" 1
+"encourage" 1
+"further" 1
+"hike" 1
+"hike up" 1
+"supercharge" 1
+"cost increase" 1
+"encouragement" 1
+"rise" 1
+"drill" -2
+"tire" -2
+"aegir" -2
+"bore-hole" -2
+"caliber" -2
+"calibre" -2
+"drill hole" -2
+"dullard" -2
+"eager" -2
+"eagre" -2
+"gauge" -2
+"tidal bore" -2
+"blase" -2
+"world-weary" -2
+"deadening" -3
+"dull" -3
+"ho-hum" -3
+"irksome" -3
+"slow" -3
+"tedious" -3
+"tiresome" -3
+"wearisome" -3
+"drilling" -3
+"oil production" -3
+"discommode" -2
+"disoblige" -2
+"incommode" -2
+"inconvenience oneself" -2
+"put out" -2
+"trouble oneself" -2
+"fuss" -2
+"hassle" -2
+"daunted" -2
+"fazed" -2
+"audacious" 2
+"braw" 2
+"gay" 2
+"intrepid" 2
+"unfearing" 2
+"brave out" 2
+"endure" 2
+"weather" 2
+"discovery" 3
+"find" 3
+"breathless" 5
+"buy" -3
+"corrupt" -3
+"grease one's palms" -3
+"payoff" -3
+"brilliant" 1
+"burnished" 1
+"hopeful" 1
+"lustrous" 1
+"promising" 1
+"shining" 1
+"shiny" 1
+"undimmed" 1
+"vivid" 1
+"brightly" 1
+"brilliantly" 1
+"brightness level" 1
+"cleverness" 1
+"light" 1
+"luminance" 1
+"luminosity" 1
+"luminousness" 1
+"smartness" 1
+"brainy" 4
+"bright" 4
+"glorious" 4
+"magnificent" 4
+"smart as a whip" 4
+"splendid" 4
+"superb" 4
+"vivid" 4
+"alert" 2
+"bracing" 2
+"fresh" 2
+"merry" 2
+"rattling" 2
+"refreshful" 2
+"refreshing" 2
+"snappy" 2
+"spanking" 2
+"tonic" 2
+"zippy" 2
+"brisken" 2
+"brisk up" 2
+"bust" -1
+"skint" -1
+"stone-broke" -1
+"stony-broke" -1
+"broken in" -1
+"busted" -1
+"confused" -1
+"crushed" -1
+"disordered" -1
+"humbled" -1
+"humiliated" -1
+"impoverished" -1
+"low" -1
+"rugged" -1
+"unkept" -1
+"upset" -1
+"wiped out(p)" -1
+"broody" -2
+"contemplative" -2
+"meditative" -2
+"musing" -2
+"pensive" -2
+"pondering" -2
+"reflective" -2
+"ruminative" -2
+"incubation" -2
+"pensiveness" -2
+"bull" -4
+"fake" -4
+"talk through one's hat" -4
+"crap" -4
+"dogshit" -4
+"horseshit" -4
+"Irish bull" -4
+"bang-up" -2
+"corking" -2
+"cracking" -2
+"dandy" -2
+"great" -2
+"groovy" -2
+"keen" -2
+"neat" -2
+"nifty" -2
+"not bad(p)" -2
+"peachy" -2
+"slap-up" -2
+"smashing" -2
+"swell" -2
+"ballyrag" -2
+"boss around" -2
+"browbeat" -2
+"bullyrag" -2
+"hector" -2
+"push around" -2
+"strong-arm" -2
+"swagger" -2
+"roughneck" -2
+"rowdy" -2
+"ruffian" -2
+"tough" -2
+"yob" -2
+"yobbo" -2
+"yobo" -2
+"blustery" -2
+"chirpy" 2
+"floaty" 2
+"perky" 2
+"burthen" -2
+"saddle" -2
+"weight" -2
+"weight down" -2
+"core" -2
+"effect" -2
+"encumbrance" -2
+"essence" -2
+"gist" -2
+"incumbrance" -2
+"load" -2
+"loading" -2
+"onus" -2
+"heavy-laden" -2
+"loaded down" -2
+"unagitated" 2
+"becalm" 2
+"calm down" 2
+"chill out" 2
+"cool it" 2
+"cool off" 2
+"lull" 2
+"quiet" 2
+"quieten" 2
+"sedate" 2
+"settle down" 2
+"simmer down" 2
+"steady" 2
+"still" 2
+"tranquilize" 2
+"tranquillise" 2
+"tranquillize" 2
+"calm air" 2
+"calmness" 2
+"composure" 2
+"equanimity" 2
+"appeasement" 2
+"call off" -1
+"delete" -1
+"offset" -1
+"scratch" -1
+"scrub" -1
+"set off" -1
+"strike down" -1
+"natural" -1
+"off" -1
+"Cancer" -1
+"Cancer the Crab" -1
+"Crab" -1
+"genus Cancer" -1
+"malignant neoplastic disease" -1
+"able" 1
+"adequate to(p)" 1
+"equal to(p)" 1
+"open" 1
+"subject" 1
+"up to(p)" 1
+"beguiled" 3
+"charmed" 3
+"enthralled" 3
+"entranced" 3
+"give care" 2
+"handle" 2
+"manage" 2
+"wish" 2
+"worry" 2
+"aid" 2
+"attention" 2
+"caution" 2
+"charge" 2
+"concern" 2
+"fear" 2
+"forethought" 2
+"guardianship" 2
+"maintenance" 2
+"precaution" 2
+"tending" 2
+"tutelage" 2
+"upkeep" 2
+"devil-may-care" 1
+"freewheeling" 1
+"happy-go-lucky" 1
+"harum-scarum" 1
+"slaphappy" 1
+"unworried" 1
+"deliberate" 2
+"heedful" 2
+"measured" 2
+"thrifty" 2
+"cautiously" 2
+"careless(p)" -2
+"regardless" -2
+"fatal accident" -2
+"injured party" -2
+"calamity" -3
+"cataclysm" -3
+"disaster" -3
+"tragedy" -3
+"ruinous" -4
+"conservative" -1
+"timid" -1
+"fete" 3
+"keep" 3
+"lionise" 3
+"lionize" 3
+"observe" 3
+"famed" 3
+"famous" 3
+"far-famed" 3
+"historied" 3
+"illustrious" 3
+"notable" 3
+"noted" 3
+"renowned" 3
+"storied" 3
+"certain(a)" 1
+"certain(p)" 1
+"sealed" 1
+"sure" 1
+"abase" -2
+"humble" -2
+"humiliate" -2
+"mortify" -2
+"humiliation" -2
+"mortification" -2
+"abashed" -2
+"dispute" -1
+"gainsay" -1
+"take exception" -1
+"casual" 2
+"chance(a)" 2
+"bump" 2
+"encounter" 2
+"find" 2
+"happen" 2
+"fortune" 2
+"luck" 2
+"probability" 2
+"prospect" 2
+"bedlam" -2
+"Chaos" -2
+"pandemonium" -2
+"topsy-turvydom" -2
+"topsy-turvyness" -2
+"disorderly" -2
+"helter-skelter" -2
+"aerated" -3
+"supercharged" -3
+"becharm" 3
+"beguile" 3
+"bewitch" 3
+"captivate" 3
+"capture" 3
+"catch" 3
+"enamor" 3
+"enamour" 3
+"enchant" 3
+"entrance" 3
+"influence" 3
+"tempt" 3
+"trance" 3
+"appeal" 3
+"appealingness" 3
+"good luck charm" 3
+"magical spell" 3
+"magic spell" 3
+"spell" 3
+"magic" 3
+"magical" 3
+"sorcerous" 3
+"witching(a)" 3
+"wizard(a)" 3
+"wizardly" 3
+"castigate" -3
+"chasten" -3
+"correct" -3
+"objurgate" -3
+"chicane" -3
+"chisel" -3
+"chouse" -3
+"jockey" -3
+"rip off" -3
+"screw" -3
+"shaft" -3
+"bearded darnel" -3
+"beguiler" -3
+"Bromus secalinus" -3
+"cheating" -3
+"chess" -3
+"darnel" -3
+"deceiver" -3
+"Lolium temulentum" -3
+"rig" -3
+"slicker" -3
+"tare" -3
+"trickster" -3
+"barrack" 2
+"cheer up" 2
+"chirk up" 2
+"embolden" 2
+"exhort" 2
+"hearten" 2
+"jolly along" 2
+"jolly up" 2
+"pep up" 2
+"recreate" 2
+"root on" 2
+"urge" 2
+"urge on" 2
+"cheerfulness" 2
+"sunniness" 2
+"pollyannaish" 2
+"upbeat" 2
+"satisfying" 2
+"shouting" 2
+"uncheerful" -2
+"gay" 3
+"sunny" 3
+"care for" 2
+"hold dear" 2
+"precious" 2
+"treasured" 2
+"wanted" 2
+"smart" 2
+"voguish" 2
+"chichi" 2
+"chicness" 2
+"last word" 2
+"modishness" 2
+"smartness" 2
+"stylishness" 2
+"swank" 2
+"infantile" -2
+"scarey" -1
+"scary" -1
+"shivery" -1
+"shuddery" -1
+"cooling" -1
+"temperature reduction" -1
+"asphyxiate" -2
+"back up" -2
+"buy the farm" -2
+"cash in one's chips" -2
+"choke off" -2
+"clog" -2
+"clog up" -2
+"congest" -2
+"conk" -2
+"croak" -2
+"decease" -2
+"die" -2
+"drop dead" -2
+"exit" -2
+"expire" -2
+"foul" -2
+"fret" -2
+"give-up the ghost" -2
+"go" -2
+"kick the bucket" -2
+"pass" -2
+"pass away" -2
+"perish" -2
+"pop off" -2
+"scrag" -2
+"snuff it" -2
+"stifle" -2
+"strangle" -2
+"suffocate" -2
+"throttle" -2
+"choke coil" -2
+"choking coil" -2
+"clogged" -2
+"strangling" -2
+"strangulation" -2
+"throttling" -2
+"clearness" 2
+"limpidity" 2
+"lucidity" 2
+"lucidness" 2
+"pellucidity" 2
+"uncloudedness" 2
+"collide" -2
+"jar" -2
+"brush" -2
+"clang" -2
+"clangor" -2
+"clangoring" -2
+"clangour" -2
+"clank" -2
+"encounter" -2
+"friction" -2
+"skirmish" -2
+"posh" 3
+"swish" 3
+"blank" 2
+"clean-living" 2
+"light" 2
+"neat" 2
+"sporting" 2
+"sportsmanlike" 2
+"sporty" 2
+"unclouded" 2
+"uncontaminating" 2
+"uninfected" 2
+"unobjectionable" 2
+"white" 2
+"fairly" 2
+"plum" 2
+"plumb" 2
+"clean house" 2
+"cleanse" 2
+"houseclean" 2
+"make clean" 2
+"pick" 2
+"scavenge" 2
+"strip" 2
+"clean and jerk" 2
+"cleanser" 2
+"cleansing agent" 2
+"dry cleaner" 2
+"absolved" 1
+"clean" 1
+"clean-cut" 1
+"clear-cut" 1
+"clear(p)" 1
+"decipherable" 1
+"exculpated" 1
+"exonerated" 1
+"percipient" 1
+"readable" 1
+"unclouded" 1
+"unmortgaged" 1
+"vindicated" 1
+"well-defined" 1
+"all the way" 1
+"acquit" 1
+"assoil" 1
+"authorise" 1
+"authorize" 1
+"brighten" 1
+"bring in" 1
+"clear up" 1
+"crystalise" 1
+"crystalize" 1
+"crystallise" 1
+"crystallize" 1
+"discharge" 1
+"earn" 1
+"elucidate" 1
+"enlighten" 1
+"exculpate" 1
+"exonerate" 1
+"gain" 1
+"illuminate" 1
+"light up" 1
+"make" 1
+"net" 1
+"pass" 1
+"realise" 1
+"realize" 1
+"sack" 1
+"sack up" 1
+"shed light on" 1
+"sort out" 1
+"straighten out" 1
+"top" 1
+"unclutter" 1
+"distinctly" 1
+"intelligibly" 1
+"understandably" 1
+"apt" 2
+"cagey" 2
+"cagy" 2
+"canny" 2
+"cunning" 2
+"ingenious" 2
+"blurred" -1
+"cloud-covered" -1
+"overcast" -1
+"sunless" -1
+"prance" -5
+"ruffle" -5
+"sashay" -5
+"strut" -5
+"swagger" -5
+"tittup" -5
+"dick" -5
+"hammer" -5
+"pecker" -5
+"peter" -5
+"putz" -5
+"rooster" -5
+"shaft" -5
+"stopcock" -5
+"tool" -5
+"turncock" -5
+"break" -2
+"break down" -2
+"break up" -2
+"burst" -2
+"cave in" -2
+"crack" -2
+"crack up" -2
+"crock up" -2
+"crumble" -2
+"crumple" -2
+"fall in" -2
+"founder" -2
+"give" -2
+"give way" -2
+"tumble" -2
+"prostration" -2
+"clash" -1
+"jar" -1
+"hit" -2
+"armed combat" -1
+"fighting" -1
+"scrap" -1
+"clowning" 1
+"drollery" 1
+"funniness" 1
+"console" 2
+"solace" 2
+"soothe" 2
+"comfortableness" 2
+"comforter" 2
+"consolation" 2
+"puff" 2
+"quilt" 2
+"comfy" 2
+"easy" 2
+"prosperous" 2
+"well-fixed" 2
+"well-heeled" 2
+"well-off" 2
+"well-situated" 2
+"well-to-do" 2
+"consolatory" 2
+"consoling" 2
+"amenities" 2
+"conveniences" 2
+"creature comforts" 2
+"remember" 2
+"charge" 1
+"confide" 1
+"consecrate" 1
+"dedicate" 1
+"devote" 1
+"entrust" 1
+"give" 1
+"institutionalise" 1
+"institutionalize" 1
+"intrust" 1
+"invest" 1
+"perpetrate" 1
+"place" 1
+"practice" 1
+"put" 1
+"send" 1
+"allegiance" 2
+"committal" 2
+"committedness" 2
+"consignment" 2
+"dedication" 2
+"loyalty" 2
+"attached" 1
+"condole with" 2
+"feel for" 2
+"pity" 2
+"sympathize with" 2
+"competitory" 2
+"free-enterprise(a)" 2
+"militant" 2
+"private-enterprise(a)" 2
+"self-complacent" -2
+"self-satisfied" -2
+"kick" -2
+"kvetch" -2
+"plain" -2
+"quetch" -2
+"sound off" -2
+"comp" 2
+"comprehensive examination" 2
+"accommodate" 2
+"make up" 2
+"patch up" 2
+"reconcile" 2
+"settle" 2
+"decry" -2
+"excoriate" -2
+"objurgate" -2
+"reprobate" -2
+"conviction" -2
+"curse" -2
+"disapprobation" -2
+"execration" -2
+"judgment of conviction" -2
+"assurance" 2
+"authority" 2
+"self-assurance" 2
+"self-confidence" 2
+"sureness" 2
+"trust" 2
+"confident(p)" 2
+"convinced(p)" 2
+"positive(p)" 2
+"surefooted" 2
+"sure-footed" 2
+"contravene" -2
+"infringe" -2
+"run afoul" -2
+"battle" -2
+"difference" -2
+"difference of opinion" -2
+"engagement" -2
+"fight" -2
+"at odds(p)" -2
+"contradictory" -2
+"self-contradictory" -2
+"bedevil" -2
+"befuddle" -2
+"blur" -2
+"confound" -2
+"discombobulate" -2
+"disconcert" -2
+"flurry" -2
+"fox" -2
+"fuddle" -2
+"jumble" -2
+"mix up" -2
+"obnubilate" -2
+"obscure" -2
+"put off" -2
+"throw" -2
+"at sea" -2
+"baffled" -2
+"befuddled" -2
+"bemused" -2
+"bewildered" -2
+"broken" -2
+"confounded" -2
+"disconnected" -2
+"disordered" -2
+"garbled" -2
+"illogical" -2
+"lost" -2
+"mazed" -2
+"mixed-up" -2
+"scattered" -2
+"unconnected" -2
+"perplexing" -2
+"puzzling" -2
+"compliment" 2
+"felicitate" 2
+"plume" 2
+"preen" 2
+"pride" 2
+"felicitation" 2
+"extolment" 2
+"kudos" 2
+"praise" 2
+"accept" 2
+"go for" 2
+"cabal" -3
+"confederacy" -3
+"forced" -2
+"strained" -2
+"contagious disease" -2
+"infection" -2
+"transmission" -2
+"catching" -1
+"communicable" -1
+"contractable" -1
+"transmissible" -1
+"transmittable" -1
+"despite" -2
+"disdainful" -2
+"contumeliously" -2
+"disdainfully" -2
+"scornfully" -2
+"argue" -1
+"compete" -1
+"contest" -1
+"cope" -1
+"deal" -1
+"debate" -1
+"fence" -1
+"get by" -1
+"grapple" -1
+"make do" -1
+"make out" -1
+"manage" -1
+"postulate" -1
+"repugn" -1
+"vie" -1
+"challenger" -1
+"competition" -1
+"competitor" -1
+"rival" -1
+"combative" -2
+"disputatious" -2
+"disputative" -2
+"polemically" -2
+"convert" 1
+"win over" 1
+"confident(p)" 1
+"convinced(p)" 1
+"positive(p)" 1
+"good-time" 2
+"coolheaded" 1
+"nerveless" 1
+"chill" 1
+"cool down" 1
+"cool off" 1
+"aplomb" 1
+"assuredness" 1
+"poise" 1
+"sang-froid" 1
+"at bay(p)" -2
+"treed" -2
+"cadaver" -1
+"clay" -1
+"remains" -1
+"stiff" -1
+"dearly-won" -2
+"dear(p)" -2
+"high-priced" -2
+"pricey" -2
+"pricy" -2
+"braveness" 2
+"bravery" 2
+"courageousness" 2
+"gracious" 2
+"nice" 2
+"good manners" 2
+"Coward" -2
+"Noel Coward" -2
+"Sir Noel Pierce Coward" -2
+"cosiness" 2
+"snugness" 2
+"halter" -1
+"hamper" -1
+"strangle" -1
+"cramp iron" -1
+"muscle spasm" -1
+"spasm" -1
+"ca-ca" -3
+"defecate" -3
+"make" -3
+"stool" -3
+"take a crap" -3
+"take a shit" -3
+"bull" -3
+"bullshit" -3
+"dirt" -3
+"dogshit" -3
+"horseshit" -3
+"Irish bull" -3
+"poop" -3
+"shite" -3
+"turd" -3
+"barge in" -2
+"break apart" -2
+"dash" -2
+"doss" -2
+"doss down" -2
+"gate-crash" -2
+"go down" -2
+"ram" -2
+"smash" -2
+"brainsick" -2
+"demented" -2
+"dotty" -2
+"gaga" -2
+"half-baked" -2
+"mad" -2
+"screwball" -2
+"softheaded" -2
+"unbalanced" -2
+"unhinged" -2
+"wild" -2
+"looney" -2
+"loony" -2
+"nutcase" -2
+"weirdo" -2
+"originative" 2
+"chapfallen" -2
+"chopfallen" -2
+"deflated" -2
+"criminal offence" -3
+"criminal offense" -3
+"law-breaking" -3
+"offence" -3
+"offense" -3
+"condemnable" -3
+"deplorable" -3
+"felonious" -3
+"reprehensible" -3
+"vicious" -3
+"crook" -3
+"felon" -3
+"malefactor" -3
+"outlaw" -3
+"critique" -2
+"literary criticism" -2
+"unfavorable judgment" -2
+"criticise" -2
+"knock" -2
+"pick apart" -2
+"barbarous" -3
+"brutal" -3
+"fell" -3
+"roughshod" -3
+"savage" -3
+"cruelness" -3
+"harshness" -3
+"inhuman treatment" -3
+"mercilessness" -3
+"pitilessness" -3
+"ruthlessness" -3
+"beat" -1
+"beat out" -1
+"break down" -1
+"demolish" -1
+"mash" -1
+"oppress" -1
+"shell" -1
+"smash" -1
+"squash" -1
+"squeeze" -1
+"squelch" -1
+"suppress" -1
+"trounce" -1
+"vanquish" -1
+"calf love" -1
+"compaction" -1
+"crunch" -1
+"crushed leather" -1
+"infatuation" -1
+"press" -1
+"puppy love" -1
+"humbled" -2
+"humiliated" -2
+"low" -2
+"devastating" -1
+"quelling" -1
+"stifling" -1
+"suppression" -1
+"blazon out" -1
+"call" -1
+"call out" -1
+"cry out" -1
+"exclaim" -1
+"holler" -1
+"hollo" -1
+"outcry" -1
+"scream" -1
+"shout" -1
+"shout out" -1
+"squall" -1
+"weep" -1
+"yell" -1
+"battle cry" -1
+"rallying cry" -1
+"vociferation" -1
+"war cry" -1
+"watchword" -1
+"clamant" -2
+"crying(a)" -2
+"egregious" -2
+"exigent" -2
+"flagrant" -2
+"glaring" -2
+"insistent" -2
+"instant" -2
+"rank" -2
+"puss" -5
+"pussy" -5
+"slit" -5
+"snatch" -5
+"funny" 1
+"odd" 1
+"peculiar" 1
+"queer" 1
+"rum" 1
+"rummy" 1
+"singular" 1
+"anathemise" -1
+"anathemize" -1
+"bedamn" -1
+"beshrew" -1
+"blaspheme" -1
+"cuss" -1
+"damn" -1
+"excommunicate" -1
+"imprecate" -1
+"maledict" -1
+"swear" -1
+"unchurch" -1
+"bane" -1
+"condemnation" -1
+"curse word" -1
+"execration" -1
+"expletive" -1
+"hex" -1
+"jinx" -1
+"nemesis" -1
+"oath" -1
+"scourge" -1
+"swearing" -1
+"swearword" -1
+"torment" -1
+"whammy" -1
+"emasculated" -1
+"gelded" -1
+"mown" -1
+"shortened" -1
+"slashed" -1
+"thinned" -1
+"trimmed" -1
+"weakened" -1
+"abbreviate" -1
+"abridge" -1
+"bring down" -1
+"burn" -1
+"contract" -1
+"curve" -1
+"cut back" -1
+"cut down" -1
+"cut off" -1
+"dilute" -1
+"disregard" -1
+"edit" -1
+"edit out" -1
+"foreshorten" -1
+"geld" -1
+"hack" -1
+"issue" -1
+"prune" -1
+"reduce" -1
+"sheer" -1
+"shorten" -1
+"skip" -1
+"slew" -1
+"slue" -1
+"snub" -1
+"swerve" -1
+"switch off" -1
+"tailor" -1
+"thin" -1
+"thin out" -1
+"trend" -1
+"trim" -1
+"trim back" -1
+"trim down" -1
+"turn off" -1
+"turn out" -1
+"veer" -1
+"write out" -1
+"baseball swing" -1
+"cold shoulder" -1
+"cut of meat" -1
+"cutting off" -1
+"deletion" -1
+"excision" -1
+"gash" -1
+"slash" -1
+"slice" -1
+"stinger" -1
+"swing" -1
+"track" -1
+"undercut" -1
+"bleak" -1
+"edged" -1
+"keen" -1
+"knifelike" -1
+"lancinate" -1
+"lancinating" -1
+"piercing" -1
+"raw" -1
+"stabbing" -1
+"stinging" -1
+"carving" -1
+"clipping" -1
+"film editing" -1
+"newspaper clipping" -1
+"press clipping" -1
+"press cutting" -1
+"slip" -1
+"thinning" -1
+"Cynic" -2
+"faultfinder" -2
+"misanthropic" -2
+"misanthropical" -2
+"equipment casualty" -3
+"harm" -3
+"impairment" -3
+"legal injury" -3
+"price" -3
+"scathe" -3
+"terms" -3
+"wrong" -3
+"amends" -3
+"indemnification" -3
+"indemnity" -3
+"redress" -3
+"restitution" -3
+"blame" -4
+"blamed" -4
+"blasted" -4
+"blessed" -4
+"darned" -4
+"deuced" -4
+"goddam" -4
+"goddamn" -4
+"goddamned" -4
+"infernal" -4
+"all-fired" -4
+"bloody" -4
+"anathemise" -4
+"anathemize" -4
+"bedamn" -4
+"beshrew" -4
+"curse" -4
+"imprecate" -4
+"maledict" -4
+"darn" -4
+"hoot" -4
+"red cent" -4
+"shucks" -4
+"tinker's dam" -4
+"tinker's damn" -4
+"cursed" -4
+"doomed" -4
+"unredeemed" -4
+"unsaved" -4
+"cursedly" -4
+"damnably" -4
+"temerarious" 2
+"harum-scarum" 2
+"hothead" 2
+"lunatic" 2
+"madcap" 2
+"swashbuckler" 2
+"avant-garde" 2
+"venturesome" 2
+"venturous" 2
+"boldness" 2
+"dare" 2
+"hardihood" 2
+"hardiness" 2
+"dark" -1
+"duskiness" -1
+"iniquity" -1
+"shadow" -1
+"swarthiness" -1
+"wickedness" -1
+"all in(p)" -3
+"beat(p)" -3
+"bushed(p)" -3
+"dead(a)" -3
+"deadened" -3
+"dead(p)" -3
+"drained" -3
+"idle" -3
+"numb(p)" -3
+"stagnant" -3
+"utter" -3
+"abruptly" -3
+"absolutely" -3
+"perfectly" -3
+"short" -3
+"suddenly" -3
+"utterly" -3
+"dead end" -2
+"impasse" -2
+"stalemate" -2
+"standstill" -2
+"earsplitting" -1
+"thunderous" -1
+"thundery" -1
+"beloved" 2
+"costly" 2
+"darling" 2
+"dear(p)" 2
+"devout" 2
+"good" 2
+"heartfelt" 2
+"high-priced" 2
+"near" 2
+"pricey" 2
+"pricy" 2
+"affectionately" 2
+"dearly" 2
+"dearest" 2
+"honey" 2
+"lamb" 2
+"love" 2
+"affectionately" 3
+"in a heartfelt way" 3
+"Death" -2
+"demise" -2
+"destruction" -2
+"dying" -2
+"end" -2
+"expiry" -2
+"last" -2
+"chipper" 2
+"debonaire" 2
+"debonnaire" 2
+"dissembling" -3
+"dissimulation" -3
+"fraudulence" -3
+"misrepresentation" -3
+"ambidextrous" -3
+"double-dealing" -3
+"double-faced" -3
+"double-tongued" -3
+"duplicitous" -3
+"fallacious" -3
+"fraudulent" -3
+"Janus-faced" -3
+"two-faced" -3
+"cozen" -3
+"delude" -3
+"lead on" -3
+"conjuration" -3
+"conjuring trick" -3
+"illusion" -3
+"legerdemain" -3
+"magic" -3
+"magic trick" -3
+"thaumaturgy" -3
+"trick" -3
+"critical" 1
+"consecrated" 2
+"discomfited" -2
+"foiled" -2
+"desert" -3
+"blemish" -3
+"fault" -3
+"flaw" -3
+"mar" -3
+"shortcoming" -3
+"guardian" 2
+"protector" 2
+"shielder" 2
+"withstander" 2
+"defenceless" -2
+"naked" -2
+"defencelessly" -2
+"defenselessly" -2
+"accede" -1
+"bow" -1
+"give in" -1
+"hold over" -1
+"prorogue" -1
+"put off" -1
+"put over" -1
+"remit" -1
+"set back" -1
+"shelve" -1
+"submit" -1
+"table" -1
+"noncompliant" -1
+"shortfall" -2
+"cheapen" -2
+"demean" -2
+"put down" -2
+"take down" -2
+"debased" -2
+"debauched" -2
+"degenerate" -2
+"devalued" -2
+"dissipated" -2
+"dissolute" -2
+"fast" -2
+"libertine" -2
+"profligate" -2
+"riotous" -2
+"dehumanise" -2
+"dehumanised" -2
+"unhuman" -2
+"cast down" -2
+"demoralise" -2
+"demoralize" -2
+"depress" -2
+"dispirit" -2
+"get down" -2
+"check" -1
+"detain" -1
+"hold up" -1
+"retard" -1
+"stay" -1
+"holdup" -1
+"postponement" -1
+"time lag" -1
+"enjoy" 3
+"enthrall" 3
+"please" 3
+"ravish" 3
+"revel" 3
+"transport" 3
+"delectation" 3
+"ask" -1
+"call for" -1
+"exact" -1
+"involve" -1
+"necessitate" -1
+"need" -1
+"require" -1
+"requirement" -1
+"demo" -1
+"manifestation" -1
+"monstrance" -1
+"presentation" -1
+"presentment" -1
+"demoralised" -2
+"betray" -2
+"brand" -2
+"give away" -2
+"grass" -2
+"mark" -2
+"rat" -2
+"shit" -2
+"shop" -2
+"snitch" -2
+"stag" -2
+"stigmatise" -2
+"stigmatize" -2
+"tell on" -2
+"abnegate" -2
+"traverse" -2
+"blue" -2
+"dispirited" -2
+"down in the mouth" -2
+"down(p)" -2
+"grim" -2
+"low-spirited" -2
+"jump" -2
+"ridicule" -2
+"suitable" 2
+"hope" 1
+"coveted" 2
+"craved" 2
+"in demand(p)" 2
+"sought after" 2
+"wishful" 2
+"desperation" -3
+"do-or-die(a)" -3
+"heroic" -3
+"urgently" -3
+"heartsick" -3
+"demolish" -3
+"destruct" -3
+"put down" -3
+"ruined" -3
+"death" -3
+"demolition" -3
+"devastation" -3
+"end" -3
+"wipeout" -3
+"degage" -1
+"free" -1
+"separated" -1
+"set-apart" -1
+"unaffectionate" -1
+"uncaring" -1
+"uninvolved" -1
+"confine" -2
+"delay" -2
+"hold up" -2
+"custody" -2
+"detainment" -2
+"compulsive" 2
+"dictated" 2
+"driven" 2
+"set" 2
+"lay waste to" -2
+"ravage" -2
+"scourge" -2
+"waste" -2
+"annihilating" -2
+"annihilative" -2
+"crushing" -2
+"withering" -2
+"devoted(p)" 3
+"adamant" 1
+"ball field" 1
+"baseball diamond" 1
+"baseball field" 1
+"infield" 1
+"rhomb" 1
+"rhombus" 1
+"cock" -4
+"gumshoe" -4
+"hawkshaw" -4
+"pecker" -4
+"peter" -4
+"putz" -4
+"shaft" -4
+"tool" -4
+"become flat" -3
+"break down" -3
+"buy the farm" -3
+"cash in one's chips" -3
+"choke" -3
+"conk" -3
+"conk out" -3
+"croak" -3
+"decease" -3
+"die out" -3
+"drop dead" -3
+"exit" -3
+"expire" -3
+"give out" -3
+"give-up the ghost" -3
+"give way" -3
+"go" -3
+"go bad" -3
+"kick the bucket" -3
+"pall" -3
+"pass" -3
+"pass away" -3
+"perish" -3
+"pop off" -3
+"snuff it" -3
+"dice" -3
+"unmanageable" -1
+"shy" -2
+"unsure" -2
+"quandary" -1
+"ungraded" -2
+"crap" -2
+"filth" -2
+"grease" -2
+"grime" -2
+"grunge" -2
+"malicious gossip" -2
+"poop" -2
+"scandal" -2
+"shite" -2
+"soil" -2
+"stain" -2
+"turd" -2
+"cheating(a)" -2
+"contaminating" -2
+"dingy" -2
+"filthy" -2
+"ill-gotten" -2
+"lousy" -2
+"marked-up" -2
+"muddied" -2
+"muddy" -2
+"soiled" -2
+"sordid" -2
+"unclean" -2
+"unsporting" -2
+"unsportsmanlike" -2
+"begrime" -2
+"bemire" -2
+"colly" -2
+"crippling" -1
+"disqualifying" -1
+"incapacitating" -1
+"disfavor" -2
+"disfavour" -2
+"deprived" -2
+"evaporate" -1
+"go away" -1
+"melt" -1
+"vanish" -1
+"let down" -2
+"dissatisfactory" -2
+"unsatisfying" -2
+"dashing hopes" -2
+"letdown" -2
+"calamity" -2
+"cataclysm" -2
+"catastrophe" -2
+"black" -3
+"calamitous" -3
+"fatal" -3
+"fateful" -3
+"discredit" -2
+"cast aside" -1
+"cast away" -1
+"chuck out" -1
+"dispose" -1
+"fling" -1
+"put away" -1
+"throw away" -1
+"throw out" -1
+"toss" -1
+"toss away" -1
+"toss out" -1
+"throwing away" -1
+"cast-off(a)" -1
+"throwaway(a)" -1
+"thrown-away(a)" -1
+"dark" -2
+"drab" -2
+"drear" -2
+"inconsolable" -2
+"sorry" -2
+"unconsolable" -2
+"discontent" -2
+"disaccord" -2
+"disagree" -2
+"discordance" -2
+"dissension" -2
+"strife" -2
+"damaged" -2
+"dishonored" -2
+"contemn" -2
+"despise" -2
+"freeze off" -2
+"pooh-pooh" -2
+"reject" -2
+"spurn" -2
+"turn down" -2
+"condescension" -2
+"patronage" -2
+"attaint" -2
+"dishonor" -2
+"dishonour" -2
+"ignominy" -2
+"mask" -1
+"camouflage" -1
+"cloaked" -1
+"masked" -1
+"churn up" -3
+"gross out" -3
+"nauseate" -3
+"repel" -3
+"revolt" -3
+"sicken" -3
+"fed up(p)" -3
+"sick of(p)" -3
+"sick(p)" -3
+"tired of(p)" -3
+"disgustful" -3
+"distasteful" -3
+"foul" -3
+"loathly" -3
+"loathsome" -3
+"repellant" -3
+"repellent" -3
+"repelling" -3
+"revolting" -3
+"skanky" -3
+"wicked" -3
+"yucky" -3
+"bribable" -2
+"corruptible" -2
+"dishonorable" -2
+"purchasable" -2
+"venal" -2
+"dislocated" -2
+"separated" -2
+"disapproval" -2
+"cark" -2
+"disarray" -2
+"perturb" -2
+"unhinge" -2
+"disorderliness" -2
+"disorganised" -2
+"alienated" -2
+"anomic" -2
+"derogative" -2
+"derogatory" -2
+"altercate" -2
+"argufy" -2
+"challenge" -2
+"gainsay" -2
+"quarrel" -2
+"scrap" -2
+"contravention" -2
+"unease" -2
+"uneasiness" -2
+"brush aside" -2
+"brush off" -2
+"cut" -2
+"discount" -2
+"dismiss" -2
+"ignore" -2
+"push aside" -2
+"forgotten" -2
+"disregardless" -2
+"irrespective" -2
+"no matter" -2
+"disesteem" -2
+"discourtesy" -2
+"commotion" -2
+"dislocation" -2
+"disturbance" -2
+"flutter" -2
+"gap" -2
+"hoo-ha" -2
+"hoo-hah" -2
+"hurly burly" -2
+"kerfuffle" -2
+"perturbation" -2
+"to-do" -2
+"tumultuous" -2
+"turbulent" -2
+"disgruntled" -2
+"color" -2
+"colour" -2
+"contort" -2
+"deform" -2
+"falsify" -2
+"garble" -2
+"strain" -2
+"tinge" -2
+"twine" -2
+"twist" -2
+"warp" -2
+"wring" -2
+"deformed" -2
+"ill-shapen" -2
+"malformed" -2
+"misrepresented" -2
+"misshapen" -2
+"perverted" -2
+"twisted" -2
+"deflect" -2
+"distrait" -2
+"beguilement" -2
+"misdirection" -2
+"straiten" -2
+"distraint" -2
+"disquieted" -2
+"dysphoric" -2
+"hard-pressed" -2
+"hard put" -2
+"in a bad way(p)" -2
+"deplorable" -2
+"distressful" -2
+"lamentable" -2
+"perturbing" -2
+"pitiful" -2
+"troubling" -2
+"worrisome" -2
+"worrying" -2
+"mistrust" -3
+"suspect" -3
+"distrustfulness" -3
+"misgiving" -3
+"suspicion" -3
+"agitate" -2
+"commove" -2
+"raise up" -2
+"shake up" -2
+"stir up" -2
+"touch" -2
+"maladjusted" -2
+"airheaded" -1
+"empty-headed" -1
+"featherbrained" -1
+"giddy" -1
+"lightheaded" -1
+"light-headed" -1
+"vertiginous" -1
+"woozy" -1
+"avoidance" -2
+"dodge" -2
+"escape" -2
+"evasion" -2
+"scheme" -2
+"shunning" -2
+"turning away" -2
+"chanceful" -2
+"chancy" -2
+"crafty" -2
+"cunning" -2
+"dicey" -2
+"foxy" -2
+"guileful" -2
+"knavish" -2
+"slick" -2
+"sly" -2
+"tricksy" -2
+"tricky" -2
+"wily" -2
+"dolourous" -2
+"lachrymose" -2
+"tearful" -2
+"designate" -2
+"destine" -2
+"fate" -2
+"day of reckoning" -2
+"doomsday" -2
+"end of the world" -2
+"cursed" -2
+"fated" -2
+"ill-fated" -2
+"ill-omened" -2
+"ill-starred" -2
+"unlucky" -2
+"unredeemed" -2
+"unsaved" -2
+"doubtfulness" -1
+"dubiety" -1
+"dubiousness" -1
+"incertitude" -1
+"question" -1
+"uncertainty" -1
+"dubious" -1
+"dubitable" -1
+"in question(p)" -1
+"tentative" -1
+"sceptical" -1
+"skeptical" -1
+"douche bag" -3
+"cart" -1
+"drag in" -1
+"drag on" -1
+"drag out" -1
+"draw" -1
+"dredge" -1
+"drop back" -1
+"drop behind" -1
+"embroil" -1
+"get behind" -1
+"hale" -1
+"hang back" -1
+"haul" -1
+"puff" -1
+"scuff" -1
+"sweep" -1
+"sweep up" -1
+"tangle" -1
+"trail" -1
+"pull" -1
+"retarding force" -1
+"dead" -2
+"knackered" -2
+"awful" -2
+"dire" -2
+"direful" -2
+"dread(a)" -2
+"dreadful" -2
+"frightening" -2
+"horrendous" -2
+"horrific" -2
+"terrible" -2
+"apprehensiveness" -2
+"daydream" 1
+"stargaze" 1
+"woolgather" 1
+"ambition" 1
+"aspiration" 1
+"dreaming" 1
+"pipe dream" 1
+"drooping" -2
+"sagging" -2
+"cast" -1
+"cast off" -1
+"dangle" -1
+"degenerate" -1
+"deteriorate" -1
+"devolve" -1
+"discharge" -1
+"dismiss" -1
+"dribble" -1
+"drip" -1
+"drop down" -1
+"drop off" -1
+"expend" -1
+"fell" -1
+"flatten" -1
+"knock off" -1
+"leave out" -1
+"miss" -1
+"neglect" -1
+"omit" -1
+"overleap" -1
+"overlook" -1
+"pretermit" -1
+"put down" -1
+"send away" -1
+"send packing" -1
+"set down" -1
+"shake off" -1
+"shed" -1
+"sink" -1
+"spend" -1
+"throw" -1
+"throw off" -1
+"unload" -1
+"bead" -1
+"cliff" -1
+"dip" -1
+"drib" -1
+"driblet" -1
+"drop cloth" -1
+"drop curtain" -1
+"drop-off" -1
+"fall" -1
+"free fall" -1
+"pearl" -1
+"overwhelm" -2
+"submerge" -2
+"swim" -2
+"inebriated" -2
+"intoxicated" -2
+"drunkard" -2
+"inebriate" -2
+"rummy" -2
+"sot" -2
+"wino" -2
+"doubtful" -2
+"dubitable" -2
+"in question(p)" -2
+"bomb" -2
+"misfire" -2
+"turkey" -2
+"washout" -2
+"boring" -2
+"deadening" -2
+"dense" -2
+"dim" -2
+"dumb" -2
+"ho-hum" -2
+"irksome" -2
+"leaden" -2
+"muffled" -2
+"muted" -2
+"obtuse" -2
+"slow" -2
+"softened" -2
+"tedious" -2
+"thudding" -2
+"tiresome" -2
+"wearisome" -2
+"benumb" -2
+"blunt" -2
+"damp" -2
+"dampen" -2
+"muffle" -2
+"mute" -2
+"numb" -2
+"pall" -2
+"tone down" -2
+"dense" -3
+"dim" -3
+"mute" -3
+"obtuse" -3
+"silent" -3
+"speechless" -3
+"blockhead" -3
+"bonehead" -3
+"dunce" -3
+"dunderhead" -3
+"fuckhead" -3
+"hammerhead" -3
+"knucklehead" -3
+"loggerhead" -3
+"lunkhead" -3
+"muttonhead" -3
+"numskull" -3
+"shithead" -3
+"coldcock" -1
+"deck" -1
+"ditch" -1
+"floor" -1
+"knock down" -1
+"plunge" -1
+"underprice" -1
+"dumpsite" -1
+"garbage dump" -1
+"rubbish dump" -1
+"shit" -1
+"trash dump" -1
+"wasteyard" -1
+"waste-yard" -1
+"mopes" -1
+"befool" -2
+"cod" -2
+"gull" -2
+"put on" -2
+"put one across" -2
+"put one over" -2
+"slang" -2
+"take in" -2
+"victim" -2
+"disfunction" -2
+"aegir" 2
+"bore" 2
+"eagre" 2
+"tidal bore" 2
+"businesslike" 2
+"solemn" 2
+"allay" 2
+"alleviate" 2
+"facilitate" 2
+"relieve" 2
+"easiness" 2
+"informality" 2
+"relaxation" 2
+"relief" 2
+"repose" 2
+"rest" 2
+"simpleness" 2
+"simplicity" 2
+"comfortable" 1
+"easygoing" 1
+"gentle" 1
+"leisurely" 1
+"loose" 1
+"promiscuous" 1
+"prosperous" 1
+"sluttish" 1
+"soft" 1
+"wanton" 1
+"well-fixed" 1
+"well-heeled" 1
+"well-off" 1
+"well-situated" 1
+"well-to-do" 1
+"easily" 1
+"slow" 1
+"slowly" 1
+"tardily" 1
+"enraptured" 4
+"rapt" 4
+"rhapsodic" 4
+"effectual" 2
+"efficacious" 2
+"efficient" 2
+"in effect(p)" 2
+"in force(p)" 2
+"efficaciously" 2
+"in effect" 2
+"high spirits" 3
+"lightness" 3
+"graceful" 2
+"refined" 2
+"abash" -2
+"block" -2
+"blockade" -2
+"hinder" -2
+"obstruct" -2
+"stymie" -2
+"stymy" -2
+"mortified" -2
+"mortifying" -2
+"overplus" -2
+"plethora" -2
+"superfluity" -2
+"bosom" 1
+"comprehend" 1
+"cover" 1
+"encompass" 1
+"hug" 1
+"squeeze" 1
+"embracement" 1
+"embracing" 1
+"emergency brake" -2
+"exigency" -2
+"hand brake" -2
+"parking brake" -2
+"empathic" 2
+"vacancy" -1
+"vacuum" -1
+"vanity" -1
+"empty-bellied" -1
+"hollow" -1
+"vacuous" -1
+"abandon" -1
+"evacuate" -1
+"vacate" -1
+"advance" 2
+"boost" 2
+"further" 2
+"promote" 2
+"bucked up(p)" 2
+"back" 2
+"certify" 2
+"indorse" 2
+"plump for" 2
+"plunk for" 2
+"second" 2
+"blurb" 2
+"countenance" 2
+"imprimatur" 2
+"indorsement" 2
+"sanction" 2
+"secondment" 2
+"warrant" 2
+"foe" -2
+"foeman" -2
+"opposition" -2
+"gumptious" 2
+"industrious" 2
+"up-and-coming" 2
+"absorb" 1
+"affiance" 1
+"betroth" 1
+"charter" 1
+"employ" 1
+"engross" 1
+"enlist" 1
+"hire" 1
+"lease" 1
+"lock" 1
+"mesh" 1
+"occupy" 1
+"operate" 1
+"plight" 1
+"prosecute" 1
+"pursue" 1
+"rent" 1
+"wage" 1
+"bask" 2
+"delight" 2
+"relish" 2
+"revel" 2
+"savor" 2
+"savour" 2
+"clear up" 2
+"crystalise" 2
+"crystalize" 2
+"crystallise" 2
+"crystallize" 2
+"edify" 2
+"elucidate" 2
+"illuminate" 2
+"irradiate" 2
+"shed light on" 2
+"sort out" 2
+"straighten out" 2
+"educated" 2
+"initiate" 2
+"edifying" 2
+"illuminating" 2
+"informative" 2
+"boredom" -2
+"tedium" -2
+"angered" -2
+"furious" -2
+"maddened" -2
+"ascertain" 1
+"assure" 1
+"control" 1
+"insure" 1
+"secure" 1
+"see" 1
+"see to it" 1
+"covetous" -2
+"begrudge" -1
+"enviousness" -1
+"invidia" -1
+"computer error" -2
+"erroneous belief" -2
+"erroneousness" -2
+"misplay" -2
+"wrongdoing" -2
+"break away" -1
+"break loose" -1
+"bunk" -1
+"elude" -1
+"fly the coop" -1
+"get away" -1
+"get off" -1
+"get out" -1
+"head for the hills" -1
+"hightail it" -1
+"lam" -1
+"run" -1
+"run away" -1
+"scarper" -1
+"scat" -1
+"take to the woods" -1
+"turn tail" -1
+"dodging" -1
+"escape cock" -1
+"escape valve" -1
+"escapism" -1
+"evasion" -1
+"flight" -1
+"leakage" -1
+"outflow" -1
+"relief valve" -1
+"safety valve" -1
+"prestigious" 2
+"honorable" 2
+"honourable" 2
+"euphory" 3
+"constructive eviction" -1
+"dispossession" -1
+"legal ouster" -1
+"malefic" -3
+"malevolent" -3
+"malign" -3
+"evilness" -3
+"immorality" -3
+"iniquity" -3
+"wickedness" -3
+"amplify" -2
+"hyperbolise" -2
+"hyperbolize" -2
+"magnify" -2
+"overdo" -2
+"overdraw" -2
+"overstate" -2
+"enlarged" -2
+"magnified" -2
+"overdone" -2
+"overstated" -2
+"browned off" 2
+"cheesed off" 2
+"excellency" 3
+"fantabulous" 3
+"first-class" 3
+"agitate" 3
+"arouse" 3
+"charge" 3
+"charge up" 3
+"commove" 3
+"energise" 3
+"energize" 3
+"rouse" 3
+"sex" 3
+"shake" 3
+"shake up" 3
+"stimulate" 3
+"stir" 3
+"turn on" 3
+"wind up" 3
+"activated" 3
+"aroused" 3
+"delirious" 3
+"emotional" 3
+"frantic" 3
+"mad" 3
+"unrestrained" 3
+"worked up" 3
+"agitation" 3
+"excitation" 3
+"exhilaration" 3
+"fervor" 3
+"fervour" 3
+"hullabaloo" 3
+"inflammation" 3
+"turmoil" 3
+"upheaval" 3
+"boot out" -1
+"eject" -1
+"except" -1
+"keep out" -1
+"leave off" -1
+"shut" -1
+"shut out" -1
+"take out" -1
+"turf out" -1
+"censure" -1
+"ejection" -1
+"elision" -1
+"exception" -1
+"excommunication" -1
+"expulsion" -1
+"riddance" -1
+"single(a)" 2
+"sole(a)" 2
+"undivided" 2
+"scoop" 2
+"beg off" -1
+"condone" -1
+"explain" -1
+"let off" -1
+"pardon" -1
+"relieve" -1
+"alibi" -1
+"exculpation" -1
+"self-justification" -1
+"nontaxable" -1
+"dog-tired" -2
+"fagged" -2
+"played out" -2
+"spent" -2
+"washed-out" -2
+"worn-out(a)" -2
+"worn out(p)" -2
+"gladdened" 3
+"elating" 3
+"stimulating" 3
+"amplify" 1
+"blow up" 1
+"boom" 1
+"dilate" 1
+"elaborate" 1
+"enlarge" 1
+"expatiate" 1
+"exposit" 1
+"expound" 1
+"flesh out" 1
+"flourish" 1
+"inflate" 1
+"lucubrate" 1
+"spread out" 1
+"thrive" 1
+"boot out" -2
+"discharge" -2
+"drum out" -2
+"eject" -2
+"exhaust" -2
+"kick out" -2
+"oust" -2
+"release" -2
+"rout" -2
+"rout out" -2
+"throw out" -2
+"emission" -2
+"overwork" -2
+"tap" -2
+"work" -2
+"effort" -2
+"feat" -2
+"ill-used" -2
+"put-upon" -2
+"used" -2
+"victimised" -2
+"victimized" -2
+"geographic expedition" 1
+"break" -1
+"bring out" -1
+"debunk" -1
+"disclose" -1
+"discover" -1
+"display" -1
+"divulge" -1
+"endanger" -1
+"exhibit" -1
+"give away" -1
+"let on" -1
+"let out" -1
+"peril" -1
+"queer" -1
+"reveal" -1
+"scupper" -1
+"uncover" -1
+"unwrap" -1
+"unmasking" -1
+"open" -1
+"uncovered" -1
+"broaden" 1
+"carry" 1
+"continue" 1
+"draw out" 1
+"exsert" 1
+"gallop" 1
+"go" 1
+"hold out" 1
+"lead" 1
+"offer" 1
+"poke out" 1
+"prolong" 1
+"protract" 1
+"put out" 1
+"reach out" 1
+"run" 1
+"strain" 1
+"stretch" 1
+"stretch forth" 1
+"stretch out" 1
+"unfold" 1
+"widen" 1
+"ebullient" 4
+"excessive" 4
+"extravagant" 4
+"high-spirited" 4
+"lush" 4
+"luxuriant" 4
+"overweening" 4
+"profuse" 4
+"riotous" 4
+"exulting" 3
+"prideful" 3
+"rejoicing" 3
+"triumphal" 3
+"triumphant" 3
+"exultingly" 3
+"fab" 4
+"mythic" 4
+"mythical" 4
+"mythologic" 4
+"mythological" 4
+"craze" -2
+"cult" -2
+"furor" -2
+"furore" -2
+"dig" -3
+"drudge" -3
+"fag out" -3
+"fatigue" -3
+"grind" -3
+"jade" -3
+"labor" -3
+"labour" -3
+"moil" -3
+"outwear" -3
+"tire" -3
+"tire out" -3
+"toil" -3
+"travail" -3
+"wear" -3
+"wear down" -3
+"wear out" -3
+"wear upon" -3
+"weary" -3
+"butt" -3
+"cigaret" -3
+"cigarette" -3
+"coffin nail" -3
+"fagot" -3
+"fairy" -3
+"nance" -3
+"pansy" -3
+"poof" -3
+"poove" -3
+"pouf" -3
+"queen" -3
+"queer" -3
+"faggot up" -3
+"conk out" -2
+"flunk" -2
+"flush it" -2
+"give out" -2
+"go bad" -2
+"go wrong" -2
+"miscarry" -2
+"run out" -2
+"bankruptcy" -2
+"loser" -2
+"nonstarter" -2
+"unsuccessful person" -2
+"faint" -2
+"faint-hearted" -2
+"average" 2
+"bonnie" 2
+"bonny" 2
+"comely" 2
+"fair(a)" 2
+"fairish" 2
+"just" 2
+"mediocre" 2
+"middling" 2
+"reasonable" 2
+"sightly" 2
+"evenhandedly" 2
+"bazaar" 2
+"carnival" 2
+"funfair" 2
+"organized religion" 1
+"religion" 1
+"religious belief" 1
+"close" 3
+"congregation" 3
+"fold" 3
+"bastard" -3
+"bogus" -3
+"false" -3
+"faux" -3
+"imitation" -3
+"phoney" -3
+"phony" -3
+"simulated" -3
+"cook" -3
+"counterfeit" -3
+"forge" -3
+"fudge" -3
+"manipulate" -3
+"misrepresent" -3
+"talk through one's hat" -3
+"wangle" -3
+"faker" -3
+"fraud" -3
+"imposter" -3
+"impostor" -3
+"juke" -3
+"postiche" -3
+"pretender" -3
+"pseud" -3
+"pseudo" -3
+"role player" -3
+"sham" -3
+"shammer" -3
+"dropping" -1
+"alter" -3
+"distort" -3
+"garble" -3
+"interpolate" -3
+"warp" -3
+"celebrity" 1
+"renown" 1
+"winnow" 3
+"buff" 3
+"devotee" 3
+"lover" 3
+"rooter" 3
+"sports fan" 3
+"antic" 4
+"fantastical" 4
+"grand" 4
+"grotesque" 4
+"howling(a)" 4
+"marvellous" 4
+"marvelous" 4
+"rattling(a)" 4
+"tremendous" 4
+"wild" 4
+"wondrous" 4
+"farce comedy" -1
+"forcemeat" -1
+"travesty" -1
+"grip" 3
+"intrigue" 3
+"spellbind" 3
+"transfix" 3
+"hypnotised" 3
+"hypnotized" 3
+"mesmerised" 3
+"mesmerized" 3
+"spellbound" 3
+"spell-bound" 3
+"transfixed" 3
+"absorbing" 3
+"bewitching" 3
+"captivating" 3
+"enchanting" 3
+"engrossing" 3
+"enthralling" 3
+"entrancing" 3
+"gripping" 3
+"riveting" 3
+"fascistic" -2
+"human death" -3
+"fag" -2
+"fag out" -2
+"jade" -2
+"outwear" -2
+"tire out" -2
+"wear" -2
+"wear down" -2
+"wear out" -2
+"wear upon" -2
+"fatigue duty" -2
+"tiredness" -2
+"weariness" -2
+"favour" 2
+"prefer" 2
+"privilege" 2
+"party favor" 2
+"party favour" 2
+"best-loved" 2
+"favorite(a)" 2
+"favourite(a)" 2
+"pet" 2
+"preferent" 2
+"preferred" 2
+"favourite" 2
+"dearie" 2
+"deary" 2
+"ducky" 2
+"front-runner" 2
+"revere" -2
+"reverence" -2
+"venerate" -2
+"awe" -2
+"care" -2
+"concern" -2
+"fearfulness" -2
+"veneration" -2
+"frightful" -2
+"trepid" -2
+"unafraid(p)" 2
+"debile" -2
+"decrepit" -2
+"infirm" -2
+"nerveless" -2
+"rickety" -2
+"sapless" -2
+"weakly" -2
+"belief" 1
+"feel" 1
+"flavor" 1
+"flavour" 1
+"impression" 1
+"intuitive feeling" 1
+"look" 1
+"notion" 1
+"opinion" 1
+"smell" 1
+"tactile sensation" 1
+"tactual sensation" 1
+"tone" 1
+"touch" 1
+"touch sensation" 1
+"ardent" 2
+"fiery" 2
+"impassioned" 2
+"perfervid" 2
+"torrid" 2
+"festal" 2
+"debacle" -3
+"antsy" -2
+"fretful" -2
+"agitate" -1
+"campaign" -1
+"crusade" -1
+"defend" -1
+"fight back" -1
+"fight down" -1
+"oppose" -1
+"push" -1
+"competitiveness" -1
+"all right" 2
+"hunky-dory" 2
+"ok" 2
+"o.k." 2
+"okay" 2
+"alright" 2
+"delicately" 2
+"exquisitely" 2
+"finely" 2
+"OK" 2
+"very well" 2
+"ticket" 2
+"amercement" 2
+"mulct" 2
+"arouse" -2
+"burn" -2
+"burn down" -2
+"can" -2
+"displace" -2
+"elicit" -2
+"enkindle" -2
+"evoke" -2
+"force out" -2
+"fuel" -2
+"give notice" -2
+"give the axe" -2
+"give the sack" -2
+"go off" -2
+"kindle" -2
+"open fire" -2
+"provoke" -2
+"raise" -2
+"sack" -2
+"send away" -2
+"terminate" -2
+"ardor" -2
+"ardour" -2
+"attack" -2
+"blast" -2
+"fervency" -2
+"fervidness" -2
+"fervor" -2
+"fervour" -2
+"flack" -2
+"flak" -2
+"flame" -2
+"flaming" -2
+"discharged" -2
+"dismissed" -2
+"laid-off" -2
+"pink-slipped" -2
+"dismissal" -2
+"dismission" -2
+"firing off" -2
+"ignition" -2
+"inflammation" -2
+"kindling" -2
+"liberation" -2
+"lighting" -2
+"sacking" -2
+"fit(p)" 1
+"primed(p)" 1
+"set(p)" 1
+"accommodate" 1
+"conform to" 1
+"equip" 1
+"fit out" 1
+"meet" 1
+"outfit" 1
+"suit" 1
+"burst" 1
+"conniption" 1
+"convulsion" 1
+"paroxysm" 1
+"scene" 1
+"tantrum" 1
+"fittingness" 1
+"physical fitness" 1
+"seaworthiness" 1
+"right" -2
+"fall flat" -2
+"fall through" -2
+"bust" -2
+"fizzle" -2
+"floating-point operation" -2
+"grippe" -2
+"influenza" -2
+"hot and bothered(p)" -2
+"rattled" -2
+"focussed" 2
+"adoring" 2
+"affectionate" 2
+"doting" 2
+"fond(p)" 2
+"lovesome" 2
+"partial(p)" 2
+"warm" 2
+"affection" 2
+"affectionateness" 2
+"fancy" 2
+"heart" 2
+"lovingness" 2
+"partiality" 2
+"philia" 2
+"tenderness" 2
+"warmheartedness" 2
+"warmness" 2
+"arse around" -2
+"dissipate" -2
+"fool around" -2
+"fool away" -2
+"fritter" -2
+"fritter away" -2
+"frivol away" -2
+"horse around" -2
+"shoot" -2
+"chump" -2
+"fall guy" -2
+"jester" -2
+"motley fool" -2
+"mug" -2
+"muggins" -2
+"patsy" -2
+"sap" -2
+"saphead" -2
+"soft touch" -2
+"sucker" -2
+"tomfool" -2
+"anserine" -2
+"dopey" -2
+"dopy" -2
+"gooselike" -2
+"goosey" -2
+"goosy" -2
+"jerky" -2
+"constrained" -1
+"strained" -1
+"bury" -1
+"oblivious" -2
+"short" -2
+"unmindful" -2
+"unretentive" -2
+"absolvitory" 1
+"exonerative" 1
+"disregarded" -1
+"golden" 2
+"rosy" 2
+"delirious" -1
+"excited" -1
+"frenetic" -1
+"frenzied" -1
+"mad" -1
+"phrenetic" -1
+"unrestrained" -1
+"dupery" -4
+"faker" -4
+"hoax" -4
+"humbug" -4
+"imposter" -4
+"impostor" -4
+"pretender" -4
+"pseud" -4
+"pseudo" -4
+"put-on" -4
+"role player" -4
+"sham" -4
+"shammer" -4
+"deceit" -4
+"duplicity" -4
+"deceitful" -4
+"fallacious" -4
+"barren" 1
+"complimentary" 1
+"costless" 1
+"destitute" 1
+"detached" 1
+"devoid" 1
+"gratis(p)" 1
+"gratuitous" 1
+"innocent" 1
+"spare" 1
+"absolve" 1
+"disembarrass" 1
+"disengage" 1
+"dislodge" 1
+"exempt" 1
+"justify" 1
+"liberate" 1
+"release" 1
+"relinquish" 1
+"resign" 1
+"rid" 1
+"unblock" 1
+"unfreeze" 1
+"unloose" 1
+"unloosen" 1
+"free people" 1
+"exemption" 2
+"craze" -3
+"delirium" -3
+"fury" -3
+"bracing" 1
+"brisk" 1
+"impertinent" 1
+"impudent" 1
+"invigorated" 1
+"new" 1
+"novel" 1
+"overbold" 1
+"refreshed" 1
+"refreshful" 1
+"refreshing" 1
+"reinvigorated" 1
+"sassy" 1
+"saucy" 1
+"sweet" 1
+"tonic" 1
+"unfermented" 1
+"unused" 1
+"wise" 1
+"freshly" 1
+"newly" 1
+"favorable" 2
+"well-disposed" 2
+"affright" -2
+"frighten" -2
+"panicked" -2
+"panicky" -2
+"panic-stricken" -2
+"panic-struck" -2
+"terrified" -2
+"terrorisation" -3
+"terrorization" -3
+"kittenish" 2
+"baffle" -2
+"bilk" -2
+"cross" -2
+"crucify" -2
+"dun" -2
+"foil" -2
+"queer" -2
+"scotch" -2
+"spoil" -2
+"torment" -2
+"frustrative" -2
+"defeat" -2
+"foiling" -2
+"bang" -4
+"bed" -4
+"be intimate" -4
+"bonk" -4
+"do it" -4
+"eff" -4
+"get it on" -4
+"get laid" -4
+"have a go at it" -4
+"have intercourse" -4
+"have it away" -4
+"have it off" -4
+"have sex" -4
+"hump" -4
+"jazz" -4
+"know" -4
+"lie with" -4
+"love" -4
+"make love" -4
+"make out" -4
+"sleep together" -4
+"sleep with" -4
+"blockhead" -4
+"bonehead" -4
+"dumbass" -4
+"dunce" -4
+"dunderhead" -4
+"hammerhead" -4
+"knucklehead" -4
+"loggerhead" -4
+"lunkhead" -4
+"muttonhead" -4
+"numskull" -4
+"bally(a)" -4
+"blinking(a)" -4
+"bloody(a)" -4
+"blooming(a)" -4
+"crashing(a)" -4
+"flaming(a)" -4
+"fucking(a)" -4
+"fill" 2
+"live up to" 2
+"meet" 2
+"satisfy" 2
+"merriment" 4
+"play" 4
+"playfulness" 4
+"sport" 4
+"fetid" 2
+"foetid" 2
+"foul" 2
+"foul-smelling" 2
+"ill-scented" 2
+"low-down" 2
+"noisome" 2
+"smelly" 2
+"stinking" 2
+"amusing" 4
+"comic" 4
+"comical" 4
+"curious" 4
+"fishy" 4
+"laughable" 4
+"mirthful" 4
+"odd" 4
+"peculiar" 4
+"queer" 4
+"risible" 4
+"rum" 4
+"rummy" 4
+"shady" 4
+"singular" 4
+"suspect" 4
+"suspicious" 4
+"funny remark" 4
+"funny story" 4
+"good story" 4
+"angered" -3
+"enraged" -3
+"ferocious" -3
+"fierce" -3
+"infuriated" -3
+"maddened" -3
+"bootless" 2
+"fruitless" 2
+"ineffectual" 2
+"otiose" 2
+"sleeveless" 2
+"unavailing" 2
+"vain" 2
+"heave" -2
+"muzzle" -2
+"quip" -2
+"retch" -2
+"jape" -2
+"jest" -2
+"joke" -2
+"laugh" -2
+"acquire" 2
+"arrive at" 2
+"bring in" 2
+"derive" 2
+"earn" 2
+"gain ground" 2
+"gather" 2
+"get ahead" 2
+"hit" 2
+"make" 2
+"make headway" 2
+"pull ahead" 2
+"pull in" 2
+"put on" 2
+"realise" 2
+"realize" 2
+"take in" 2
+"win" 2
+"addition" 2
+"amplification" 2
+"increase" 2
+"chivalrous" 3
+"dashing" 3
+"knightly" 3
+"lofty" 3
+"majestic" 3
+"proud" 3
+"beau" 3
+"clotheshorse" 3
+"dandy" 3
+"dude" 3
+"fashion plate" 3
+"fop" 3
+"sheik" 3
+"squire" 3
+"swell" 3
+"chivalrously" 3
+"chivalry" 3
+"heroism" 3
+"politesse" 3
+"valiance" 3
+"valiancy" 3
+"valor" 3
+"valorousness" 3
+"valour" 3
+"affable" 3
+"amiable" 3
+"cordial" 3
+"kind" 3
+"mental" 3
+"ghostwrite" -1
+"obsess" -1
+"ghostwriter" -1
+"shade" -1
+"specter" -1
+"spectre" -1
+"spook" -1
+"touch" -1
+"trace" -1
+"wraith" -1
+"airheaded" -2
+"dizzy" -2
+"empty-headed" -2
+"featherbrained" -2
+"lightheaded" -2
+"light-headed" -2
+"silly" -2
+"vertiginous" -2
+"woozy" -2
+"empower" 2
+"endow" 2
+"endue" 2
+"give" 2
+"indue" 2
+"invest" 2
+"present" 2
+"endowment" 2
+"giving" 2
+"natural endowment" 2
+"talent" 2
+"beaming" 3
+"gladiola" 3
+"gladiolus" 3
+"sword lily" 3
+"gleefulness" 3
+"gloat" 3
+"gloating" 3
+"hilarity" 3
+"mirthfulness" 3
+"gloominess" -1
+"glumness" -1
+"somberness" -1
+"sombreness" -1
+"gloomful" -2
+"glooming" -2
+"brilliant" 2
+"magnificent" 2
+"resplendent" 2
+"splendid" 2
+"splendiferous" 2
+"aura" 2
+"aureole" 2
+"glorification" 2
+"gloriole" 2
+"halo" 2
+"nimbus" 2
+"resplendence" 2
+"resplendency" 2
+"dour" -2
+"glowering" -2
+"moody" -2
+"morose" -2
+"saturnine" -2
+"sour" -2
+"deity" 1
+"divinity" 1
+"God" 1
+"graven image" 1
+"idol" 1
+"immortal" 1
+"Supreme Being" 1
+"blame" -3
+"blamed" -3
+"blasted" -3
+"blessed" -3
+"damned" -3
+"darned" -3
+"deuced" -3
+"goddam" -3
+"goddamned" -3
+"infernal" -3
+"bonanza" 4
+"boom" 4
+"bunce" 4
+"gold rush" 4
+"gravy" 4
+"manna from heaven" 4
+"windfall" 4
+"adept" 3
+"beneficial" 3
+"dependable" 3
+"effective" 3
+"estimable" 3
+"expert" 3
+"full" 3
+"honest" 3
+"honorable" 3
+"in effect(p)" 3
+"in force(p)" 3
+"just" 3
+"near" 3
+"practiced" 3
+"proficient" 3
+"respectable" 3
+"right" 3
+"ripe" 3
+"safe" 3
+"salutary" 3
+"secure" 3
+"serious" 3
+"skilful" 3
+"skillful" 3
+"sound" 3
+"undecomposed" 3
+"unspoiled" 3
+"unspoilt" 3
+"upright" 3
+"well(p)" 3
+"soundly" 3
+"thoroughly" 3
+"well" 3
+"commodity" 3
+"trade good" 3
+"adorn" 1
+"beautify" 1
+"deck" 1
+"decorate" 1
+"embellish" 1
+"ornament" 1
+"blessing" 1
+"free grace" 1
+"goodwill" 1
+"good will" 1
+"Grace" 1
+"grace of God" 1
+"gracility" 1
+"saving grace" 1
+"seemliness" 1
+"state of grace" 1
+"thanksgiving" 1
+"benignant" 3
+"courteous" 3
+"august" 3
+"deluxe" 3
+"distinguished" 3
+"elevated" 3
+"exalted" 3
+"expansive" 3
+"fantastic" 3
+"gilded" 3
+"high-flown" 3
+"high-minded" 3
+"howling(a)" 3
+"idealistic" 3
+"imposing" 3
+"lordly" 3
+"luxurious" 3
+"magisterial" 3
+"marvellous" 3
+"noble-minded" 3
+"opulent" 3
+"princely" 3
+"rarefied" 3
+"rarified" 3
+"rattling(a)" 3
+"sublime" 3
+"sumptuous" 3
+"terrific" 3
+"tremendous" 3
+"wonderful" 3
+"wondrous" 3
+"1000" 3
+"chiliad" 3
+"G" 3
+"grand piano" 3
+"K" 3
+"M" 3
+"one thousand" 3
+"thou" 3
+"thousand" 3
+"yard" 3
+"allot" 1
+"award" 1
+"cede" 1
+"concede" 1
+"deed over" 1
+"yield" 1
+"assignment" 1
+"Cary Grant" 1
+"concession" 1
+"Duncan Grant" 1
+"Duncan James Corrow Grant" 1
+"Grant" 1
+"Hiram Ulysses Grant" 1
+"President Grant" 1
+"subsidisation" 1
+"subsidization" 1
+"Ulysses Grant" 1
+"Ulysses S. Grant" 1
+"Ulysses Simpson Grant" 1
+"given" 1
+"thankful" 3
+"satisfaction" 2
+"dangerous" -2
+"grievous" -2
+"heavy" -2
+"life-threatening" -2
+"sedate" -2
+"serious" -2
+"sober" -2
+"solemn" -2
+"weighty" -2
+"engrave" -2
+"inscribe" -2
+"scratch" -2
+"sculpt" -2
+"sculpture" -2
+"grave accent" -2
+"tomb" -2
+"gray-haired" -1
+"gray-headed" -1
+"grayish" -1
+"grey-haired" -1
+"grey-headed" -1
+"greyish" -1
+"grizzly" -1
+"hoar" -1
+"hoary" -1
+"white-haired" -1
+"Asa Gray" -1
+"Gray" -1
+"grayness" -1
+"greyness" -1
+"Gy" -1
+"Louis Harold Gray" -1
+"Robert Gray" -1
+"Thomas Gray" -1
+"bang-up" 3
+"big(p)" 3
+"bully" 3
+"capital" 3
+"corking" 3
+"cracking" 3
+"enceinte" 3
+"expectant" 3
+"gravid" 3
+"great(p)" 3
+"groovy" 3
+"heavy(p)" 3
+"keen" 3
+"large(p)" 3
+"majuscule" 3
+"neat" 3
+"nifty" 3
+"not bad(p)" 3
+"outstanding" 3
+"peachy" 3
+"slap-up" 3
+"smashing" 3
+"with child(p)" 3
+"sterling(a)" 3
+"superlative" 3
+"avarice" -3
+"avaritia" -3
+"covetousness" -3
+"rapacity" -3
+"avaricious" -2
+"avid" -2
+"devouring(a)" -2
+"esurient" -2
+"grabby" -2
+"grasping" -2
+"prehensile" -2
+"recognise" 1
+"recognize" 1
+"salutation" 1
+"Charles Grey" -1
+"Grey" -1
+"Lady Jane Grey" -1
+"Second Earl Grey" -1
+"Zane Grey" -1
+"brokenheartedness" -2
+"heartache" -2
+"heartbreak" -2
+"arrant(a)" -2
+"complete(a)" -2
+"consummate(a)" -2
+"crude" -2
+"double-dyed(a)" -2
+"earthy" -2
+"everlasting(a)" -2
+"gross(a)" -2
+"megascopic" -2
+"perfect(a)" -2
+"porcine" -2
+"pure(a)" -2
+"sodding(a)" -2
+"staring(a)" -2
+"stark(a)" -2
+"thoroughgoing(a)" -2
+"unadulterated" -2
+"utter(a)" -2
+"vulgar" -2
+"144" -2
+"receipts" -2
+"revenue" -2
+"development" 1
+"growth" 1
+"maturation" 1
+"ontogenesis" 1
+"ontogeny" 1
+"development" 2
+"emergence" 2
+"growing" 2
+"increment" 2
+"maturation" 2
+"ontogenesis" 2
+"ontogeny" 2
+"outgrowth" 2
+"undertake" 1
+"vouch" 1
+"warrant" 1
+"guaranty" 1
+"warrantee" 1
+"warranty" 1
+"guilt feelings" -3
+"guiltiness" -3
+"guilt trip" -3
+"guilty conscience" -3
+"hangdog" -3
+"shamed" -3
+"shamefaced" -3
+"credulousness" -2
+"fleeceable" -2
+"green" -2
+"accelerator" -1
+"accelerator pedal" -1
+"artillery" -1
+"gas" -1
+"gas pedal" -1
+"grease-gun" -1
+"gun for hire" -1
+"gunman" -1
+"gunslinger" -1
+"heavy weapon" -1
+"hired gun" -1
+"hitman" -1
+"hit man" -1
+"ordnance" -1
+"shooter" -1
+"throttle" -1
+"torpedo" -1
+"triggerman" -1
+"HA" 2
+"hour angle" 2
+"come" 2
+"herald" 2
+"miserable" -2
+"misfortunate" -2
+"pitiable" -2
+"wretched" -2
+"felicity" 3
+"felicitous" 3
+"well-chosen" 3
+"arduous" -1
+"backbreaking" -1
+"concentrated" -1
+"grueling" -1
+"gruelling" -1
+"heavy" -1
+"intemperate" -1
+"knockout" -1
+"laborious" -1
+"operose" -1
+"punishing" -1
+"severe" -1
+"strong" -1
+"surd" -1
+"toilsome" -1
+"tough" -1
+"unvoiced" -1
+"voiceless" -1
+"firmly" -1
+"heavily" -1
+"intemperately" -1
+"severely" -1
+"adversity" -2
+"asperity" -2
+"grimness" -2
+"hard knocks" -2
+"rigor" -2
+"rigorousness" -2
+"rigour" -2
+"rigourousness" -2
+"severeness" -2
+"severity" -2
+"stalwart" 2
+"sturdy" 2
+"Hardy" 2
+"Oliver Hardy" 2
+"Thomas Hardy" 2
+"damage" -2
+"impairment" -2
+"scathe" -2
+"trauma" -2
+"abrasive" -2
+"coarse" -2
+"rough" -2
+"detest" -3
+"hatred" -3
+"despised" -3
+"detested" -3
+"scorned" -3
+"frequent" -1
+"stalk" -1
+"hangout" -1
+"repair" -1
+"resort" -1
+"stamping ground" -1
+"obsessed" -2
+"preoccupied" -2
+"taken up(p)" -2
+"persistent" 1
+"mayhem" -2
+"good for you(p)" 2
+"goodish" 2
+"goodly" 2
+"hefty" 2
+"levelheaded" 2
+"level-headed" 2
+"respectable" 2
+"salubrious" 2
+"sizable" 2
+"sizeable" 2
+"sound" 2
+"tidy" 2
+"grievous" -3
+"heartrending" -3
+"brokenhearted" -3
+"devout" 3
+"earnest" 3
+"Eden" 2
+"Heaven" 2
+"nirvana" 2
+"paradise" 2
+"promised land" 2
+"Shangri-la" 2
+"celestial" 4
+"blaze" -4
+"Hades" -4
+"Hell" -4
+"hellhole" -4
+"hell on earth" -4
+"infernal region" -4
+"inferno" -4
+"Inferno" -4
+"nether region" -4
+"netherworld" -4
+"perdition" -4
+"pit" -4
+"Scheol" -4
+"sin" -4
+"snake pit" -4
+"the pits" -4
+"underworld" -4
+"assist" 2
+"avail" 2
+"help oneself" 2
+"serve" 2
+"assistance" 2
+"assistant" 2
+"helper" 2
+"service" 2
+"supporter" 2
+"portion" 2
+"serving" 2
+"bomber" 2
+"champion" 2
+"Cuban sandwich" 2
+"fighter" 2
+"grinder" 2
+"Hero" 2
+"Heron" 2
+"Hero of Alexandria" 2
+"hero sandwich" 2
+"hoagie" 2
+"hoagy" 2
+"Italian sandwich" 2
+"paladin" 2
+"poor boy" 2
+"sub" 2
+"submarine" 2
+"submarine sandwich" 2
+"torpedo" 2
+"wedge" 2
+"zep" 2
+"desperate" 3
+"epic" 3
+"heroical" 3
+"larger-than-life" 3
+"heroic meter" 3
+"heroic verse" 3
+"hesitating" -2
+"pause" -2
+"waffle" -2
+"waver" -2
+"blot out" -1
+"conceal" -1
+"cover" -1
+"enshroud" -1
+"hide out" -1
+"obliterate" -1
+"obscure" -1
+"shroud" -1
+"veil" -1
+"pelt" -1
+"skin" -1
+"concealing" -1
+"concealment" -1
+"foreground" 2
+"play up" 2
+"spotlight" 2
+"highlighting" 2
+"high spot" 2
+"screaming(a)" 2
+"uproarious" 2
+"balk" -2
+"baulk" -2
+"deterrent" -2
+"handicap" -2
+"hinderance" -2
+"impediment" -2
+"interference" -2
+"preventative" -2
+"preventive" -2
+"play a joke on" -2
+"pull someone's leg" -2
+"dupery" -2
+"fraud" -2
+"fraudulence" -2
+"humbug" -2
+"put-on" -2
+"dependable" 2
+"reliable" 2
+"true(p)" 2
+"abide by" 2
+"observe" 2
+"respect" 2
+"accolade" 2
+"award" 2
+"laurels" 2
+"pureness" 2
+"purity" 2
+"observance" 2
+"malicious mischief" -2
+"vandalism" -2
+"desire" 2
+"Bob Hope" 2
+"Hope" 2
+"Leslie Townes Hope" 2
+"promise" 2
+"bright" 2
+"promising" 2
+"aspirant" 2
+"aspirer" 2
+"wannabe" 2
+"wannabee" 2
+"horrifying" -3
+"hideous" -3
+"horrid" -3
+"outrageous" -3
+"horror-stricken" -3
+"horror-struck" -3
+"uncongenial" -2
+"unfriendly" -2
+"chaffer" -2
+"haggle" -2
+"hawk" -2
+"higgle" -2
+"monger" -2
+"peddle" -2
+"pitch" -2
+"vend" -2
+"cheap-jack" -2
+"bosom" 2
+"embrace" 2
+"squeeze" 2
+"clinch" 2
+"Brobdingnagian" 1
+"immense" 1
+"vast" 1
+"broken" -3
+"crushed" -3
+"embarrassed" -3
+"humbled" -3
+"low" -3
+"mortified" -3
+"abasement" -3
+"chagrin" -3
+"mortification" -3
+"bodily fluid" 2
+"body fluid" 2
+"liquid body substance" 2
+"mood" 2
+"sense of humor" 2
+"sense of humour" 2
+"temper" 2
+"wit" 2
+"witticism" 2
+"wittiness" 2
+"crave" -2
+"famish" -2
+"lust" -2
+"thirst" -2
+"hungriness" -2
+"thirstiness" -2
+"hooray" 5
+"weakened" -2
+"wounded" -2
+"anguish" -2
+"bruise" -2
+"injure" -2
+"spite" -2
+"wound" -2
+"detriment" -2
+"hysterical neurosis" -3
+"hysteric" -3
+"changeling" -3
+"cretin" -3
+"half-wit" -3
+"retard" -3
+"absurd" -3
+"cockeyed" -3
+"crackbrained" -3
+"derisory" -3
+"imbecilic" -3
+"laughable" -3
+"ludicrous" -3
+"nonsensical" -3
+"preposterous" -3
+"illiterate" -2
+"nescient" -2
+"unknowing" -2
+"unknowledgeable" -2
+"unlearned" -2
+"unlettered" -2
+"unwitting" -2
+"brush aside" -1
+"brush off" -1
+"discount" -1
+"push aside" -1
+"unheeded" -2
+"inauspicious" -2
+"ominous" -2
+"badly" -2
+"poorly" -2
+"ailment" -2
+"complaint" -2
+"analphabetism" -2
+"malady" -2
+"sickness" -2
+"unwellness" -2
+"deity" 2
+"divinity" 2
+"god" 2
+"resistant" 1
+"impatient(p)" -2
+"raring(p)" -2
+"fallible" -2
+"frail" -2
+"continuous tense" -2
+"imperfect tense" -2
+"progressive" -2
+"progressive tense" -2
+"grandness" 2
+"authoritative" 2
+"crucial" 2
+"of import" 2
+"significant" 2
+"enforce" -1
+"inflict" -1
+"levy" -1
+"visit" -1
+"baronial" -1
+"distinguished" -1
+"grand" -1
+"magisterial" -1
+"noble" -1
+"stately" -1
+"affect" 3
+"imprint" 3
+"ingrain" 3
+"instill" 3
+"move" 3
+"print" 3
+"shanghai" 3
+"strike" 3
+"yarn-dye" 3
+"impressment" 3
+"impressed(p)" 3
+"telling" 3
+"captive" -2
+"confined" -2
+"betterment" 2
+"melioration" 2
+"up" 2
+"unfitness" -2
+"inactiveness" -2
+"inactivity" -2
+"unequal" -2
+"incapable(p)" -2
+"unequal to(p)" -2
+"outraged" -2
+"umbrageous" -2
+"incompetency" -2
+"bungling" -2
+"fumbling" -2
+"unqualified" -2
+"unskilled" -2
+"incompetent person" -2
+"unconsidered" -2
+"incommodiousness" -2
+"troublesomeness" -2
+"worriment" -2
+"addition" 1
+"increment" 1
+"step-up" 1
+"durable" 2
+"perdurable" 2
+"undestroyable" 2
+"apathy" -2
+"emotionlessness" -2
+"impassiveness" -2
+"impassivity" -2
+"nonchalance" -2
+"numbness" -2
+"phlegm" -2
+"spiritlessness" -2
+"stolidity" -2
+"unconcern" -2
+"unemotionality" -2
+"apathetic" -2
+"deaf(p)" -2
+"immaterial" -2
+"indifferent(p)" -2
+"inert" -2
+"neutral" -2
+"so-so(p)" -2
+"unbiased" -2
+"unbiassed" -2
+"outrage" -2
+"ineffectual" -2
+"inefficient" -2
+"unable" -2
+"uneffective" -2
+"inefficaciously" -2
+"enamored" 2
+"in love" 2
+"potty" 2
+"smitten" 2
+"soft on(p)" 2
+"taken with(p)" 2
+"calf love" 2
+"crush" 2
+"puppy love" 2
+"septic" -2
+"deficient" -2
+"subscript" -2
+"substandard" -2
+"ablaze(p)" -2
+"reddened" -2
+"infraction" -2
+"misdemeanor" -2
+"misdemeanour" -2
+"violation" -2
+"incense" -2
+"maddening" -2
+"bottle up" -1
+"conquer" -1
+"curb" -1
+"stamp down" -1
+"subdue" -1
+"accidental injury" -2
+"combat injury" -2
+"iniquity" -2
+"shabbiness" -2
+"unfairness" -2
+"unjustness" -2
+"introduce" 1
+"conception" 1
+"creation" 1
+"design" 1
+"excogitation" 1
+"foundation" 1
+"founding" 1
+"initiation" 1
+"instauration" 1
+"institution" 1
+"introduction" 1
+"invention" 1
+"origination" 1
+"advanced" 2
+"forward-looking" 2
+"groundbreaking" 2
+"innovational" 2
+"modern" 2
+"Inquisition" -2
+"questioning" 2
+"speculative" 2
+"wondering(a)" 2
+"harebrained" -2
+"unsafe" -2
+"insensitiveness" -2
+"peanut" -2
+"undistinguished" -2
+"unimportant" -2
+"bland" -2
+"flat" -2
+"flavorless" -2
+"flavourless" -2
+"jejune" -2
+"savorless" -2
+"savourless" -2
+"vapid" -2
+"aspiration" 2
+"brainchild" 2
+"breathing in" 2
+"divine guidance" 2
+"inhalation" 2
+"intake" 2
+"stirring" 2
+"animate" 2
+"breathe in" 2
+"enliven" 2
+"exalt" 2
+"inhale" 2
+"instigate" 2
+"invigorate" 2
+"prompt" 2
+"revolutionise" 2
+"revolutionize" 2
+"divine" 2
+"elysian" 2
+"affront" -2
+"diss" -2
+"abuse" -2
+"contumely" -2
+"revilement" -2
+"vilification" -2
+"entire" 2
+"integral" 2
+"inviolate" 2
+"unity" 2
+"wholeness" 2
+"reasoning(a)" 2
+"thinking(a)" 2
+"well-informed" 2
+"acute" 1
+"concern" 1
+"matter to" 1
+"worry" 1
+"interest group" 1
+"interestingness" 1
+"involvement" 1
+"pastime" 1
+"pursuit" 1
+"sake" 1
+"stake" 1
+"concerned" 2
+"cut off" -2
+"disrupt" -2
+"fitful" -2
+"off-and-on(a)" -2
+"intermission" -2
+"suspension" -2
+"restrain" -2
+"daunting" -2
+"determent" -2
+"deterrence" -2
+"unbeatable" 2
+"unvanquishable" 2
+"ask for" 1
+"ask in" 1
+"ask over" 1
+"ask round" 1
+"bid" 1
+"call for" 1
+"pay for" 1
+"receive" 1
+"tempt" 1
+"ireful" -3
+"dry" -1
+"ironical" -1
+"wry" -1
+"caustic remark" -1
+"sarcasm" -1
+"satire" -1
+"irrational number" -1
+"resistless" 2
+"annoy" -3
+"bother" -3
+"chafe" -3
+"devil" -3
+"get at" -3
+"get to" -3
+"gravel" -3
+"nark" -3
+"nettle" -3
+"rag" -3
+"rile" -3
+"vex" -3
+"annoyed" -3
+"miffed" -3
+"nettled" -3
+"peeved" -3
+"pissed" -3
+"pissed off" -3
+"riled" -3
+"roiled" -3
+"steamed" -3
+"stung" -3
+"annoying" -3
+"bothersome" -3
+"galling" -3
+"irritative" -3
+"nettlesome" -3
+"pesky" -3
+"pestering" -3
+"pestiferous" -3
+"plaguey" -3
+"plaguy" -3
+"teasing" -3
+"vexatious" -3
+"vexing" -3
+"apart(p)" -1
+"disjunct" -1
+"marooned" -1
+"quarantined" -1
+"stranded" -1
+"stray" -1
+"bozo" -4
+"cuckoo" -4
+"fathead" -4
+"goof" -4
+"goofball" -4
+"goose" -4
+"jack" -4
+"twat" -4
+"zany" -4
+"dapper" 2
+"dashing" 2
+"natty" 2
+"raffish" 2
+"rakish" 2
+"spiffy" 2
+"spruce" 2
+"green-eyed" -2
+"overjealous" -2
+"endangerment" -2
+"hazard" -2
+"buck" -3
+"flick" -3
+"hitch" -3
+"twitch" -3
+"yank" -3
+"dork" -3
+"jerked meat" -3
+"jerking" -3
+"jerky" -3
+"jolt" -3
+"saccade" -3
+"tug" -3
+"Christ" 1
+"Deliverer" 1
+"Good Shepherd" 1
+"Jesus" 1
+"Jesus Christ" 1
+"Jesus of Nazareth" 1
+"Redeemer" 1
+"Savior" 1
+"Saviour" 1
+"the Nazarene" 1
+"bejewel" 1
+"gem" 1
+"precious stone" 1
+"jesting" 2
+"jocose" 2
+"joking" 2
+"jocosely" 2
+"bring together" 1
+"conjoin" 1
+"connect" 1
+"fall in" 1
+"get together" 1
+"link" 1
+"link up" 1
+"unite" 1
+"articulation" 1
+"joint" 1
+"junction" 1
+"juncture" 1
+"sum" 1
+"union" 1
+"jest" 2
+"antic" 2
+"caper" 2
+"gag" 2
+"jape" 2
+"jocularity" 2
+"laugh" 2
+"prank" 2
+"put-on" 2
+"trick" 2
+"jocund" 2
+"mirthful" 2
+"moderately" 2
+"passably" 2
+"pretty" 2
+"reasonably" 2
+"somewhat" 2
+"banter" 2
+"chaff" 2
+"josh" 2
+"kid" 2
+"jolly boat" 2
+"gladden" 3
+"rejoice" 3
+"joyfulness" 3
+"joyousness" 3
+"gleefully" 3
+"joyously" 3
+"bumpy" -1
+"edgy" -1
+"highly strung" -1
+"high-strung" -1
+"jittery" -1
+"jolting" -1
+"jolty" -1
+"nervy" -1
+"overstrung" -1
+"restive" -1
+"rocky" -1
+"rough" -1
+"uptight" -1
+"Department of Justice" 2
+"DoJ" 2
+"judge" 2
+"jurist" 2
+"Justice" 2
+"Justice Department" 2
+"justness" 2
+"bang-up" 1
+"bully" 1
+"corking" 1
+"cracking" 1
+"cutting" 1
+"dandy" 1
+"discriminating" 1
+"exquisite" 1
+"great" 1
+"groovy" 1
+"incisive" 1
+"knifelike" 1
+"lancinate" 1
+"lancinating" 1
+"neat" 1
+"nifty" 1
+"not bad(p)" 1
+"peachy" 1
+"penetrating" 1
+"penetrative" 1
+"piercing" 1
+"sharp" 1
+"slap-up" 1
+"smashing" 1
+"stabbing" 1
+"swell" 1
+"lament" 1
+"belt down" -3
+"bolt down" -3
+"defeat" -3
+"down" -3
+"drink down" -3
+"obliterate" -3
+"pop" -3
+"pour down" -3
+"shoot down" -3
+"stamp out" -3
+"toss off" -3
+"vote down" -3
+"vote out" -3
+"wipe out" -3
+"putting to death" -3
+"sidesplitting" -3
+"cleanup" -3
+"violent death" -3
+"genial" 2
+"form" 2
+"sort" 2
+"variety" 2
+"buss" 2
+"osculate" 2
+"snog" 2
+"candy kiss" 2
+"osculation" 2
+"congratulations" 3
+"extolment" 3
+"deficiency" -2
+"want" -2
+"dreamy" -2
+"languid" -2
+"languorous" -2
+"dawdle" -1
+"fall back" -1
+"fall behind" -1
+"gaol" -1
+"immure" -1
+"imprison" -1
+"incarcerate" -1
+"jail" -1
+"jug" -1
+"put behind bars" -1
+"remand" -1
+"interim" -1
+"meantime" -1
+"meanwhile" -1
+"retardation" -1
+"slowdown" -1
+"stave" -1
+"crippled" -2
+"game" -2
+"gimpy" -2
+"halting" -2
+"cripple" -2
+"square" -2
+"turning point" 2
+"watershed" 2
+"express joy" 1
+"express mirth" 1
+"gag" 1
+"jape" 1
+"jest" 1
+"joke" 1
+"laughter" 1
+"laughing(a)" 1
+"riant" 1
+"case" -2
+"causa" -2
+"cause" -2
+"suit" -2
+"faineant" -1
+"indolent" -1
+"otiose" -1
+"slothful" -1
+"work-shy" -1
+"leak out" -1
+"making water" -1
+"news leak" -1
+"passing water" -1
+"wetting" -1
+"allow for" -1
+"bequeath" -1
+"depart" -1
+"entrust" -1
+"exit" -1
+"give" -1
+"go forth" -1
+"go out" -1
+"impart" -1
+"lead" -1
+"leave alone" -1
+"leave behind" -1
+"pass on" -1
+"provide" -1
+"pull up stakes" -1
+"result" -1
+"will" -1
+"farewell" -1
+"leave of absence" -1
+"leave-taking" -1
+"parting" -1
+"effectual" 1
+"sound" 1
+"de jure" 1
+"lawfully" 1
+"indulgent" 1
+"unenrgetic" -2
+"flatness" -2
+"inanition" -2
+"languor" -2
+"lassitude" -2
+"slackness" -2
+"sluggishness" -2
+"prevaricator" -3
+"calumniatory" -2
+"calumnious" -2
+"defamatory" -2
+"denigrating" -2
+"denigrative" -2
+"denigratory" -2
+"libellous" -2
+"slanderous" -2
+"life belt" 4
+"life buoy" 4
+"lifeguard" 4
+"life ring" 4
+"blithe" 1
+"blithesome" 1
+"light-hearted" 1
+"lightsome" 1
+"alike(p)" 2
+"comparable" 2
+"corresponding" 2
+"same" 2
+"similar" 2
+"ilk" 2
+"the like" 2
+"the likes of" 2
+"limit" -1
+"restriction" -1
+"circumscribed" -1
+"modified" -1
+"special" -1
+"express" -1
+"judicial proceeding" -1
+"bouncy" 2
+"full of life" 2
+"live" 2
+"racy" 2
+"resilient" 2
+"springy" 2
+"vital" 2
+"ashen" -2
+"black-and-blue" -2
+"blanched" -2
+"bloodless" -2
+"white" -2
+"abhorrence" -3
+"abomination" -3
+"detestation" -3
+"execration" -3
+"odium" -3
+"buttonhole" -2
+"antechamber" -2
+"anteroom" -2
+"entrance hall" -2
+"foyer" -2
+"hall" -2
+"pressure group" -2
+"third house" -2
+"vestibule" -2
+"unfrequented" -2
+"lonesome(a)" -2
+"only(a)" -2
+"sole(a)" -2
+"solitary(a)" -2
+"hungriness" -1
+"yearning" -1
+"brood" -1
+"bulk large" -1
+"hover" -1
+"hulk" -1
+"predominate" -1
+"tower" -1
+"at large(p)" -3
+"easy" -3
+"escaped" -3
+"free" -3
+"informal" -3
+"lax" -3
+"liberal" -3
+"light" -3
+"on the loose(p)" -3
+"open" -3
+"promiscuous" -3
+"slack" -3
+"sluttish" -3
+"unaffixed" -3
+"wanton" -3
+"let loose" -3
+"liberate" -3
+"loosen" -3
+"relax" -3
+"release" -3
+"unleash" -3
+"unloose" -3
+"unloosen" -3
+"also-ran" -3
+"failure" -3
+"nonstarter" -3
+"unsuccessful person" -3
+"departure" -3
+"deprivation" -3
+"expiration" -3
+"going" -3
+"passing" -3
+"personnel casualty" -3
+"red" -3
+"red ink" -3
+"at sea" -3
+"baffled" -3
+"befuddled" -3
+"bemused" -3
+"bewildered" -3
+"confounded" -3
+"confused" -3
+"deep in thought(p)" -3
+"disoriented" -3
+"helpless" -3
+"lost(p)" -3
+"mazed" -3
+"missed" -3
+"mixed-up" -3
+"preoccupied" -3
+"doomed" -3
+"loveable" 3
+"bang" 3
+"bed" 3
+"be intimate" 3
+"bonk" 3
+"do it" 3
+"eff" 3
+"fuck" 3
+"get it on" 3
+"get laid" 3
+"have a go at it" 3
+"have intercourse" 3
+"have it away" 3
+"have it off" 3
+"have sex" 3
+"hump" 3
+"jazz" 3
+"know" 3
+"lie with" 3
+"make love" 3
+"make out" 3
+"roll in the hay" 3
+"screw" 3
+"sleep together" 3
+"sleep with" 3
+"erotic love" 3
+"love life" 3
+"lovemaking" 3
+"making love" 3
+"passion" 3
+"sexual love" 3
+"cover girl" 3
+"pin-up" 3
+"last" -1
+"last-place" -1
+"fast(a)" 3
+"firm" 3
+"patriotic" 3
+"truehearted" 3
+"allegiance" 3
+"commitment" 3
+"dedication" 3
+"trueness" 3
+"chance" 3
+"circumstances" 3
+"destiny" 3
+"fate" 3
+"fortune" 3
+"hazard" 3
+"lot" 3
+"portion" 3
+"as luck would have it" 3
+"fortuitously" 3
+"fortunately" 3
+"favorable" 3
+"favourable" 3
+"golden" 3
+"moonstruck" -3
+"daredevil" -3
+"harum-scarum" -3
+"hothead" -3
+"madcap" -3
+"madman" -3
+"maniac" -3
+"swashbuckler" -3
+"ambuscade" -1
+"ambush" -1
+"bushwhack" -1
+"footle" -1
+"hang around" -1
+"lallygag" -1
+"lie in wait" -1
+"linger" -1
+"loaf" -1
+"loiter" -1
+"lollygag" -1
+"lounge" -1
+"mess about" -1
+"mill about" -1
+"mill around" -1
+"skulk" -1
+"tarry" -1
+"waylay" -1
+"brainsick" -3
+"crazy" -3
+"delirious" -3
+"demented" -3
+"disturbed" -3
+"excited" -3
+"frantic" -3
+"harebrained" -3
+"huffy" -3
+"insane" -3
+"sick" -3
+"sore" -3
+"unbalanced" -3
+"unhinged" -3
+"unrestrained" -3
+"exasperating" -3
+"infuriating" -3
+"crazily" -3
+"deadly" -3
+"dementedly" -3
+"deucedly" -3
+"devilishly" -3
+"frantically" -3
+"insanely" -3
+"craziness" -3
+"folly" -3
+"foolishness" -3
+"hydrophobia" -3
+"insaneness" -3
+"lunacy" -3
+"lyssa" -3
+"rabidity" -3
+"rabidness" -3
+"rabies" -3
+"rage" -3
+"compulsory" -1
+"required" -1
+"mandatary" -1
+"mandate" -1
+"handling" -1
+"use" -1
+"wonder" 3
+"improbable" 3
+"miraculous" 3
+"tall(a)" 3
+"chef-d'oeuvre" 4
+"count" 1
+"weigh" 1
+"affair" 1
+"issue" 1
+"thing" 1
+"topic" 1
+"fledged" 2
+"matured" 2
+"ripe" 2
+"age" 2
+"get on" 2
+"grow" 2
+"maturate" 2
+"ripen" 2
+"senesce" 2
+"suppurate" 2
+"nonmeaningful" -2
+"decoration" 3
+"laurel wreath" 3
+"medallion" 3
+"palm" 3
+"ribbon" 3
+"averageness" -3
+"second-rater" -3
+"brooding" 1
+"broody" 1
+"contemplative" 1
+"musing" 1
+"pensive" 1
+"pondering" 1
+"reflective" 1
+"ruminative" 1
+"melancholic" -2
+"sombre" -2
+"black bile" -2
+"endanger" -2
+"imperil" -2
+"jeopardise" -2
+"jeopardize" -2
+"clemency" 2
+"mercifulness" 2
+"alert" 3
+"brisk" 3
+"festal" 3
+"festive" 3
+"jocund" 3
+"jolly" 3
+"jovial" 3
+"lively" 3
+"rattling" 3
+"snappy" 3
+"spanking" 3
+"zippy" 3
+"mess up" -2
+"batch" -2
+"deal" -2
+"fix" -2
+"flock" -2
+"good deal" -2
+"great deal" -2
+"hatful" -2
+"heap" -2
+"hole" -2
+"jam" -2
+"kettle of fish" -2
+"lot" -2
+"mass" -2
+"mess hall" -2
+"messiness" -2
+"mickle" -2
+"mint" -2
+"mountain" -2
+"muckle" -2
+"muddle" -2
+"muss" -2
+"mussiness" -2
+"passel" -2
+"peck" -2
+"pickle" -2
+"pile" -2
+"plenty" -2
+"pot" -2
+"quite a little" -2
+"raft" -2
+"sight" -2
+"slew" -2
+"spate" -2
+"stack" -2
+"tidy sum" -2
+"wad" -2
+"asinine" -2
+"fatuous" -2
+"inane" -2
+"reasonless" -2
+"senseless" -2
+"vacuous" -2
+"amusing" 3
+"comic" 3
+"comical" 3
+"funny" 3
+"laughable" 3
+"risible" 3
+"blithely" 3
+"gayly" 3
+"happily" 3
+"jubilantly" 3
+"merrily" 3
+"misconduct" -2
+"misdemean" -2
+"balefulness" -1
+"devilment" -1
+"devilry" -1
+"deviltry" -1
+"maleficence" -1
+"mischief-making" -1
+"mischievousness" -1
+"rascality" -1
+"roguery" -1
+"roguishness" -1
+"shenanigan" -1
+"abject" -3
+"execrable" -3
+"hapless" -3
+"low-down" -3
+"measly" -3
+"misfortunate" -3
+"paltry" -3
+"pathetic" -3
+"piteous" -3
+"pitiable" -3
+"pitiful" -3
+"poor" -3
+"scummy" -3
+"scurvy" -3
+"suffering" -3
+"wretched" -3
+"miserableness" -2
+"wretchedness" -2
+"distrust" -2
+"mistrust" -2
+"qualm" -2
+"scruple" -2
+"suspicion" -2
+"deceptive" -3
+"shoddy" -3
+"misinterpret" -1
+"deceit" -2
+"deception" -2
+"falsification" -2
+"drop" -2
+"leave out" -2
+"lose" -2
+"omit" -2
+"overleap" -2
+"overlook" -2
+"pretermit" -2
+"fille" -2
+"girl" -2
+"Miss" -2
+"missy" -2
+"young lady" -2
+"young woman" -2
+"absent" -2
+"lacking" -2
+"wanting" -2
+"err" -2
+"misidentify" -2
+"slip" -2
+"misapprehension" -2
+"false" -2
+"misguided" -2
+"misinterpretation" -2
+"be amiss" -2
+"misapprehend" -2
+"misconceive" -2
+"misconstrue" -2
+"misinterpret" -2
+"groan" -2
+"bemock" -2
+"derisive" -2
+"gibelike" -2
+"jeering" -2
+"quizzical" -2
+"taunting" -2
+"monopolise" -2
+"dour" -1
+"glowering" -1
+"glum" -1
+"morose" -1
+"saturnine" -1
+"sour" -1
+"sullen" -1
+"temperamental" -1
+"Dwight Lyman Moody" -1
+"Helen Newington Wills" -1
+"Helen Wills" -1
+"Helen Wills Moody" -1
+"Moody" -1
+"moon about" -1
+"moon around" -1
+"mope around" -1
+"dallier" -1
+"dillydallier" -1
+"dilly-dallier" -1
+"lounger" -1
+"Moron" -3
+"actuate" 1
+"incite" 1
+"move" 1
+"prompt" 1
+"propel" 1
+"motivative(a)" 2
+"motive(a)" 2
+"motivation" 2
+"motivating" 1
+"motive" 1
+"need" 1
+"doleful" -2
+"plaintive" -2
+"bereavement" -2
+"lamentation" -2
+"bump off" -2
+"dispatch" -2
+"mangle" -2
+"mutilate" -2
+"off" -2
+"polish off" -2
+"remove" -2
+"slay" -2
+"execution" -2
+"slaying" -2
+"liquidator" -2
+"manslayer" -2
+"homicidal" -3
+"naif" -2
+"primitive" -2
+"unenlightened" -2
+"uninitiate" -2
+"uninitiated" -2
+"uninstructed" -2
+"cruddy" -3
+"filthy" -3
+"smutty" -3
+"tight" -3
+"born(p)" 1
+"innate(p)" 1
+"instinctive" 1
+"lifelike" 1
+"raw(a)" 1
+"rude(a)" 1
+"cancel" 1
+"destitute" -2
+"impoverished" -2
+"indigent" -2
+"necessitous" -2
+"poverty-stricken" -2
+"damaging" -2
+"disconfirming" -2
+"electronegative" -2
+"minus" -2
+"negatively charged" -2
+"veto" -2
+"electronegativity" -2
+"negativeness" -2
+"negativism" -2
+"carelessness" -2
+"disuse" -2
+"neglectfulness" -2
+"negligence" -2
+"nonperformance" -2
+"unattended" -2
+"nervousness" -1
+"aflutter" -2
+"flighty" -2
+"neural" -2
+"skittish" -2
+"spooky" -2
+"dainty" 3
+"decent" 3
+"overnice" 3
+"prissy" 3
+"squeamish" 3
+"Nice" 3
+"bang-up" 2
+"bully" 2
+"corking" 2
+"cracking" 2
+"dandy" 2
+"great" 2
+"groovy" 2
+"keen" 2
+"not bad(p)" 2
+"peachy" 2
+"slap-up" 2
+"smashing" 2
+"swell" 2
+"coon" -5
+"jigaboo" -5
+"nigga" -5
+"nigra" -5
+"spade" -5
+"no(a)" -1
+"no more" -1
+"atomic number 102" -1
+"No" -1
+"nobelium" -1
+"baronial" 2
+"imposing" 2
+"stately" 2
+"Lord" 2
+"nobleman" 2
+"nonsense(a)" -2
+"nonsensical" -2
+"bunk" -2
+"falderol" -2
+"folderal" -2
+"frill" -2
+"gimcrack" -2
+"gimcrackery" -2
+"hokum" -2
+"meaninglessness" -2
+"nonsensicality" -2
+"trumpery" -2
+"nosy" -2
+"prying" -2
+"snoopy" -2
+"ill-famed" -2
+"infamous" -2
+"new" 2
+"asleep(p)" -1
+"benumbed" -1
+"dead(p)" -1
+"numb(p)" -1
+"benumb" -1
+"blunt" -1
+"dull" -1
+"around the bend" -3
+"balmy" -3
+"barmy" -3
+"bats" -3
+"batty" -3
+"bonkers" -3
+"buggy" -3
+"cracked" -3
+"crackers" -3
+"daft" -3
+"dotty" -3
+"fruity" -3
+"haywire" -3
+"kookie" -3
+"kooky" -3
+"loco" -3
+"loony" -3
+"loopy" -3
+"nutty" -3
+"round the bend" -3
+"wacky" -3
+"whacky" -3
+"blotted out" -2
+"blot out" -2
+"efface" -2
+"hide" -2
+"kill" -2
+"veil" -2
+"wipe out" -2
+"objectionable" -3
+"abhorrent" -2
+"detestable" -2
+"lewd" -2
+"raunchy" -2
+"repugnant" -2
+"repulsive" -2
+"salacious" -2
+"haunted" 2
+"possessed(p)" 2
+"preoccupied" 2
+"taken up(p)" 2
+"disused" -2
+"obstruction" -2
+"contrary" -2
+"cussed" -2
+"obdurate" -2
+"perverse" -2
+"unregenerate" -2
+"unrepentant" -2
+"wayward" -2
+"curious" -2
+"funny" -2
+"leftover" -2
+"left over(p)" -2
+"left(p)" -2
+"peculiar" -2
+"remaining" -2
+"rum" -2
+"singular" -2
+"uneven" -2
+"unexpended" -2
+"unmatched" -2
+"unmated" -2
+"unpaired" -2
+"breach" -2
+"go against" -2
+"infract" -2
+"scandalise" -2
+"scandalize" -2
+"transgress" -2
+"wrongdoer" -2
+"baleful" 3
+"forbidding" 3
+"ill" 3
+"inauspicious" 3
+"menacing" 3
+"minacious" 3
+"minatory" 3
+"sinister" 3
+"threatening" 3
+"laden" -2
+"tyrannical" -2
+"tyrannous" -2
+"affirmative" 2
+"call out" -2
+"cry" -2
+"cry out" -2
+"exclaim" -2
+"outshout" -2
+"shout" -2
+"call" -2
+"vociferation" -2
+"yell" -2
+"appal" -3
+"appall" -3
+"assault" -3
+"desecrate" -3
+"dishonor" -3
+"dishonour" -3
+"offend" -3
+"profane" -3
+"rape" -3
+"ravish" -3
+"scandalise" -3
+"scandalize" -3
+"shock" -3
+"violate" -3
+"indignation" -3
+"scandalisation" -3
+"scandalization" -3
+"incensed" -3
+"indignant" -3
+"umbrageous" -3
+"great" 5
+"owing(p)" 5
+"prominent" 5
+"salient" 5
+"spectacular" 5
+"striking" 5
+"undischarged" 5
+"clog" -1
+"overcharge" -1
+"surcharge" -1
+"overburden" -1
+"unmarked" -1
+"unnoted" -1
+"simplism" -2
+"exaggeration" -2
+"magnification" -2
+"fleshy" -1
+"adiposis" -1
+"corpulence" -1
+"stoutness" -1
+"ail" -2
+"nuisance" -2
+"painfulness" -2
+"painful sensation" -2
+"pain sensation" -2
+"affright" -3
+"scare" -3
+"frightened" -3
+"panicky" -3
+"panic-stricken" -3
+"panic-struck" -3
+"Eden" 3
+"heaven" 3
+"nirvana" 3
+"Paradise" 3
+"promised land" 3
+"Shangri-la" 3
+"excuse" 2
+"amnesty" 2
+"forgiveness" 2
+"free pardon" 2
+"inactive" -1
+"peaceful" -1
+"passive voice" -1
+"ridiculous" -2
+"ante up" -1
+"bear" -1
+"compensate" -1
+"devote" -1
+"make up" -1
+"pay off" -1
+"pay up" -1
+"yield" -1
+"earnings" -1
+"remuneration" -1
+"salary" -1
+"wage" -1
+"ataraxis" 2
+"heartsease" 2
+"pacification" 2
+"peacefulness" 2
+"peace of mind" 2
+"peace treaty" 2
+"public security" 2
+"serenity" 2
+"passive" 2
+"peaceable" 2
+"penalisation" -2
+"penalization" -2
+"punishment" -2
+"brooding" -1
+"broody" -1
+"contemplative" -1
+"meditative" -1
+"musing" -1
+"pondering" -1
+"reflective" -1
+"ruminative" -1
+"wistful" -1
+"arrant(a)" 3
+"complete(a)" 3
+"consummate(a)" 3
+"double-dyed(a)" 3
+"everlasting(a)" 3
+"gross(a)" 3
+"perfect(a)" 3
+"pure(a)" 3
+"sodding(a)" 3
+"staring(a)" 3
+"stark(a)" 3
+"thoroughgoing(a)" 3
+"unadulterated" 3
+"utter(a)" 3
+"hone" 3
+"perfective" 3
+"perfective tense" 3
+"perfect tense" 3
+"absolutely" 3
+"dead" 3
+"utterly" 3
+"expose" -2
+"scupper" -2
+"riskiness" -2
+"bearing false witness" -3
+"lying under oath" -3
+"culprit" -2
+"oppress" -2
+"temper" -2
+"make" -4
+"make water" -4
+"micturate" -4
+"pass water" -4
+"pee" -4
+"pee-pee" -4
+"piddle" -4
+"puddle" -4
+"relieve oneself" -4
+"spend a penny" -4
+"take a leak" -4
+"urinate" -4
+"wee" -4
+"wee-wee" -4
+"peeing" -4
+"pissing" -4
+"urine" -4
+"water" -4
+"weewee" -4
+"annoyed" -4
+"besotted" -4
+"blind drunk" -4
+"blotto" -4
+"cockeyed" -4
+"crocked" -4
+"fuddled" -4
+"irritated" -4
+"loaded" -4
+"miffed" -4
+"nettled" -4
+"peeved" -4
+"pie-eyed" -4
+"pissed off" -4
+"pixilated" -4
+"plastered" -4
+"riled" -4
+"roiled" -4
+"slopped" -4
+"sloshed" -4
+"smashed" -4
+"soaked" -4
+"soused" -4
+"sozzled" -4
+"squiffy" -4
+"steamed" -4
+"stiff" -4
+"stung" -4
+"tight" -4
+"wet" -4
+"pee" -3
+"peeing" -3
+"piss" -3
+"compassionate" -2
+"condole with" -2
+"feel for" -2
+"sympathize with" -2
+"commiseration" -2
+"compassion" -2
+"pathos" -2
+"ruth" -2
+"delight" 1
+"proud of(p)" 3
+"pleasance" 3
+"collected" -2
+"equanimous" -2
+"self-collected" -2
+"self-contained" -2
+"self-possessed" -2
+"envenom" -2
+"poisonous substance" -2
+"toxicant" -2
+"contaminate" -2
+"contaminated" -2
+"defiler" -2
+"poor people" -2
+"democratic" 3
+"pop" 3
+"cocksure" 2
+"confirming" 2
+"electropositive" 2
+"incontrovertible" 2
+"irrefutable" 2
+"overconfident" 2
+"positively charged" 2
+"positivist" 2
+"positivistic" 2
+"prescribed" 2
+"positive degree" 2
+"genitive" -2
+"genitive case" -2
+"possessive case" -2
+"impoverishment" -1
+"poorness" -1
+"brawny" 2
+"herculean" 2
+"knock-down(a)" 2
+"muscular" 2
+"potent" 2
+"sinewy" 2
+"mightily" 2
+"mighty" 2
+"right" 2
+"laudatory" 3
+"praiseful" 3
+"beg" 1
+"implore" 1
+"disposed(p)" 1
+"fain" 1
+"inclined(p)" 1
+"blackjack" -1
+"blackmail" -1
+"coerce" -1
+"force" -1
+"air pressure" -1
+"atmospheric pressure" -1
+"force per unit area" -1
+"imperativeness" -1
+"insistence" -1
+"insistency" -1
+"pressing" -1
+"pressure level" -1
+"pressure sensation" -1
+"make-believe" -1
+"act" -1
+"affect" -1
+"dissemble" -1
+"feign" -1
+"guess" -1
+"hazard" -1
+"make" -1
+"make believe" -1
+"profess" -1
+"sham" -1
+"venture" -1
+"feigning" -1
+"pretence" -1
+"pretense" -1
+"simulation" -1
+"fairly" 1
+"jolly" 1
+"middling" 1
+"moderately" 1
+"passably" 1
+"reasonably" 1
+"somewhat" 1
+"forbid" -1
+"foreclose" -1
+"forestall" -1
+"keep" -1
+"preclude" -1
+"bite" -5
+"cock up" -5
+"goad" -5
+"prickle" -5
+"prick up" -5
+"sting" -5
+"twinge" -5
+"dent" -5
+"incision" -5
+"pricking" -5
+"scratch" -5
+"prison house" -2
+"inner" 2
+"inside" 2
+"job" -2
+"build" 2
+"build up" 2
+"come along" 2
+"come on" 2
+"get along" 2
+"go on" 2
+"march on" 2
+"move on" 2
+"pass on" 2
+"shape up" 2
+"work up" 2
+"advancement" 2
+"forward motion" 2
+"onward motion" 2
+"procession" 2
+"progression" 2
+"big" 2
+"large" 2
+"outstanding" 2
+"salient" 2
+"spectacular" 2
+"striking" 2
+"anticipate" 1
+"call" 1
+"forebode" 1
+"foretell" 1
+"predict" 1
+"prognosticate" 1
+"advertise" 1
+"advertize" 1
+"elevate" 1
+"kick upstairs" 1
+"push" 1
+"raise" 1
+"upgrade" 1
+"engage" -1
+"pursue" -1
+"criminal prosecution" -1
+"pursuance" -1
+"aspect" 1
+"candidate" 1
+"chance" 1
+"medical prognosis" 1
+"outlook" 1
+"panorama" 1
+"prognosis" 1
+"view" 1
+"vista" 1
+"booming" 3
+"comfortable" 3
+"easy" 3
+"flourishing" 3
+"halcyon" 3
+"palmy" 3
+"prospering" 3
+"roaring" 3
+"thriving" 3
+"well-fixed" 3
+"well-heeled" 3
+"well-off" 3
+"well-situated" 3
+"well-to-do" 3
+"saved" 1
+"dissent" -2
+"resist" -2
+"objection" -2
+"protestation" -2
+"gallant" 2
+"lofty" 2
+"majestic" 2
+"arouse" -1
+"beset" -1
+"call forth" -1
+"chevvy" -1
+"chevy" -1
+"chivvy" -1
+"chivy" -1
+"elicit" -1
+"enkindle" -1
+"evoke" -1
+"harass" -1
+"harry" -1
+"hassle" -1
+"kick up" -1
+"kindle" -1
+"molest" -1
+"plague" -1
+"raise" -1
+"stimulate" -1
+"aggravated" -1
+"agitating" -1
+"agitative" -1
+"penalise" -2
+"penalize" -2
+"punitory" -2
+"pushful" -1
+"at a loss(p)" -2
+"nonplused" -2
+"nonplussed" -2
+"confutable" -2
+"confutative" -2
+"refutable" -2
+"inquisitive" -1
+"quizzical" -1
+"speculative" -1
+"wondering(a)" -1
+"inquiring" -1
+"racial discrimination" -3
+"racialism" -3
+"antiblack" -3
+"anti-Semite(a)" -3
+"racialist" -3
+"ramp" -2
+"storm" -2
+"fury" -2
+"madness" -2
+"passion" -2
+"showery" -1
+"jabber" -3
+"mouth off" -3
+"rabbit on" -3
+"rave" -3
+"spout" -3
+"blah" -3
+"bombast" -3
+"claptrap" -3
+"fustian" -3
+"harangue" -3
+"ranting" -3
+"raver" -3
+"assault" -4
+"despoil" -4
+"dishonor" -4
+"dishonour" -4
+"outrage" -4
+"plunder" -4
+"ravish" -4
+"spoil" -4
+"violate" -4
+"Brassica napus" -4
+"colza" -4
+"rapine" -4
+"ravishment" -4
+"violation" -4
+"raper" -4
+"ecstasy" 2
+"exaltation" 2
+"raptus" 2
+"transport" 2
+"foolhardy" -2
+"heady" -2
+"blizzard" -2
+"efflorescence" -2
+"roseola" -2
+"skin rash" -2
+"accomplish" 1
+"achieve" 1
+"arrive at" 1
+"attain" 1
+"contact" 1
+"extend to" 1
+"get hold of" 1
+"get through" 1
+"get to" 1
+"hand" 1
+"hit" 1
+"pass on" 1
+"progress to" 1
+"strive" 1
+"turn over" 1
+"ambit" 1
+"compass" 1
+"grasp" 1
+"orbit" 1
+"range" 1
+"scope" 1
+"arrival" 1
+"insurrection" -2
+"revolt" -2
+"rising" -2
+"uprising" -2
+"ceding back" -2
+"corner" -2
+"niche" -2
+"receding" -2
+"recess" -2
+"recessional" -2
+"heedless" -2
+"advocate" 2
+"ransomed" 2
+"decline" -2
+"defy" -2
+"pass up" -2
+"turn away" -2
+"food waste" -2
+"garbage" -2
+"scraps" -2
+"repent" -2
+"rue" -2
+"ruefulness" -2
+"bad" -2
+"declination" -2
+"decline" -1
+"disapprove" -1
+"disdain" -1
+"eliminate" -1
+"freeze off" -1
+"pass up" -1
+"pooh-pooh" -1
+"refuse" -1
+"resist" -1
+"rule out" -1
+"scorn" -1
+"spurn" -1
+"turn down" -1
+"winnow out" -1
+"cull" -1
+"jilted" -1
+"spurned" -1
+"exuberate" 4
+"exult" 4
+"joy" 4
+"jubilate" 4
+"wallow" 4
+"exultant" 4
+"exulting" 4
+"jubilant" 4
+"prideful" 4
+"triumphal" 4
+"exultation" 4
+"jubilation" 4
+"grim" -1
+"inexorable" -1
+"persistent" -1
+"stern" -1
+"unappeasable" -1
+"unforgiving" -1
+"unrelenting" -1
+"allay" 1
+"alleviate" 1
+"assuage" 1
+"ease" 1
+"excuse" 1
+"let off" 1
+"lighten" 1
+"palliate" 1
+"remedy" 1
+"salvage" 1
+"salve" 1
+"save" 1
+"still" 1
+"unbosom" 1
+"alleviated" 2
+"eased" 2
+"jutting" 2
+"projected" 2
+"projecting" 2
+"protruding" 2
+"sticking out(p)" 2
+"sticking(p)" 2
+"degustation" 2
+"savoring" 2
+"savouring" 2
+"tasting" 2
+"noteworthy" 2
+"singular" 2
+"compunction" -2
+"self-reproach" -2
+"beat back" -1
+"drive" -1
+"drive back" -1
+"fight off" -1
+"force back" -1
+"push back" -1
+"rebuff" -1
+"repel" -1
+"deliver" 2
+"deliverance" 2
+"delivery" 2
+"saving" 2
+"reclaimed" 2
+"give up" -1
+"leave office" -1
+"quit" -1
+"reconcile" -1
+"release" -1
+"relinquish" -1
+"renounce" -1
+"step down" -1
+"unhesitating" 2
+"adjudicate" 2
+"answer" 2
+"break up" 2
+"conclude" 2
+"decide" 2
+"dissolve" 2
+"purpose" 2
+"solve" 2
+"declaration" 2
+"firmness" 2
+"firmness of purpose" 2
+"resoluteness" 2
+"resolution" 2
+"single-minded" 2
+"solved" 2
+"well-thought-of" 2
+"creditworthy" 2
+"responsible for(p)" 2
+"antiphonal" 2
+"reactive" 2
+"relaxing" 2
+"reposeful" 2
+"ungratified" -2
+"bushel" 1
+"doctor" 1
+"fix" 1
+"furbish up" 1
+"mend" 1
+"reconstruct" 1
+"reestablish" 1
+"regenerate" 1
+"reinstate" 1
+"rejuvenate" 1
+"repair" 1
+"restitute" 1
+"touch on" 1
+"bound" -2
+"curb" -2
+"curtail" -2
+"cut back" -2
+"limit" -2
+"qualify" -2
+"trammel" -2
+"qualified" -2
+"confining" -2
+"constraining" -2
+"constrictive" -2
+"limiting" -2
+"confinement" -2
+"limitation" -2
+"maintained" -1
+"decelerate" -2
+"slow down" -2
+"slow up" -2
+"changeling" -2
+"cretin" -2
+"half-wit" -2
+"idiot" -2
+"imbecile" -2
+"moron" -2
+"developmentally challenged" -2
+"mentally retarded" -2
+"back away" -1
+"back out" -1
+"crawfish" -1
+"crawfish out" -1
+"draw back" -1
+"move back" -1
+"pull away" -1
+"pull back" -1
+"pull in one's horns" -1
+"recede" -1
+"retire" -1
+"retrograde" -1
+"withdraw" -1
+"hideaway" -1
+"retirement" -1
+"avenge" -2
+"retaliate" -2
+"retaliation" -2
+"vengeful" -2
+"vindictive" -2
+"august" 2
+"venerable" 2
+"come to" 2
+"quicken" 2
+"reanimate" 2
+"renovate" 2
+"repair" 2
+"resurrect" 2
+"resuscitate" 2
+"revivify" 2
+"vivify" 2
+"pay back" 2
+"reinforce" 2
+"repay" 2
+"payoff" 2
+"reinforcement" 2
+"wages" 2
+"ample" 2
+"copious" 2
+"deep" 2
+"fat" 2
+"fertile" 2
+"full-bodied" 2
+"plenteous" 2
+"plentiful" 2
+"productive" 2
+"rich people" 2
+"farcical" -3
+"silly" -3
+"manipulate" -1
+"set" -1
+"set up" -1
+"articulated lorry" -1
+"carriage" -1
+"cheat" -1
+"equipage" -1
+"fishing gear" -1
+"fishing rig" -1
+"fishing tackle" -1
+"getup" -1
+"outfit" -1
+"rigging" -1
+"semi" -1
+"swindle" -1
+"tackle" -1
+"tractor trailer" -1
+"trailer truck" -1
+"trucking rig" -1
+"turnout" -1
+"strict" 3
+"stringent" 3
+"tight" 3
+"strictly" 3
+"carouse" -2
+"roister" -2
+"bacchanal" -2
+"bacchanalia" -2
+"belly laugh" -2
+"debauch" -2
+"debauchery" -2
+"drunken revelry" -2
+"howler" -2
+"orgy" -2
+"public violence" -2
+"rioting" -2
+"saturnalia" -2
+"sidesplitter" -2
+"thigh-slapper" -2
+"wow" -2
+"adventure" -2
+"chance" -2
+"gamble" -2
+"lay on the line" -2
+"put on the line" -2
+"run a risk" -2
+"take a chance" -2
+"take chances" -2
+"risk of exposure" -2
+"risk of infection" -2
+"fleece" -2
+"gazump" -2
+"hook" -2
+"overcharge" -2
+"pluck" -2
+"plume" -2
+"soak" -2
+"surcharge" -2
+"appareled" -2
+"attired" -2
+"dressed" -2
+"garbed" -2
+"garmented" -2
+"habilimented" -2
+"Latin" 2
+"Romance" 2
+"butterfly" 2
+"chat up" 2
+"coquet" 2
+"coquette" 2
+"court" 2
+"dally" 2
+"flirt" 2
+"mash" 2
+"philander" 2
+"solicit" 2
+"woo" 2
+"Latinian language" 2
+"love affair" 2
+"love story" 2
+"Romance language" 2
+"romanticism" 2
+"bankrupt" -2
+"deflower" -2
+"destroy" -2
+"dilapidation" -2
+"downfall" -2
+"laying waste" -2
+"ruination" -2
+"wrecking" -2
+"destroyed" -2
+"done for(p)" -2
+"finished" -2
+"sunk" -2
+"undone" -2
+"washed-up" -2
+"counteract" -2
+"countermine" -2
+"subvert" -2
+"weaken" -2
+"deplorably" -2
+"lamentably" -2
+"unhappily" -2
+"woefully" -2
+"dependable" 1
+"good" 1
+"safe(p)" 1
+"condom" 1
+"prophylactic" 1
+"rubber" 1
+"base hit" 1
+"guard" 1
+"refuge" 1
+"safety device" 1
+"outstanding" 1
+"salient(ip)" 1
+"spectacular" 1
+"striking" 1
+"cockamamie" -1
+"cockamamy" -1
+"goofy" -1
+"wacky" -1
+"whacky" -1
+"zany" -1
+"quenched" 2
+"slaked" 2
+"bring through" 2
+"economise" 2
+"economize" 2
+"hold open" 2
+"keep" 2
+"keep open" 2
+"lay aside" 2
+"make unnecessary" 2
+"preserve" 2
+"pull through" 2
+"redeem" 2
+"salvage" 2
+"salve" 2
+"save up" 2
+"spare" 2
+"write" 2
+"protected" 2
+"bunco" -2
+"con" -2
+"defraud" -2
+"diddle" -2
+"gip" -2
+"goldbrick" -2
+"gyp" -2
+"hornswoggle" -2
+"mulct" -2
+"nobble" -2
+"rook" -2
+"short-change" -2
+"swindle" -2
+"victimize" -2
+"cozenage" -2
+"malicious gossip" -3
+"disgraceful" -3
+"shameful" -3
+"shocking" -3
+"whipping boy" -2
+"daunt" -2
+"frighten away" -2
+"frighten off" -2
+"scare away" -2
+"scare off" -2
+"panic" -2
+"panic attack" -2
+"chilling" -2
+"scarey" -2
+"shivery" -2
+"shuddery" -2
+"disbelieving" -2
+"doubting" -2
+"questioning" -2
+"unbelieving" -2
+"bawl out" -2
+"berate" -2
+"call down" -2
+"call on the carpet" -2
+"chew out" -2
+"chew up" -2
+"chide" -2
+"dress down" -2
+"grouch" -2
+"grumble" -2
+"have words" -2
+"jaw" -2
+"lambast" -2
+"lambaste" -2
+"lecture" -2
+"rebuke" -2
+"remonstrate" -2
+"reprimand" -2
+"reproof" -2
+"take to task" -2
+"trounce" -2
+"common scold" -2
+"nag" -2
+"nagger" -2
+"scolder" -2
+"lift out" 3
+"scoop out" 3
+"scoop up" 3
+"take up" 3
+"easy lay" 3
+"exclusive" 3
+"Georgia home boy" 3
+"goop" 3
+"grievous bodily harm" 3
+"liquid ecstasy" 3
+"max" 3
+"pocket" 3
+"scoopful" 3
+"scoop shovel" 3
+"soap" 3
+"holler" -2
+"hollo" -2
+"shout out" -2
+"squall" -2
+"screech" -2
+"screeching" -2
+"shriek" -2
+"shrieking" -2
+"hilarious" -2
+"screaming(a)" -2
+"uproarious" -2
+"impregnable" 2
+"inviolable" 2
+"safe" 2
+"unafraid" 2
+"unassailable" 2
+"unattackable" 2
+"untroubled" 2
+"assure" 2
+"batten" 2
+"batten down" 2
+"ensure" 2
+"fasten" 2
+"fix" 2
+"guarantee" 2
+"insure" 2
+"plug" 2
+"procure" 2
+"stop up" 2
+"incendiary" -2
+"incitive" -2
+"inflammatory" -2
+"instigative" -2
+"insurgent" -2
+"rabble-rousing" -2
+"self-assured" 2
+"prison term" -2
+"time" -2
+"austere" -2
+"hard" -2
+"knockout" -2
+"spartan" -2
+"stark" -2
+"stern" -2
+"aphrodisiac" 3
+"aphrodisiacal" 3
+"precarious" -2
+"shivering" -2
+"wobbly" -2
+"wonky" -2
+"guilty" -2
+"hangdog" -2
+"shamefaced" -2
+"black" -2
+"disgraceful" -2
+"ignominious" -2
+"inglorious" -2
+"opprobrious" -2
+"scandalous" -2
+"apportion" 1
+"deal" 1
+"divvy up" 1
+"partake" 1
+"partake in" 1
+"portion out" 1
+"contribution" 1
+"parcel" 1
+"part" 1
+"percentage" 1
+"ploughshare" 1
+"plowshare" 1
+"portion" 1
+"divided" 1
+"divided up" 1
+"shared out" 1
+"tattered" -2
+"betray" -4
+"ca-ca" -4
+"defecate" -4
+"denounce" -4
+"give away" -4
+"grass" -4
+"rat" -4
+"shop" -4
+"snitch" -4
+"stag" -4
+"stool" -4
+"take a crap" -4
+"take a shit" -4
+"tell on" -4
+"diddley" -4
+"diddly" -4
+"diddlyshit" -4
+"diddly-shit" -4
+"diddlysquat" -4
+"diddly-squat" -4
+"dirt" -4
+"doodly-squat" -4
+"dump" -4
+"poop" -4
+"shite" -4
+"squat" -4
+"turd" -4
+"crappy" -3
+"icky" -3
+"lousy" -3
+"rotten" -3
+"stinking" -3
+"stinky" -3
+"ball over" -2
+"blow out of the water" -2
+"floor" -2
+"take aback" -2
+"traumatise" -2
+"traumatize" -2
+"blow" -2
+"cushion" -2
+"daze" -2
+"electrical shock" -2
+"electric shock" -2
+"impact" -2
+"jolt" -2
+"jounce" -2
+"seismic disturbance" -2
+"shock absorber" -2
+"stupor" -2
+"lurid" -2
+"bourgeon" -1
+"buck" -1
+"burgeon forth" -1
+"charge" -1
+"dart" -1
+"dash" -1
+"dissipate" -1
+"film" -1
+"flash" -1
+"fool" -1
+"fool away" -1
+"fritter" -1
+"fritter away" -1
+"frivol away" -1
+"germinate" -1
+"hit" -1
+"inject" -1
+"photograph" -1
+"pip" -1
+"pullulate" -1
+"scoot" -1
+"scud" -1
+"shoot down" -1
+"snap" -1
+"sprout" -1
+"spud" -1
+"tear" -1
+"dearth" -2
+"famine" -2
+"shrewmouse" -4
+"termagant" -4
+"diffident" -1
+"shy(p)" -1
+"disgusted" -2
+"fed up(p)" -2
+"ghastly" -2
+"grisly" -2
+"gruesome" -2
+"macabre" -2
+"nauseated" -2
+"nauseous" -2
+"pale" -2
+"pallid" -2
+"sickish" -2
+"sick of(p)" -2
+"sick(p)" -2
+"tired of(p)" -2
+"wan" -2
+"barf" -2
+"be sick" -2
+"cast" -2
+"cat" -2
+"chuck" -2
+"disgorge" -2
+"honk" -2
+"puke" -2
+"purge" -2
+"regorge" -2
+"regurgitate" -2
+"spew" -2
+"spue" -2
+"throw up" -2
+"upchuck" -2
+"vomit" -2
+"vomit up" -2
+"suspire" -2
+"suspiration" -2
+"implication" 1
+"import" 1
+"meaning" 1
+"signification" 1
+"important" 1
+"meaning(a)" 1
+"pregnant" 1
+"pathetic" -1
+"punch-drunk" -1
+"ridiculous" -1
+"slaphappy" -1
+"sincerely yours" 2
+"truly" 2
+"unfeignedly" 2
+"earnestness" 2
+"serious-mindedness" 2
+"seriousness" 2
+"unassumingness" 2
+"extraordinary" -3
+"iniquitous" -3
+"over-the-top" -3
+"ungodly" -3
+"unholy" -3
+"doubter" -2
+"sceptic" -2
+"agnosticism" -2
+"disbelief" -2
+"incredulity" -2
+"mental rejection" -2
+"scepticism" -2
+"bang" -2
+"flap down" -2
+"mosh" -2
+"slam dance" -2
+"thrash" -2
+"barb" -2
+"dig" -2
+"gibe" -2
+"jibe" -2
+"shaft" -2
+"shot" -2
+"sweep" -2
+"convulse" -2
+"cut down" -2
+"flog" -2
+"gash" -2
+"jactitate" -2
+"lash" -2
+"lather" -2
+"strap" -2
+"thrash about" -2
+"thresh" -2
+"thresh about" -2
+"toss" -2
+"welt" -2
+"whip" -2
+"diagonal" -2
+"separatrix" -2
+"slice" -2
+"solidus" -2
+"virgule" -2
+"bondage" -3
+"slaveholding" -3
+"thraldom" -3
+"thrall" -3
+"thralldom" -3
+"wakefulness" -2
+"crafty" 2
+"dodgy" 2
+"foxy" 2
+"glib" 2
+"guileful" 2
+"knavish" 2
+"pat" 2
+"satiny" 2
+"silken" 2
+"silklike" 2
+"silky" 2
+"sleek" 2
+"sly" 2
+"tricksy" 2
+"tricky" 2
+"wily" 2
+"sleek down" 2
+"slick down" 2
+"glossy" 2
+"slick magazine" 2
+"slickness" 2
+"slip" 2
+"slipperiness" 2
+"beguiler" 2
+"cheat" 2
+"cheater" 2
+"deceiver" 2
+"oilskin" 2
+"trickster" 2
+"soggy" -2
+"torpid" -2
+"adulteress" -5
+"fornicatress" -5
+"hussy" -5
+"jade" -5
+"loose woman" -5
+"slattern" -5
+"slovenly woman" -5
+"strumpet" -5
+"trollop" -5
+"chic" 1
+"voguish" 1
+"ache" 1
+"hurt" 1
+"smarting" 1
+"asperse" -2
+"besmirch" -2
+"calumniate" -2
+"daub" -2
+"defame" -2
+"slander" -2
+"smirch" -2
+"smudge" -2
+"smutch" -2
+"sully" -2
+"blot" -2
+"cytologic smear" -2
+"cytosmear" -2
+"malignment" -2
+"slur" -2
+"spot" -2
+"grin" 2
+"grinning" 2
+"beamish" 2
+"smiling(a)" 2
+"twinkly" 2
+"smogginess" -2
+"furtive" -1
+"sneak(a)" -1
+"stealthy" -1
+"surreptitious" -1
+"underhand" -1
+"underhanded" -1
+"rebuff" -2
+"repel" -2
+"cold shoulder" -2
+"repulse" -2
+"earnest" -1
+"grave" -1
+"sedate" -1
+"sincere" -1
+"sober" -1
+"firm" 2
+"hearty" 2
+"self-colored" 2
+"self-coloured" 2
+"square" 2
+"substantial" 2
+"unanimous" 2
+"upstanding" 2
+"whole" 2
+"solidness" 2
+"solid state" 2
+"answer" 1
+"resolution" 1
+"result" 1
+"root" 1
+"solvent" 1
+"figure out" 1
+"lick" 1
+"puzzle out" 1
+"resolve" 1
+"work" 1
+"work out" 1
+"resolved" 1
+"comfort" 3
+"console" 3
+"solace" 3
+"assuasive" 3
+"afflictive" -1
+"huffy" -1
+"painful" -1
+"sensitive" -1
+"tender" -1
+"grieve" -2
+"sadness" -2
+"sorrowfulness" -2
+"bad" -1
+"blue" -1
+"deplorable" -1
+"dingy" -1
+"disconsolate" -1
+"dismal" -1
+"distressing" -1
+"drab" -1
+"drear" -1
+"dreary" -1
+"gloomy" -1
+"good-for-naught" -1
+"good-for-nothing" -1
+"lamentable" -1
+"meritless" -1
+"no-account" -1
+"no-count" -1
+"no-good" -1
+"pitiful" -1
+"regretful" -1
+"sad" -1
+"junk e-mail" -2
+"Spam" -2
+"activate" 1
+"set off" 1
+"sparkle" 1
+"spark off" 1
+"touch off" 1
+"trigger" 1
+"trigger off" 1
+"trip" 1
+"arc" 1
+"Dame Muriel Spark" 1
+"electric arc" 1
+"electric discharge" 1
+"flicker" 1
+"glint" 1
+"Muriel Sarah Spark" 1
+"Muriel Spark" 1
+"Spark" 1
+"twinkle" 1
+"coruscate" 3
+"effervesce" 3
+"fizz" 3
+"foam" 3
+"form bubbles" 3
+"froth" 3
+"scintillate" 3
+"spark" 3
+"coruscation" 3
+"glisten" 3
+"glister" 3
+"glitter" 3
+"light" 3
+"scintillation" 3
+"twinkle" 3
+"effervescent" 3
+"high-risk" -2
+"inquisitive" -2
+"notional" -2
+"risky" -2
+"wondering(a)" -2
+"inspirit" 1
+"spirit up" 1
+"disembodied spirit" 1
+"emotional state" 1
+"heart" 1
+"life" 1
+"liveliness" 1
+"purport" 1
+"sprightliness" 1
+"bouncing" 2
+"enlivened" 2
+"game" 2
+"gamey" 2
+"gamy" 2
+"gritty" 2
+"mettlesome" 2
+"peppy" 2
+"spunky" 2
+"meek" -2
+"despiteful" -2
+"brilliant" 3
+"glorious" 3
+"magnificent" 3
+"resplendent" 3
+"splendiferous" 3
+"quelled" -1
+"quenched" -1
+"jab" -2
+"knife" -2
+"poke" -2
+"prod" -2
+"knife thrust" -2
+"pang" -2
+"thrust" -2
+"twinge" -2
+"static" 2
+"unchanging" 2
+"horse barn" 2
+"stalls" 2
+"dillydally" -2
+"dilly-dally" -2
+"drag one's feet" -2
+"drag one's heels" -2
+"procrastinate" -2
+"shillyshally" -2
+"booth" -2
+"carrel" -2
+"carrell" -2
+"cubicle" -2
+"kiosk" -2
+"sales booth" -2
+"stand" -2
+"staying power" 2
+"toughness" 2
+"famished" -2
+"ravenous" -2
+"sharp-set" -2
+"starvation" -2
+"staunch" 2
+"stiff" 2
+"unbendable" 2
+"unfaltering" 2
+"unshakable" 2
+"unswerving" 2
+"unwavering" 2
+"bargain" -2
+"buy" -2
+"pigeonhole" -2
+"stamp" -2
+"stereotypic" -2
+"stereotypical" -2
+"unimaginative" -2
+"smothered" -1
+"strangled" -1
+"suppressed" -1
+"arouse" 1
+"brace" 1
+"cause" 1
+"energise" 1
+"energize" 1
+"excite" 1
+"get" 1
+"hasten" 1
+"induce" 1
+"perk up" 1
+"provoke" 1
+"rush" 1
+"shake" 1
+"shake up" 1
+"stir" 1
+"aroused" 1
+"stirred" 1
+"stirred up" 1
+"exhilarating" 2
+"stimulant" 2
+"meager" -2
+"meagerly" -2
+"meagre" -2
+"scrimpy" -2
+"ungenerous" -2
+"arrest" -1
+"break off" -1
+"cease" -1
+"contain" -1
+"discontinue" -1
+"end" -1
+"finish" -1
+"hold back" -1
+"hold on" -1
+"intercept" -1
+"lay off" -1
+"stop over" -1
+"terminate" -1
+"turn back" -1
+"catch" -1
+"diaphragm" -1
+"full point" -1
+"full stop" -1
+"hitch" -1
+"layover" -1
+"occlusive" -1
+"period" -1
+"plosive" -1
+"plosive consonant" -1
+"plosive speech sound" -1
+"point" -1
+"stop consonant" -1
+"stopover" -1
+"stopped-up(a)" -1
+"stopped up(p)" -1
+"fillet" -1
+"boodle" -1
+"Chicago" -1
+"Michigan" -1
+"Newmarket" -1
+"portly" 2
+"consecutive" 1
+"full-strength" 1
+"square" 1
+"square(a)" 1
+"straightforward" 1
+"true" 1
+"unbent" 1
+"unbowed" 1
+"uncoiled" 1
+"direct" 1
+"directly" 1
+"flat" 1
+"heterosexual" 1
+"heterosexual person" 1
+"straightaway" 1
+"straight person" 1
+"foreign" -1
+"unknown" -1
+"unusual" -1
+"funnily" -1
+"oddly" -1
+"queerly" -1
+"smothered" -2
+"stifled" -2
+"suppressed" -2
+"durability" 2
+"effectiveness" 2
+"enduringness" 2
+"force" 2
+"forcefulness" 2
+"forte" 2
+"intensity" 2
+"intensity level" 2
+"lastingness" 2
+"long suit" 2
+"metier" 2
+"military capability" 2
+"military posture" 2
+"military strength" 2
+"persuasiveness" 2
+"posture" 2
+"potency" 2
+"speciality" 2
+"specialty" 2
+"strong point" 2
+"strong suit" 2
+"beef up" 2
+"fortify" 2
+"tone" 2
+"tone up" 2
+"reinforced" 2
+"accented" -2
+"afflicted" -2
+"laid low(p)" -2
+"smitten" -2
+"struck" -2
+"assume" -1
+"attain" -1
+"chance on" -1
+"chance upon" -1
+"coin" -1
+"collide with" -1
+"come across" -1
+"come to" -1
+"come upon" -1
+"excise" -1
+"expunge" -1
+"fall upon" -1
+"happen upon" -1
+"impinge on" -1
+"impress" -1
+"light upon" -1
+"mint" -1
+"move" -1
+"run into" -1
+"shine" -1
+"strickle" -1
+"take up" -1
+"walk out" -1
+"bang" -1
+"rap" -1
+"smasher" -1
+"tap" -1
+"ten-strike" -1
+"work stoppage" -1
+"hard" 2
+"smitten" -1
+"clamber" -2
+"contend" -2
+"scramble" -2
+"shin" -2
+"shinny" -2
+"skin" -2
+"sputter" -2
+"refractory" -2
+"amazed" -2
+"astonied" -2
+"astonished" -2
+"astounded" -2
+"dazed" -2
+"kayoed" -2
+"knocked out(p)" -2
+"KO'd" -2
+"out(p)" -2
+"stupefied" -2
+"stupid(p)" -2
+"arresting" 4
+"sensational" 4
+"dolt" -2
+"pillock" -2
+"poor fish" -2
+"pudden-head" -2
+"pudding head" -2
+"stupe" -2
+"stupid person" -2
+"doltishly" -2
+"bland" 2
+"politic" 2
+"smooth" 2
+"hearty" 1
+"material" 1
+"real" 1
+"satisfying" 1
+"solid" 1
+"strong" 1
+"substantive" 1
+"considerably" 1
+"well" 1
+"revolutionary" -2
+"revolutionist" -2
+"subverter" -2
+"achiever" 2
+"succeeder" 2
+"winner" 2
+"absorb" -3
+"blow" -3
+"breastfeed" -3
+"draw" -3
+"fellate" -3
+"give suck" -3
+"go down on" -3
+"imbibe" -3
+"lactate" -3
+"nurse" -3
+"soak up" -3
+"sop up" -3
+"suck in" -3
+"suckle" -3
+"suck up" -3
+"take in" -3
+"take up" -3
+"wet-nurse" -3
+"sucking" -3
+"suction" -3
+"abide" -2
+"bear" -2
+"brook" -2
+"digest" -2
+"endure" -2
+"have" -2
+"meet" -2
+"put up" -2
+"stick out" -2
+"stomach" -2
+"support" -2
+"sustain" -2
+"tolerate" -2
+"agony" -2
+"excruciation" -2
+"woe" -2
+"self-destructive" -2
+"felo-de-se" -2
+"self-annihilation" -2
+"self-destruction" -2
+"huffish" -2
+"lowering" -2
+"fair weather" 2
+"sun" 2
+"sunlight" 2
+"temperateness" 2
+"ace" 3
+"A-one" 3
+"crack" 3
+"first-rate" 3
+"tiptop" 3
+"topnotch" 3
+"top-notch" 3
+"tops(p)" 3
+"exceedingly" 3
+"extremely" 3
+"passing" 3
+"superintendent" 3
+"brilliant" 5
+"higher-ranking" 2
+"ranking(a)" 2
+"superior(p)" 2
+"superscript" 2
+"higher-up" 2
+"Lake Superior" 2
+"master" 2
+"Superior" 2
+"superordinate" 2
+"victor" 2
+"abide" 2
+"affirm" 2
+"back up" 2
+"bear out" 2
+"brook" 2
+"confirm" 2
+"corroborate" 2
+"defend" 2
+"digest" 2
+"fend for" 2
+"hold up" 2
+"keep going" 2
+"patronise" 2
+"patronize" 2
+"put up" 2
+"stand" 2
+"stick out" 2
+"stomach" 2
+"subscribe" 2
+"substantiate" 2
+"suffer" 2
+"sustain" 2
+"tolerate" 2
+"underpin" 2
+"accompaniment" 2
+"bread and butter" 2
+"documentation" 2
+"livelihood" 2
+"living" 2
+"musical accompaniment" 2
+"reenforcement" 2
+"supporting" 2
+"sustenance" 2
+"admirer" 1
+"assistant" 1
+"athletic supporter" 1
+"booster" 1
+"champion" 1
+"friend" 1
+"garter" 1
+"help" 1
+"helper" 1
+"jock" 1
+"jockstrap" 1
+"patron" 1
+"protagonist" 1
+"sponsor" 1
+"suspensor" 1
+"encouraging" 1
+"load-bearing(a)" 1
+"supporting(a)" 1
+"support" 1
+"subsister" 2
+"fishy" -1
+"funny" -1
+"shady" -1
+"suspicious" -1
+"distrust" -1
+"mistrust" -1
+"surmise" -1
+"defendant" -1
+"set aside" -1
+"fishy" -2
+"leery" -2
+"mistrustful" -2
+"shady" -2
+"suspect" -2
+"untrusting" -2
+"wary" -2
+"affirm" -2
+"assert" -2
+"aver" -2
+"avow" -2
+"bank" -2
+"blaspheme" -2
+"cuss" -2
+"depone" -2
+"depose" -2
+"imprecate" -2
+"rely" -2
+"swan" -2
+"trust" -2
+"verify" -2
+"curse word" -2
+"expletive" -2
+"oath" -2
+"swearword" -2
+"angelic" 2
+"angelical" 2
+"cherubic" 2
+"dulcet" 2
+"gratifying" 2
+"honeyed" 2
+"mellifluous" 2
+"mellisonant" 2
+"odoriferous" 2
+"odorous" 2
+"perfumed" 2
+"scented" 2
+"seraphic" 2
+"sugared" 2
+"sweetened" 2
+"sweet-flavored" 2
+"sweet-scented" 2
+"sweet-smelling" 2
+"unfermented" 2
+"sweetly" 2
+"afters" 2
+"confection" 2
+"dessert" 2
+"Henry Sweet" 2
+"sugariness" 2
+"Sweet" 2
+"sweetness" 2
+"fleet" 2
+"blue-belly" 2
+"Dean Swift" 2
+"Gustavus Franklin Swift" 2
+"Jonathan Swift" 2
+"Sceloporus occidentalis" 2
+"Swift" 2
+"western fence lizard" 2
+"fleetly" 2
+"bunco" -3
+"con" -3
+"defraud" -3
+"diddle" -3
+"gip" -3
+"goldbrick" -3
+"gyp" -3
+"hornswoggle" -3
+"mulct" -3
+"nobble" -3
+"rook" -3
+"scam" -3
+"short-change" -3
+"appealing" 2
+"benevolent" 2
+"charitable" 2
+"good-hearted" 2
+"harmonic" 2
+"kindly" 2
+"large-hearted" 2
+"likable" 2
+"likeable" 2
+"openhearted" 2
+"fellow feeling" 2
+"understanding" 2
+"crank" 2
+"cranky" 2
+"raw" 2
+"sensitive" 2
+"sore" 2
+"tippy" 2
+"untoughened" 2
+"bid" 2
+"offer" 2
+"tenderise" 2
+"tenderize" 2
+"attendant" 2
+"attender" 2
+"cutter" 2
+"legal tender" 2
+"pinnace" 2
+"ship's boat" 2
+"stamp" 2
+"supply ship" 2
+"tense up" -2
+"latent hostility" -1
+"stress" -1
+"tautness" -1
+"tenseness" -1
+"tensity" -1
+"severe" -3
+"abominably" -3
+"abysmally" -3
+"atrociously" -3
+"rottenly" -3
+"terrifying" 4
+"brat" -3
+"holy terror" -3
+"little terror" -3
+"scourge" -3
+"threat" -3
+"terrify" -3
+"terrorise" -3
+"give thanks" 2
+"grateful" 2
+"barbed" -2
+"barbellate" -2
+"briary" -2
+"briery" -2
+"bristled" -2
+"bristly" -2
+"burred" -2
+"burry" -2
+"prickly" -2
+"setaceous" -2
+"setose" -2
+"spiny" -2
+"attentive" 2
+"paying attention" 2
+"serious-minded" 2
+"uncaring" -2
+"unthinking" -2
+"terror" -2
+"baleful" -2
+"menacing" -2
+"minacious" -2
+"minatory" -2
+"sinister" -2
+"cross thwart" -2
+"cautious" -2
+"banal" -2
+"commonplace" -2
+"hackneyed" -2
+"old-hat" -2
+"shopworn" -2
+"stock(a)" -2
+"threadbare" -2
+"timeworn" -2
+"trite" -2
+"well-worn" -2
+"broad" 2
+"large-minded" 2
+"liberal" 2
+"patient of" 2
+"resistant" 2
+"top(a)" 2
+"crown" 2
+"exceed" 2
+"go past" 2
+"lead" 2
+"overstep" 2
+"pass" 2
+"pinch" 2
+"top off" 2
+"top out" 2
+"transcend" 2
+"acme" 2
+"big top" 2
+"circus tent" 2
+"cover" 2
+"crest" 2
+"elevation" 2
+"height" 2
+"meridian" 2
+"peak" 2
+"pinnacle" 2
+"round top" 2
+"spinning top" 2
+"summit" 2
+"superlative" 2
+"teetotum" 2
+"tip" 2
+"tiptop" 2
+"top of the inning" 2
+"top side" 2
+"upper side" 2
+"upside" 2
+"whirligig" 2
+"ace" 2
+"A-one" 2
+"crack" 2
+"first-rate" 2
+"super" 2
+"topnotch" 2
+"top-notch" 2
+"tops(p)" 2
+"lacerate" -2
+"lacerated" -2
+"mangled" -2
+"excruciate" -4
+"rack" -4
+"torment" -4
+"agony" -4
+"anguish" -4
+"distortion" -4
+"overrefinement" -4
+"straining" -4
+"twisting" -4
+"anguished" -4
+"tormented" -4
+"agonising" -4
+"agonizing" -4
+"excruciating" -4
+"harrowing" -4
+"torturesome" -4
+"torturous" -4
+"totalistic" -2
+"absolutism" -2
+"authoritarianism" -2
+"Caesarism" -2
+"despotism" -2
+"dictatorship" -2
+"monocracy" -2
+"one-man rule" -2
+"shogunate" -2
+"Stalinism" -2
+"totalism" -2
+"tyranny" -2
+"bluster" -2
+"boast" -2
+"brag" -2
+"gas" -2
+"gasconade" -2
+"shoot a line" -2
+"swash" -2
+"vaunt" -2
+"ticket tout" -2
+"tipster" -2
+"touter" -2
+"tragical" -2
+"placid" 2
+"unruffled" 2
+"ensnare" -1
+"entrap" -1
+"pin" -1
+"pin down" -1
+"snare" -1
+"trammel" -1
+"bunker" -1
+"cakehole" -1
+"gob" -1
+"hole" -1
+"lying in wait" -1
+"maw" -1
+"sand trap" -1
+"yap" -1
+"injury" -3
+"psychic trauma" -3
+"burlesque" -2
+"charade" -2
+"farce" -2
+"farce comedy" -2
+"lampoon" -2
+"mockery" -2
+"parody" -2
+"pasquinade" -2
+"sendup" -2
+"spoof" -2
+"takeoff" -2
+"high treason" -3
+"lese majesty" -3
+"subversiveness" -3
+"traitorousness" -3
+"faithless" -3
+"traitorous" -3
+"treasonable" -3
+"unfaithful" -3
+"gem" 2
+"hoarded wealth" 2
+"palpitation" -2
+"quiver" -2
+"quivering" -2
+"shakiness" -2
+"shaking" -2
+"vibration" -2
+"quavering" -2
+"chicane" -2
+"chicanery" -2
+"guile" -2
+"hanky panky" -2
+"hocus-pocus" -2
+"jiggery-pokery" -2
+"shenanigan" -2
+"skulduggery" -2
+"skullduggery" -2
+"slickness" -2
+"wile" -2
+"crow" 4
+"gloat" 4
+"prevail" 4
+"victory" 4
+"victorious" 4
+"difficulty" -2
+"worry" -2
+"dead on target" 2
+"genuine" 2
+"lawful" 2
+"on-key" 2
+"rightful(a)" 2
+"straight" 2
+"true(a)" 2
+"truthful" 2
+"unfeigned" 2
+"admittedly" 2
+"avowedly" 2
+"confessedly" 2
+"true up" 2
+"bank" 1
+"believe" 1
+"rely" 1
+"swear" 1
+"cartel" 1
+"combine" 1
+"corporate trust" 1
+"reliance" 1
+"trustfulness" 1
+"trustingness" 1
+"sure" 2
+"neoplasm" -2
+"tumour" -2
+"bozo" -5
+"cuckoo" -5
+"fathead" -5
+"goof" -5
+"goofball" -5
+"goose" -5
+"jackass" -5
+"zany" -5
+"despicable" -3
+"slimy" -3
+"surly" -3
+"unworthy" -3
+"worthless" -3
+"impossible" -2
+"insufferable" -2
+"unaccepted" -2
+"unsufferable" -2
+"thankless" -2
+"ungratifying" -2
+"unsung" -2
+"unvalued" -2
+"incognizant" -2
+"improbable" -1
+"incredible" -1
+"unconvincing" -1
+"unlikely" -1
+"atheistic" -1
+"atheistical" -1
+"disbelieving" -1
+"nescient" -1
+"indifferent" 2
+"unbiassed" 2
+"changeable" -1
+"incertain" -1
+"unsealed" -1
+"ill-defined" -1
+"indecipherable" -1
+"undecipherable" -1
+"unreadable" -1
+"on the fence(p)" -1
+"undetermined" -1
+"unresolved" -1
+"lowball" -1
+"underrate" -1
+"undervalue" -1
+"underestimation" -1
+"underrating" -1
+"underreckoning" -1
+"cave" -2
+"unsuitable" -2
+"inadequate" -1
+"alone(p)" 2
+"unequalled" 2
+"unique" 2
+"unparalleled" 2
+"unfocussed" -2
+"unrealised" -2
+"unrealized" -2
+"infelicitous" -2
+"insalubrious" -2
+"unhealthful" -2
+"coordinated" 1
+"co-ordinated" 1
+"incorporate" 1
+"incorporated" 1
+"integrated" 1
+"interconnected" 1
+"merged" 1
+"joined" 1
+"inequitable" -2
+"matchless" 1
+"nonpareil" 1
+"one(a)" 1
+"one and only(a)" 1
+"peerless" 1
+"unmatchable" 1
+"unmated" 1
+"unpaired" 1
+"unrivaled" 1
+"unrivalled" 1
+"unsated" -2
+"unsatiated" -2
+"unbarred" -2
+"unbolted" -2
+"unguaranteed" -2
+"unlatched" -2
+"unlocked" -2
+"bumpkinly" -2
+"hick" -2
+"rustic" -2
+"uncomplicated" -2
+"unworldly" -2
+"fluid" -2
+"mentally ill" -2
+"unsound" -2
+"stainless" 2
+"unstained" 2
+"unsullied" 2
+"untainted" 2
+"despicable" -2
+"slimy" -2
+"ugly" -2
+"vile" -2
+"overturned" -2
+"upset(a)" -2
+"upturned" -2
+"bowl over" -2
+"discomfit" -2
+"discompose" -2
+"knock over" -2
+"overturn" -2
+"swage" -2
+"tip over" -2
+"tump over" -2
+"turn over" -2
+"untune" -2
+"derangement" -2
+"overthrow" -2
+"turnover" -2
+"disconcerting" -2
+"edgy" -2
+"highly strung" -2
+"high-strung" -2
+"jittery" -2
+"jumpy" -2
+"nervy" -2
+"overstrung" -2
+"restive" -2
+"utile" 2
+"utilitarian" 2
+"utility" 2
+"inutility" -2
+"unusefulness" -2
+"shadowy" -2
+"undefined" -2
+"wispy" -2
+"corroborate" 1
+"formalise" 1
+"formalize" 1
+"collateral" 1
+"confirmative" 1
+"confirmatory" 1
+"confirming" 1
+"corroborative" 1
+"corroboratory" 1
+"substantiating" 1
+"substantiative" 1
+"validatory" 1
+"verificatory" 1
+"verifying" 1
+"finding of fact" -1
+"headache" -2
+"barbarous" -2
+"brutal" -2
+"condemnable" -2
+"criminal" -2
+"cruel" -2
+"evil" -2
+"fell" -2
+"poisonous" -2
+"reprehensible" -2
+"roughshod" -2
+"savage" -2
+"venomous" -2
+"dupe" -3
+"victimise" -3
+"exploited" -3
+"ill-used" -3
+"put-upon" -3
+"used" -3
+"victimised" -3
+"argus-eyed" 3
+"open-eyed" 3
+"wakeful" 3
+"nauseating" -3
+"nauseous" -3
+"noisome" -3
+"offensive" -3
+"queasy" -3
+"sickening" -3
+"assault" -2
+"desecrate" -2
+"despoil" -2
+"plunder" -2
+"profane" -2
+"rape" -2
+"ravish" -2
+"profaned" -2
+"ferocity" -3
+"fierceness" -3
+"force" -3
+"furiousness" -3
+"vehemence" -3
+"wildness" -3
+"crimson" -3
+"tearing" -3
+"trigger-happy" -3
+"vehement" -3
+"pure" 2
+"vestal" 2
+"virgin" 2
+"virginal" 2
+"deadly" -2
+"imagination" 1
+"imaginativeness" 1
+"sight" 1
+"visual modality" 1
+"visual sensation" 1
+"visual sense" 1
+"airy" 3
+"impractical" 3
+"Laputan" 3
+"windy" 3
+"illusionist" 3
+"seer" 3
+"animation" 3
+"elan vital" 3
+"energy" 3
+"life force" 3
+"verve" 3
+"vim" 3
+"vital force" 3
+"acerb" -3
+"acerbic" -3
+"acid" -3
+"acrid" -3
+"blistering" -3
+"caustic" -3
+"corrosive" -3
+"erosive" -3
+"mordant" -3
+"sulfurous" -3
+"sulphurous" -3
+"virulent" -3
+"blatant" -1
+"clamant" -1
+"clamorous" -1
+"strident" -1
+"exposure" -2
+"jerk-off" -3
+"tosser" -3
+"require" 1
+"deficiency" 1
+"deprivation" 1
+"lack" 1
+"neediness" 1
+"privation" 1
+"state of war" -2
+"affectionate" 1
+"fond" 1
+"lovesome" 1
+"quick" 1
+"tender" 1
+"warmly" 1
+"warm up" 1
+"heat" 2
+"passion" 2
+"admonitory" -3
+"cautionary" -3
+"exemplary" -3
+"monitory" -3
+"warning(a)" -3
+"admonition" -3
+"monition" -3
+"word of advice" -3
+"godforsaken" -1
+"wild" -1
+"blow" -1
+"consume" -1
+"desolate" -1
+"devastate" -1
+"do in" -1
+"emaciate" -1
+"languish" -1
+"lay waste to" -1
+"liquidate" -1
+"macerate" -1
+"neutralise" -1
+"neutralize" -1
+"pine away" -1
+"ravage" -1
+"rot" -1
+"run off" -1
+"squander" -1
+"ware" -1
+"barren" -1
+"dissipation" -1
+"permissive waste" -1
+"thriftlessness" -1
+"wastefulness" -1
+"wasteland" -1
+"waste material" -1
+"waste matter" -1
+"waste product" -1
+"atrophied" -2
+"bony" -2
+"cadaverous" -2
+"emaciated" -2
+"gaunt" -2
+"haggard" -2
+"otiose" -2
+"pinched" -2
+"pointless" -2
+"purposeless" -2
+"skeletal" -2
+"squandered" -2
+"superfluous" -2
+"atrophy" -2
+"cachexia" -2
+"cachexy" -2
+"wasting away" -2
+"vacillant" -1
+"vacillating" -1
+"fluctuation" -1
+"hesitation" -1
+"vacillation" -1
+"light" -2
+"unaccented" -2
+"washy" -2
+"watery" -2
+"helplessness" -2
+"impuissance" -2
+"riches" 3
+"wealthiness" 3
+"affluent" 2
+"flush" 2
+"loaded" 2
+"moneyed" 2
+"aweary" -2
+"cernuous" -2
+"nodding" -2
+"pendulous" -2
+"eldritch" -2
+"uncanny" -2
+"unearthly" -2
+"Weird" -2
+"Wyrd" -2
+"receive" 2
+"capricious" 1
+"impulsive" 1
+"gloss over" -3
+"hush up" -3
+"sleek over" -3
+"bawd" -4
+"cocotte" -4
+"cyprian" -4
+"fancy woman" -4
+"harlot" -4
+"lady of pleasure" -4
+"prostitute" -4
+"sporting lady" -4
+"tart" -4
+"woman of the street" -4
+"working girl" -4
+"arch" -2
+"disgustful" -2
+"disgusting" -2
+"distasteful" -2
+"impish" -2
+"implike" -2
+"loathly" -2
+"loathsome" -2
+"mischievous" -2
+"pixilated" -2
+"prankish" -2
+"puckish" -2
+"repellant" -2
+"repellent" -2
+"repelling" -2
+"revolting" -2
+"sinful" -2
+"skanky" -2
+"unholy" -2
+"acquire" 4
+"advance" 4
+"bring home the bacon" 4
+"come through" 4
+"deliver the goods" 4
+"gain" 4
+"gain ground" 4
+"get ahead" 4
+"make headway" 4
+"pull ahead" 4
+"succeed" 4
+"profits" 4
+"winnings" 4
+"achiever" 4
+"succeeder" 4
+"success" 4
+"victor" 4
+"fetching" 4
+"taking" 4
+"care" 1
+"like" 1
+"wish well" 1
+"compliments" 1
+"indirect request" 1
+"regard" 1
+"backdown" -3
+"climb-down" -3
+"coitus interruptus" -3
+"detachment" -3
+"drug withdrawal" -3
+"onanism" -3
+"pulling out" -3
+"secession" -3
+"withdrawal method" -3
+"creaky" -2
+"flea-bitten" -2
+"run-down" -2
+"woeful" -2
+"woebegone" -3
+"North Korean won" 3
+"South Korean won" 3
+"court" 3
+"romance" 3
+"solicit" 3
+"careworn" -1
+"drawn" -1
+"haggard" -1
+"raddled" -1
+"apprehensive" -3
+"disquieted" -3
+"distressed" -3
+"upset" -3
+"care" -3
+"concern" -3
+"interest" -3
+"occupy" -3
+"headache" -3
+"trouble" -3
+"vexation" -3
+"distressful" -3
+"distressing" -3
+"disturbing" -3
+"perturbing" -3
+"troubling" -3
+"worrisome" -3
+"badgering" -3
+"bedevilment" -3
+"aggravate" -3
+"decline" -3
+"exacerbate" -3
+"exasperate" -3
+"declension" -3
+"decline in quality" -3
+"deterioration" -3
+"mop up" -3
+"pip" -3
+"rack up" -3
+"whip" -3
+"deserving" 2
+"worth(p)" 2
+"Charles Frederick Worth" 2
+"Worth" 2
+"belly laugh" 4
+"howler" 4
+"riot" 4
+"scream" 4
+"sidesplitter" 4
+"thigh-slapper" 4
+"wroth" -3
+"wrothful" -3
+"bust up" -2
+"wrack" -2
+"shipwreck" -2
+"amiss(p)" -2
+"awry(p)" -2
+"faulty" -2
+"haywire" -2
+"ill-timed" -2
+"improper" -2
+"incorrect" -2
+"unseasonable" -2
+"untimely" -2
+"wrong(p)" -2
+"incorrectly" -2
+"wrongly" -2
+"legal injury" -2
+"wrongfulness" -2
+"yea" 1
+"hungriness" 1
+"longing" 1
+"vernal" 2
+"young" 2
+"delectable" 3
+"delicious" 3
+"luscious" 3
+"pleasant-tasting" 3
+"scrumptious" 3
+"toothsome" 3
+"drumbeater" -2
+"partisan" -2
+"Zealot" -2
